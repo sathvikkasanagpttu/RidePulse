@@ -1,0 +1,37 @@
+{% extends "base.html" %}
+{% block title %}RidePulse · Analytics{% endblock %}
+{% block head %}<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>{% endblock %}
+{% block content %}
+<main class="page-shell dashboard-shell">
+    <div class="dashboard-heading">
+        <div><span class="eyebrow">OPERATIONS ANALYTICS</span><h1>Ride activity at a glance</h1><p>Explore historical demand patterns across the RidePulse dataset.</p></div>
+        <span class="data-source">Data source · {{ data_source }}</span>
+    </div>
+
+    <section class="kpi-grid">
+        <article class="kpi-card"><span>Total rides</span><strong>{{ "{:,}".format(metrics.total_rides) }}</strong><small>Recorded trip rows</small></article>
+        <article class="kpi-card"><span>Locations</span><strong>{{ metrics.total_locations }}</strong><small>Unique starting points</small></article>
+        <article class="kpi-card"><span>Avg. distance</span><strong>{{ metrics.avg_miles }}<em> mi</em></strong><small>Per recorded ride</small></article>
+        <article class="kpi-card"><span>Avg. duration</span><strong>{{ metrics.avg_duration }}<em> min</em></strong><small>Per recorded ride</small></article>
+    </section>
+
+    <section class="insight-strip"><div><span>Peak recorded hour</span><strong>{{ metrics.peak_hour }}</strong></div><div><span>Most active day</span><strong>{{ metrics.peak_day }}</strong></div><div><span>Prediction engine</span><strong>Random Forest</strong></div></section>
+
+    <section class="chart-grid">
+        <article class="chart-card wide"><div class="chart-title"><div><span class="section-kicker">TIME PATTERN</span><h2>Hourly ride demand</h2></div><span>24-hour view</span></div><div class="chart-wrap"><canvas id="hourlyChart"></canvas></div></article>
+        <article class="chart-card"><div class="chart-title"><div><span class="section-kicker">WEEKLY PATTERN</span><h2>Demand by day</h2></div></div><div class="chart-wrap"><canvas id="dayChart"></canvas></div></article>
+        <article class="chart-card"><div class="chart-title"><div><span class="section-kicker">LOCATION</span><h2>Top starting points</h2></div></div><div class="chart-wrap"><canvas id="locationChart"></canvas></div></article>
+        <article class="chart-card wide"><div class="chart-title"><div><span class="section-kicker">TRIP MIX</span><h2>Rides by category</h2></div></div><div class="chart-wrap compact"><canvas id="categoryChart"></canvas></div></article>
+    </section>
+</main>
+{% endblock %}
+{% block scripts %}
+<script>
+const charts = {{ charts | tojson }};
+const chartDefaults = { responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false } } };
+new Chart(document.getElementById('hourlyChart'), { type: 'line', data: { labels: charts.hours, datasets: [{ data: charts.ride_counts, borderWidth: 3, tension: .35, fill: true }] }, options: { ...chartDefaults, scales: { y: { beginAtZero: true, grid: { color: '#edf0f3' } }, x: { grid: { display: false } } } } });
+new Chart(document.getElementById('dayChart'), { type: 'bar', data: { labels: charts.days, datasets: [{ data: charts.day_counts, borderRadius: 7 }] }, options: { ...chartDefaults, scales: { y: { beginAtZero: true, grid: { color: '#edf0f3' } }, x: { grid: { display: false } } } } });
+new Chart(document.getElementById('locationChart'), { type: 'bar', data: { labels: charts.locations, datasets: [{ data: charts.location_counts, borderRadius: 6 }] }, options: { ...chartDefaults, indexAxis: 'y', scales: { x: { beginAtZero: true, grid: { color: '#edf0f3' } }, y: { grid: { display: false } } } } });
+new Chart(document.getElementById('categoryChart'), { type: 'doughnut', data: { labels: charts.categories, datasets: [{ data: charts.category_counts, borderWidth: 4, borderColor: '#fff' }] }, options: { ...chartDefaults, plugins: { legend: { display: true, position: 'right' } }, cutout: '68%' } });
+</script>
+{% endblock %}

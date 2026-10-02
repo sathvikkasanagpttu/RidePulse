@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="RidePulse historical ride demand analytics and prediction platform.">
+    <title>{% block title %}RidePulse{% endblock %}</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    {% block head %}{% endblock %}
+</head>
+<body>
+    <nav class="nav-shell">
+        <a class="brand" href="{{ url_for('home') }}"><span class="brand-mark">RP</span><span>RidePulse</span></a>
+        <div class="nav-links">
+            <a href="{{ url_for('home') }}">Predict</a>
+            <a href="{{ url_for('dashboard') }}">Analytics</a>
+        </div>
+    </nav>
+
+    {% with messages = get_flashed_messages(with_categories=true) %}
+      {% if messages %}
+        <div class="flash-stack">
+          {% for category, message in messages %}
+            <div class="flash {{ category }}">{{ message }}</div>
+          {% endfor %}
+        </div>
+      {% endif %}
+    {% endwith %}
+
+    {% block content %}{% endblock %}
+
+    <footer class="footer">
+        <span>RidePulse · Historical ride intelligence</span>
+        <span>Built with Python · Flask · PostgreSQL · Scikit-learn</span>
+    </footer>
+    {% block scripts %}{% endblock %}
+</body>
+</html>

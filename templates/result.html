@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+{% block title %}RidePulse · Prediction{% endblock %}
+{% block content %}
+<main class="page-shell result-shell">
+    <div class="result-top"><a href="{{ url_for('home') }}" class="back-link">← New prediction</a><a href="{{ url_for('dashboard') }}" class="text-link">Open analytics →</a></div>
+    <section class="result-grid">
+        <div>
+            <span class="eyebrow">PREDICTION RESULT</span>
+            <h1>Historical demand estimate</h1>
+            <p class="lead">For <strong>{{ start }}</strong> on <strong>{{ day }}</strong> at <strong>{{ time }}</strong>.</p>
+        </div>
+        <div class="result-card {{ tone }}">
+            <span class="result-label">ESTIMATED RECORDED RIDES</span>
+            <div class="result-value">{{ raw_prediction }}</div>
+            <div class="demand-badge">{{ status }} DEMAND</div>
+            <p>{{ interpretation }}</p>
+        </div>
+    </section>
+    <section class="method-card">
+        <div><span class="section-kicker">HOW TO READ THIS</span><h2>A historical estimate, not a live forecast</h2></div>
+        <p>RidePulse uses the saved demand model trained on historical ride records. The result should be interpreted as an estimate of recorded demand for a similar location, hour, and weekday pattern.</p>
+    </section>
+</main>
+{% endblock %}

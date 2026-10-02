@@ -1,0 +1,1156 @@
+start,end,duration,miles,category,purpose,duration_minutes,month,day,hour_of_day,day_of_week,day_of_week_name,start_date,end_date,is_peak_hr,is_weekend
+Fort Pierce,Fort Pierce,0 days 00:06:00,5.1,Business,Meal/Entertain,6.0,1.0,1.0,21.0,4.0,Friday,2016-01-01,2016-01-01,0,0
+Fort Pierce,Fort Pierce,0 days 00:12:00,5.0,Business,,12.0,1.0,2.0,1.0,5.0,Saturday,2016-01-02,2016-01-02,0,1
+Fort Pierce,Fort Pierce,0 days 00:13:00,4.8,Business,Errand/Supplies,13.0,1.0,2.0,20.0,5.0,Saturday,2016-01-02,2016-01-02,0,1
+Fort Pierce,Fort Pierce,0 days 00:14:00,4.7,Business,Meeting,14.0,1.0,5.0,17.0,1.0,Tuesday,2016-01-05,2016-01-05,1,0
+Fort Pierce,West Palm Beach,0 days 01:07:00,63.7,Business,Customer Visit,67.0,1.0,6.0,14.0,2.0,Wednesday,2016-01-06,2016-01-06,0,0
+West Palm Beach,West Palm Beach,0 days 00:04:00,4.3,Business,Meal/Entertain,4.0,1.0,6.0,17.0,2.0,Wednesday,2016-01-06,2016-01-06,1,0
+West Palm Beach,Palm Beach,0 days 00:05:00,7.1,Business,Meeting,5.0,1.0,6.0,17.0,2.0,Wednesday,2016-01-06,2016-01-06,1,0
+Cary,Cary,0 days 00:06:00,0.8,Business,Meeting,6.0,1.0,7.0,13.0,3.0,Thursday,2016-01-07,2016-01-07,0,0
+Cary,Morrisville,0 days 00:20:00,8.3,Business,Meeting,20.0,1.0,10.0,8.0,6.0,Sunday,2016-01-10,2016-01-10,1,1
+Jamaica,New York,0 days 00:27:00,16.5,Business,Customer Visit,27.0,1.0,10.0,12.0,6.0,Sunday,2016-01-10,2016-01-10,0,1
+New York,Queens,0 days 00:43:00,10.8,Business,Meeting,43.0,1.0,10.0,15.0,6.0,Sunday,2016-01-10,2016-01-10,0,1
+Elmhurst,New York,0 days 00:35:00,7.5,Business,Meeting,35.0,1.0,10.0,18.0,6.0,Sunday,2016-01-10,2016-01-10,1,1
+Midtown,East Harlem,0 days 00:20:00,6.2,Business,Meeting,20.0,1.0,10.0,19.0,6.0,Sunday,2016-01-10,2016-01-10,1,1
+East Harlem,NoMad,0 days 00:26:00,6.4,Business,Temporary Site,26.0,1.0,11.0,8.0,0.0,Monday,2016-01-11,2016-01-11,1,0
+Flatiron District,Midtown,0 days 00:07:00,1.6,Business,Errand/Supplies,7.0,1.0,11.0,11.0,0.0,Monday,2016-01-11,2016-01-11,0,0
+Midtown,Midtown East,0 days 00:14:00,1.7,Business,Meal/Entertain,14.0,1.0,11.0,13.0,0.0,Monday,2016-01-11,2016-01-11,0,0
+Midtown East,Midtown,0 days 00:13:00,1.9,Business,Meal/Entertain,13.0,1.0,11.0,14.0,0.0,Monday,2016-01-11,2016-01-11,0,0
+Midtown,Hudson Square,0 days 00:16:00,1.9,Business,Meal/Entertain,16.0,1.0,12.0,12.0,1.0,Tuesday,2016-01-12,2016-01-12,0,0
+Hudson Square,Lower Manhattan,0 days 00:16:00,4.0,Business,Meal/Entertain,16.0,1.0,12.0,12.0,1.0,Tuesday,2016-01-12,2016-01-12,0,0
+Lower Manhattan,Hudson Square,0 days 00:14:00,1.8,Business,Errand/Supplies,14.0,1.0,12.0,14.0,1.0,Tuesday,2016-01-12,2016-01-12,0,0
+Hudson Square,Hell's Kitchen,0 days 00:15:00,2.4,Business,Customer Visit,15.0,1.0,12.0,15.0,1.0,Tuesday,2016-01-12,2016-01-12,0,0
+Hell's Kitchen,Midtown,0 days 00:12:00,2.0,Business,Errand/Supplies,12.0,1.0,12.0,15.0,1.0,Tuesday,2016-01-12,2016-01-12,0,0
+New York,Queens County,0 days 00:58:00,15.1,Business,Meeting,58.0,1.0,12.0,16.0,1.0,Tuesday,2016-01-12,2016-01-12,0,0
+Downtown,Gulfton,0 days 00:13:00,11.2,Business,Meeting,13.0,1.0,13.0,13.0,2.0,Wednesday,2016-01-13,2016-01-13,0,0
+Gulfton,Downtown,0 days 00:28:00,11.8,Business,Meeting,28.0,1.0,13.0,15.0,2.0,Wednesday,2016-01-13,2016-01-13,0,0
+Houston,Houston,0 days 00:36:00,21.9,Business,Customer Visit,36.0,1.0,14.0,16.0,3.0,Thursday,2016-01-14,2016-01-14,0,0
+Eagan Park,Jamestown Court,0 days 00:06:00,3.9,Business,Errand/Supplies,6.0,1.0,14.0,21.0,3.0,Thursday,2016-01-14,2016-01-14,0,0
+Morrisville,Cary,0 days 00:20:00,8.0,Business,Errand/Supplies,20.0,1.0,15.0,0.0,4.0,Friday,2016-01-15,2016-01-15,0,0
+Cary,Durham,0 days 00:20:00,10.4,Business,Meal/Entertain,20.0,1.0,15.0,11.0,4.0,Friday,2016-01-15,2016-01-15,0,0
+Durham,Cary,0 days 00:18:00,10.4,Business,Meal/Entertain,18.0,1.0,15.0,13.0,4.0,Friday,2016-01-15,2016-01-15,0,0
+Cary,Cary,0 days 00:11:00,4.8,Business,Meal/Entertain,11.0,1.0,18.0,14.0,0.0,Monday,2016-01-18,2016-01-18,0,0
+Farmington Woods,Whitebridge,0 days 00:11:00,4.7,Business,Meal/Entertain,11.0,1.0,18.0,16.0,0.0,Monday,2016-01-18,2016-01-18,0,0
+Whitebridge,Lake Wellingborough,0 days 00:14:00,7.2,Business,,14.0,1.0,19.0,9.0,1.0,Tuesday,2016-01-19,2016-01-19,1,0
+Lake Wellingborough,Whitebridge,0 days 00:14:00,7.6,Business,Temporary Site,14.0,1.0,19.0,10.0,1.0,Tuesday,2016-01-19,2016-01-19,0,0
+Cary,Raleigh,0 days 00:35:00,17.1,Business,Meeting,35.0,1.0,20.0,10.0,2.0,Wednesday,2016-01-20,2016-01-20,0,0
+Fayetteville Street,Umstead,0 days 00:31:00,15.1,Business,Meeting,31.0,1.0,20.0,11.0,2.0,Wednesday,2016-01-20,2016-01-20,0,0
+Raleigh,Cary,0 days 00:54:00,40.2,Business,Customer Visit,54.0,1.0,20.0,13.0,2.0,Wednesday,2016-01-20,2016-01-20,0,0
+Cary,Cary,0 days 00:04:00,1.6,Business,Errand/Supplies,4.0,1.0,21.0,14.0,3.0,Thursday,2016-01-21,2016-01-21,0,0
+Cary,Cary,0 days 00:08:00,2.4,Business,Meal/Entertain,8.0,1.0,21.0,14.0,3.0,Thursday,2016-01-21,2016-01-21,0,0
+Cary,Cary,0 days 00:05:00,1.0,Business,Meal/Entertain,5.0,1.0,21.0,16.0,3.0,Thursday,2016-01-21,2016-01-21,0,0
+Whitebridge,Hazelwood,0 days 00:09:00,2.0,Business,Meal/Entertain,9.0,1.0,26.0,10.0,1.0,Tuesday,2016-01-26,2016-01-26,0,0
+Hazelwood,Whitebridge,0 days 00:08:00,2.3,Business,Errand/Supplies,8.0,1.0,26.0,12.0,1.0,Tuesday,2016-01-26,2016-01-26,0,0
+Whitebridge,Westpark Place,0 days 00:08:00,1.9,Business,Errand/Supplies,8.0,1.0,26.0,16.0,1.0,Tuesday,2016-01-26,2016-01-26,0,0
+Cary,Cary,0 days 00:05:00,1.4,Business,Errand/Supplies,5.0,1.0,26.0,17.0,1.0,Tuesday,2016-01-26,2016-01-26,1,0
+Cary,Cary,0 days 00:02:00,0.5,Business,Errand/Supplies,2.0,1.0,26.0,17.0,1.0,Tuesday,2016-01-26,2016-01-26,1,0
+Cary,Cary,0 days 00:07:00,1.8,Business,Meeting,7.0,1.0,27.0,9.0,2.0,Wednesday,2016-01-27,2016-01-27,1,0
+Cary,Raleigh,0 days 00:29:00,18.7,Business,Customer Visit,29.0,1.0,27.0,10.0,2.0,Wednesday,2016-01-27,2016-01-27,0,0
+Fairmont,Meredith Townes,0 days 00:10:00,3.4,Business,Customer Visit,10.0,1.0,27.0,12.0,2.0,Wednesday,2016-01-27,2016-01-27,0,0
+Raleigh,Raleigh,0 days 00:08:00,2.7,Business,Customer Visit,8.0,1.0,27.0,14.0,2.0,Wednesday,2016-01-27,2016-01-27,0,0
+Raleigh,Cary,0 days 00:22:00,12.9,Business,Customer Visit,22.0,1.0,27.0,14.0,2.0,Wednesday,2016-01-27,2016-01-27,0,0
+Cary,Raleigh,0 days 00:32:00,19.0,Business,Temporary Site,32.0,1.0,28.0,12.0,3.0,Thursday,2016-01-28,2016-01-28,0,0
+Meredith Townes,Leesville Hollow,0 days 00:20:00,14.7,Business,Meeting,20.0,1.0,28.0,15.0,3.0,Thursday,2016-01-28,2016-01-28,0,0
+Raleigh,Cary,0 days 00:30:00,15.7,Business,Meeting,30.0,1.0,28.0,16.0,3.0,Thursday,2016-01-28,2016-01-28,0,0
+Cary,Cary,0 days 00:14:00,4.6,Business,Customer Visit,14.0,1.0,29.0,9.0,4.0,Friday,2016-01-29,2016-01-29,1,0
+Cary,Cary,0 days 00:11:00,5.2,Business,Meeting,11.0,1.0,29.0,10.0,4.0,Friday,2016-01-29,2016-01-29,0,0
+Cary,Durham,0 days 00:20:00,10.4,Business,Meeting,20.0,1.0,29.0,11.0,4.0,Friday,2016-01-29,2016-01-29,0,0
+Durham,Cary,0 days 00:23:00,10.1,Business,Meeting,23.0,1.0,29.0,13.0,4.0,Friday,2016-01-29,2016-01-29,0,0
+Cary,Apex,0 days 00:21:00,5.8,Business,Errand/Supplies,21.0,1.0,29.0,18.0,4.0,Friday,2016-01-29,2016-01-29,1,0
+Apex,Cary,0 days 00:19:00,5.5,Business,Meal/Entertain,19.0,1.0,29.0,21.0,4.0,Friday,2016-01-29,2016-01-29,0,0
+Cary,Apex,0 days 00:12:00,5.7,Business,Errand/Supplies,12.0,1.0,30.0,16.0,5.0,Saturday,2016-01-30,2016-01-30,0,1
+Apex,Cary,0 days 00:15:00,5.7,Business,Customer Visit,15.0,1.0,30.0,18.0,5.0,Saturday,2016-01-30,2016-01-30,1,1
+Cary,Chapel Hill,0 days 00:40:00,19.4,Business,Customer Visit,40.0,2.0,1.0,10.0,0.0,Monday,2016-02-01,2016-02-01,0,0
+Chapel Hill,Cary,0 days 00:33:00,23.3,Business,Customer Visit,33.0,2.0,1.0,12.0,0.0,Monday,2016-02-01,2016-02-01,0,0
+Northwoods,Whitebridge,0 days 00:11:00,3.9,Business,Meal/Entertain,11.0,2.0,1.0,12.0,0.0,Monday,2016-02-01,2016-02-01,0,0
+Whitebridge,Williamsburg Manor,0 days 00:19:00,8.3,Business,Meeting,19.0,2.0,2.0,13.0,1.0,Tuesday,2016-02-02,2016-02-02,0,0
+Cary,Cary,0 days 00:15:00,6.0,Business,Errand/Supplies,15.0,2.0,2.0,13.0,1.0,Tuesday,2016-02-02,2016-02-02,0,0
+Cary,Cary,0 days 00:04:00,1.6,Business,Errand/Supplies,4.0,2.0,2.0,14.0,1.0,Tuesday,2016-02-02,2016-02-02,0,0
+Cary,Morrisville,0 days 00:21:00,5.2,Business,Errand/Supplies,21.0,2.0,4.0,8.0,3.0,Thursday,2016-02-04,2016-02-04,1,0
+Morrisville,Cary,0 days 00:32:00,9.7,Business,Meal/Entertain,32.0,2.0,4.0,9.0,3.0,Thursday,2016-02-04,2016-02-04,1,0
+Cary,Cary,0 days 00:06:00,1.6,Business,Meal/Entertain,6.0,2.0,4.0,10.0,3.0,Thursday,2016-02-04,2016-02-04,0,0
+Cary,Cary,0 days 00:04:00,1.1,Business,Meal/Entertain,4.0,2.0,4.0,15.0,3.0,Thursday,2016-02-04,2016-02-04,0,0
+Cary,Cary,0 days 00:04:00,1.6,Business,Meal/Entertain,4.0,2.0,4.0,16.0,3.0,Thursday,2016-02-04,2016-02-04,0,0
+Whitebridge,Macgregor Downs,0 days 00:27:00,9.0,Business,Meeting,27.0,2.0,4.0,18.0,3.0,Thursday,2016-02-04,2016-02-04,1,0
+Cary,Cary,0 days 00:19:00,7.7,Business,Meeting,19.0,2.0,4.0,20.0,3.0,Thursday,2016-02-04,2016-02-04,0,0
+Cary,Durham,0 days 00:20:00,10.4,Business,Meeting,20.0,2.0,5.0,11.0,4.0,Friday,2016-02-05,2016-02-05,0,0
+Durham,Cary,0 days 00:19:00,10.4,Business,Meeting,19.0,2.0,5.0,13.0,4.0,Friday,2016-02-05,2016-02-05,0,0
+Cary,Raleigh,0 days 00:33:00,11.4,Business,Between Offices,33.0,2.0,6.0,16.0,5.0,Saturday,2016-02-06,2016-02-06,0,1
+Raleigh,Cary,0 days 00:24:00,9.0,Business,Errand/Supplies,24.0,2.0,6.0,18.0,5.0,Saturday,2016-02-06,2016-02-06,1,1
+Edgehill Farms,Whitebridge,0 days 00:09:00,3.2,Business,Meal/Entertain,9.0,2.0,6.0,19.0,5.0,Saturday,2016-02-06,2016-02-06,1,1
+Cary,Apex,0 days 00:12:00,5.6,Business,Errand/Supplies,12.0,2.0,7.0,16.0,6.0,Sunday,2016-02-07,2016-02-07,0,1
+Apex,Cary,0 days 00:14:00,5.7,Business,Customer Visit,14.0,2.0,7.0,18.0,6.0,Sunday,2016-02-07,2016-02-07,1,1
+Cary,Morrisville,0 days 00:14:00,6.1,Business,Temporary Site,14.0,2.0,7.0,18.0,6.0,Sunday,2016-02-07,2016-02-07,1,1
+Morrisville,Cary,0 days 00:18:00,6.1,Business,Meeting,18.0,2.0,7.0,20.0,6.0,Sunday,2016-02-07,2016-02-07,0,1
+Whitebridge,Edgehill Farms,0 days 00:11:00,4.3,Business,Meal/Entertain,11.0,2.0,8.0,12.0,0.0,Monday,2016-02-08,2016-02-08,0,0
+Edgehill Farms,Whitebridge,0 days 00:10:00,2.7,Business,Meal/Entertain,10.0,2.0,8.0,14.0,0.0,Monday,2016-02-08,2016-02-08,0,0
+Whitebridge,Northwoods,0 days 00:13:00,5.3,Personal,,13.0,2.0,9.0,10.0,1.0,Tuesday,2016-02-09,2016-02-09,0,0
+Northwoods,Tanglewood,0 days 00:07:00,3.0,Personal,,7.0,2.0,9.0,11.0,1.0,Tuesday,2016-02-09,2016-02-09,0,0
+Tanglewood,Preston,0 days 00:16:00,5.1,Personal,,16.0,2.0,9.0,13.0,1.0,Tuesday,2016-02-09,2016-02-09,0,0
+Preston,Whitebridge,0 days 00:04:00,1.5,Personal,,4.0,2.0,9.0,13.0,1.0,Tuesday,2016-02-09,2016-02-09,0,0
+Cary,Morrisville,0 days 00:16:00,6.1,Business,,16.0,2.0,9.0,18.0,1.0,Tuesday,2016-02-09,2016-02-09,1,0
+Morrisville,Cary,0 days 00:16:00,6.1,Business,Meal/Entertain,16.0,2.0,9.0,20.0,1.0,Tuesday,2016-02-09,2016-02-09,0,0
+Cary,Raleigh,0 days 00:42:00,17.3,Business,Meal/Entertain,42.0,2.0,11.0,16.0,3.0,Thursday,2016-02-11,2016-02-11,0,0
+Eastgate,Walnut Terrace,0 days 00:21:00,5.7,Business,Meal/Entertain,21.0,2.0,11.0,17.0,3.0,Thursday,2016-02-11,2016-02-11,1,0
+Raleigh,Morrisville,0 days 00:22:00,13.5,Business,Temporary Site,22.0,2.0,11.0,18.0,3.0,Thursday,2016-02-11,2016-02-11,1,0
+Morrisville,Cary,0 days 00:15:00,6.1,Business,Temporary Site,15.0,2.0,11.0,20.0,3.0,Thursday,2016-02-11,2016-02-11,0,0
+Cary,Durham,0 days 00:21:00,8.5,Business,Temporary Site,21.0,2.0,12.0,8.0,4.0,Friday,2016-02-12,2016-02-12,1,0
+Durham,Morrisville,0 days 00:07:00,2.6,Business,Temporary Site,7.0,2.0,12.0,10.0,4.0,Friday,2016-02-12,2016-02-12,0,0
+Morrisville,Raleigh,0 days 00:21:00,17.0,Business,Customer Visit,21.0,2.0,12.0,11.0,4.0,Friday,2016-02-12,2016-02-12,0,0
+Raleigh,Cary,0 days 00:34:00,18.0,Business,Meeting,34.0,2.0,12.0,13.0,4.0,Friday,2016-02-12,2016-02-12,0,0
+Cary,Morrisville,0 days 00:17:00,8.4,Business,Meeting,17.0,2.0,12.0,14.0,4.0,Friday,2016-02-12,2016-02-12,0,0
+Morrisville,Cary,0 days 00:33:00,11.5,Business,Customer Visit,33.0,2.0,12.0,15.0,4.0,Friday,2016-02-12,2016-02-12,0,0
+Cary,Morrisville,0 days 00:20:00,8.9,Business,Meeting,20.0,2.0,13.0,14.0,5.0,Saturday,2016-02-13,2016-02-13,0,1
+East Elmhurst,Jackson Heights,0 days 00:16:00,2.7,Personal,,16.0,2.0,13.0,23.0,5.0,Saturday,2016-02-13,2016-02-14,0,1
+Jackson Heights,East Elmhurst,0 days 00:10:00,1.8,Personal,,10.0,2.0,14.0,0.0,6.0,Sunday,2016-02-14,2016-02-14,0,1
+East Elmhurst,New York,0 days 00:33:00,8.1,Business,Meeting,33.0,2.0,14.0,14.0,6.0,Sunday,2016-02-14,2016-02-14,0,1
+Midtown,Midtown West,0 days 00:17:00,2.0,Business,Meeting,17.0,2.0,14.0,14.0,6.0,Sunday,2016-02-14,2016-02-14,0,1
+New York,Long Island City,0 days 00:27:00,13.0,Business,Meeting,27.0,2.0,14.0,16.0,6.0,Sunday,2016-02-14,2016-02-14,0,1
+Long Island City,Jamaica,0 days 00:23:00,13.9,Business,Meeting,23.0,2.0,14.0,17.0,6.0,Sunday,2016-02-14,2016-02-14,1,1
+Katunayaka,Unknown Location,0 days 00:52:00,43.7,Business,Customer Visit,52.0,2.0,16.0,3.0,1.0,Tuesday,2016-02-16,2016-02-16,0,0
+Unknown Location,Colombo,0 days 01:05:00,14.1,Business,,65.0,2.0,16.0,8.0,1.0,Tuesday,2016-02-16,2016-02-16,1,0
+Colombo,Colombo,0 days 00:10:00,2.6,Business,,10.0,2.0,16.0,10.0,1.0,Tuesday,2016-02-16,2016-02-16,0,0
+Colombo,Colombo,0 days 00:30:00,4.5,Business,,30.0,2.0,16.0,11.0,1.0,Tuesday,2016-02-16,2016-02-16,0,0
+Colombo,Colombo,0 days 00:03:00,1.7,Business,,3.0,2.0,16.0,12.0,1.0,Tuesday,2016-02-16,2016-02-16,0,0
+Colombo,Colombo,0 days 00:12:00,1.8,Business,Temporary Site,12.0,2.0,16.0,13.0,1.0,Tuesday,2016-02-16,2016-02-16,0,0
+Colombo,Colombo,0 days 00:36:00,6.0,Business,,36.0,2.0,16.0,16.0,1.0,Tuesday,2016-02-16,2016-02-16,0,0
+Colombo,Nugegoda,0 days 00:09:00,1.1,Business,Meal/Entertain,9.0,2.0,16.0,17.0,1.0,Tuesday,2016-02-16,2016-02-16,1,0
+Nugegoda,Unknown Location,0 days 00:04:00,3.6,Business,Errand/Supplies,4.0,2.0,16.0,17.0,1.0,Tuesday,2016-02-16,2016-02-16,1,0
+Unknown Location,Colombo,0 days 00:46:00,14.7,Business,Temporary Site,46.0,2.0,17.0,13.0,2.0,Wednesday,2016-02-17,2016-02-17,0,0
+Colombo,Colombo,0 days 00:05:00,1.7,Business,Meal/Entertain,5.0,2.0,17.0,15.0,2.0,Wednesday,2016-02-17,2016-02-17,0,0
+Colombo,Katunayaka,0 days 00:44:00,21.4,Business,Temporary Site,44.0,2.0,17.0,15.0,2.0,Wednesday,2016-02-17,2016-02-17,0,0
+Katunayaka,Katunayaka,0 days 00:05:00,0.5,Business,Errand/Supplies,5.0,2.0,17.0,16.0,2.0,Wednesday,2016-02-17,2016-02-17,0,0
+Unknown Location,Unknown Location,0 days 00:08:00,23.5,Business,Temporary Site,8.0,2.0,18.0,8.0,3.0,Thursday,2016-02-18,2016-02-18,1,0
+Unknown Location,Islamabad,0 days 00:42:00,12.7,Business,Temporary Site,42.0,2.0,18.0,14.0,3.0,Thursday,2016-02-18,2016-02-18,0,0
+Islamabad,Unknown Location,0 days 00:15:00,6.0,Business,Temporary Site,15.0,2.0,18.0,15.0,3.0,Thursday,2016-02-18,2016-02-18,0,0
+Unknown Location,Islamabad,0 days 00:14:00,5.2,Business,Customer Visit,14.0,2.0,18.0,18.0,3.0,Thursday,2016-02-18,2016-02-18,1,0
+Islamabad,Unknown Location,0 days 00:41:00,10.0,Business,Meeting,41.0,2.0,18.0,19.0,3.0,Thursday,2016-02-18,2016-02-18,1,0
+Unknown Location,Unknown Location,0 days 00:12:00,18.3,Business,Meeting,12.0,2.0,19.0,9.0,4.0,Friday,2016-02-19,2016-02-19,1,0
+Unknown Location,Unknown Location,0 days 00:30:00,11.2,Business,Meeting,30.0,2.0,19.0,9.0,4.0,Friday,2016-02-19,2016-02-19,1,0
+Unknown Location,Islamabad,0 days 00:27:00,7.6,Business,Meeting,27.0,2.0,19.0,10.0,4.0,Friday,2016-02-19,2016-02-19,0,0
+Islamabad,Islamabad,0 days 00:06:00,1.5,Personal,,6.0,2.0,19.0,11.0,4.0,Friday,2016-02-19,2016-02-19,0,0
+Islamabad,Islamabad,0 days 00:05:00,1.0,Personal,,5.0,2.0,19.0,11.0,4.0,Friday,2016-02-19,2016-02-19,0,0
+Islamabad,Unknown Location,0 days 00:18:00,7.3,Business,Temporary Site,18.0,2.0,19.0,12.0,4.0,Friday,2016-02-19,2016-02-19,0,0
+Unknown Location,Islamabad,0 days 00:19:00,3.5,Business,,19.0,2.0,19.0,16.0,4.0,Friday,2016-02-19,2016-02-19,0,0
+Islamabad,Islamabad,0 days 00:11:00,4.2,Business,,11.0,2.0,19.0,17.0,4.0,Friday,2016-02-19,2016-02-19,1,0
+Islamabad,Unknown Location,0 days 00:22:00,13.6,Personal,,22.0,2.0,19.0,20.0,4.0,Friday,2016-02-19,2016-02-19,0,0
+Unknown Location,Unknown Location,0 days 00:17:00,2.5,Personal,,17.0,2.0,19.0,20.0,4.0,Friday,2016-02-19,2016-02-19,0,0
+Unknown Location,Islamabad,0 days 00:33:00,14.4,Personal,,33.0,2.0,20.0,7.0,5.0,Saturday,2016-02-20,2016-02-20,1,1
+Islamabad,Islamabad,0 days 00:08:00,3.0,Personal,,8.0,2.0,20.0,10.0,5.0,Saturday,2016-02-20,2016-02-20,0,1
+Islamabad,Islamabad,0 days 00:08:00,1.5,Personal,,8.0,2.0,20.0,11.0,5.0,Saturday,2016-02-20,2016-02-20,0,1
+Islamabad,R?walpindi,0 days 00:36:00,18.4,Business,,36.0,2.0,20.0,12.0,5.0,Saturday,2016-02-20,2016-02-20,0,1
+R?walpindi,R?walpindi,0 days 01:04:00,23.1,Business,Meeting,64.0,2.0,20.0,14.0,5.0,Saturday,2016-02-20,2016-02-20,0,1
+R?walpindi,Unknown Location,0 days 00:55:00,16.5,Personal,,55.0,2.0,20.0,16.0,5.0,Saturday,2016-02-20,2016-02-20,0,1
+Unknown Location,Unknown Location,0 days 00:03:00,3.2,Business,Errand/Supplies,3.0,2.0,20.0,18.0,5.0,Saturday,2016-02-20,2016-02-20,1,1
+Unknown Location,Unknown Location,0 days 00:21:00,7.7,Business,Errand/Supplies,21.0,2.0,20.0,19.0,5.0,Saturday,2016-02-20,2016-02-20,1,1
+Unknown Location,Islamabad,0 days 00:39:00,14.5,Business,,39.0,2.0,21.0,9.0,6.0,Sunday,2016-02-21,2016-02-21,1,1
+Unknown Location,Islamabad,0 days 00:04:00,2.4,Business,Errand/Supplies,4.0,2.0,21.0,11.0,6.0,Sunday,2016-02-21,2016-02-21,0,1
+Islamabad,Islamabad,0 days 00:14:00,4.6,Business,Errand/Supplies,14.0,2.0,21.0,11.0,6.0,Sunday,2016-02-21,2016-02-21,0,1
+Islamabad,Unknown Location,0 days 00:22:00,8.8,Business,Meal/Entertain,22.0,2.0,21.0,12.0,6.0,Sunday,2016-02-21,2016-02-21,0,1
+Unknown Location,Unknown Location,0 days 00:21:00,8.3,Business,Temporary Site,21.0,2.0,21.0,12.0,6.0,Sunday,2016-02-21,2016-02-21,0,1
+Unknown Location,Unknown Location,0 days 00:57:00,22.7,Business,Temporary Site,57.0,2.0,21.0,13.0,6.0,Sunday,2016-02-21,2016-02-21,0,1
+Unknown Location,Islamabad,0 days 00:27:00,13.0,Business,Temporary Site,27.0,2.0,21.0,14.0,6.0,Sunday,2016-02-21,2016-02-21,0,1
+Islamabad,Noorpur Shahan,0 days 00:17:00,8.1,Business,Temporary Site,17.0,2.0,21.0,15.0,6.0,Sunday,2016-02-21,2016-02-21,0,1
+Noorpur Shahan,Unknown Location,0 days 00:05:00,2.2,Business,Meal/Entertain,5.0,2.0,21.0,15.0,6.0,Sunday,2016-02-21,2016-02-21,0,1
+Unknown Location,Unknown Location,0 days 00:28:00,9.7,Business,,28.0,2.0,21.0,16.0,6.0,Sunday,2016-02-21,2016-02-21,0,1
+Unknown Location,R?walpindi,0 days 00:37:00,20.0,Business,Meeting,37.0,2.0,21.0,23.0,6.0,Sunday,2016-02-21,2016-02-21,0,1
+Morrisville,Cary,0 days 00:15:00,8.1,Business,Customer Visit,15.0,2.0,22.0,21.0,0.0,Monday,2016-02-22,2016-02-22,0,0
+Whitebridge,Preston,0 days 00:05:00,1.5,Business,,5.0,2.0,24.0,14.0,2.0,Wednesday,2016-02-24,2016-02-24,0,0
+Preston,Whitebridge,0 days 00:06:00,1.7,Business,Errand/Supplies,6.0,2.0,24.0,15.0,2.0,Wednesday,2016-02-24,2016-02-24,0,0
+Whitebridge,Heritage Pines,0 days 00:08:00,3.1,Business,Errand/Supplies,8.0,2.0,25.0,16.0,3.0,Thursday,2016-02-25,2016-02-25,0,0
+Heritage Pines,Whitebridge,0 days 00:15:00,3.2,Business,Errand/Supplies,15.0,2.0,25.0,16.0,3.0,Thursday,2016-02-25,2016-02-25,0,0
+Whitebridge,Tanglewood,0 days 00:20:00,6.0,Business,Meal/Entertain,20.0,2.0,25.0,17.0,3.0,Thursday,2016-02-25,2016-02-25,1,0
+Tanglewood,Whitebridge,0 days 00:17:00,5.8,Business,Meal/Entertain,17.0,2.0,25.0,18.0,3.0,Thursday,2016-02-25,2016-02-25,1,0
+Whitebridge,Westpark Place,0 days 00:23:00,6.3,Business,,23.0,2.0,26.0,9.0,4.0,Friday,2016-02-26,2016-02-26,1,0
+Westpark Place,Whitebridge,0 days 00:06:00,1.7,Personal,,6.0,2.0,26.0,11.0,4.0,Friday,2016-02-26,2016-02-26,0,0
+Cary,Durham,0 days 00:24:00,10.6,Business,Meeting,24.0,2.0,26.0,11.0,4.0,Friday,2016-02-26,2016-02-26,0,0
+Durham,Cary,0 days 00:23:00,9.9,Business,Meeting,23.0,2.0,26.0,13.0,4.0,Friday,2016-02-26,2016-02-26,0,0
+Whitebridge,Westpark Place,0 days 00:08:00,1.9,Personal,,8.0,2.0,26.0,14.0,4.0,Friday,2016-02-26,2016-02-26,0,0
+Westpark Place,Hazelwood,0 days 00:18:00,4.2,Personal,,18.0,2.0,26.0,15.0,4.0,Friday,2016-02-26,2016-02-26,0,0
+Hazelwood,Whitebridge,0 days 00:11:00,2.0,Personal,,11.0,2.0,26.0,17.0,4.0,Friday,2016-02-26,2016-02-26,1,0
+Whitebridge,Waverly Place,0 days 00:16:00,7.7,Business,Meeting,16.0,2.0,28.0,5.0,6.0,Sunday,2016-02-28,2016-02-28,0,1
+Waverly Place,Whitebridge,0 days 00:16:00,6.8,Business,Meeting,16.0,2.0,28.0,9.0,6.0,Sunday,2016-02-28,2016-02-28,1,1
+Whitebridge,Westpark Place,0 days 00:07:00,2.1,Personal,,7.0,2.0,29.0,11.0,0.0,Monday,2016-02-29,2016-02-29,0,0
+Cary,Apex,0 days 00:10:00,3.8,Business,Meeting,10.0,2.0,29.0,11.0,0.0,Monday,2016-02-29,2016-02-29,0,0
+Apex,Cary,0 days 00:12:00,5.6,Business,Meeting,12.0,2.0,29.0,12.0,0.0,Monday,2016-02-29,2016-02-29,0,0
+Whitebridge,Hazelwood,0 days 00:08:00,2.6,Business,,8.0,2.0,29.0,14.0,0.0,Monday,2016-02-29,2016-02-29,0,0
+Hazelwood,Whitebridge,0 days 00:20:00,6.6,Business,Customer Visit,20.0,2.0,29.0,16.0,0.0,Monday,2016-02-29,2016-02-29,0,0
+Whitebridge,Wayne Ridge,0 days 00:23:00,8.0,Business,Meal/Entertain,23.0,3.0,1.0,18.0,1.0,Tuesday,2016-03-01,2016-03-01,1,0
+Wayne Ridge,Whitebridge,0 days 00:18:00,8.0,Business,Meeting,18.0,3.0,1.0,21.0,1.0,Tuesday,2016-03-01,2016-03-01,0,0
+Whitebridge,Westpark Place,0 days 00:07:00,2.2,Personal,,7.0,3.0,3.0,9.0,3.0,Thursday,2016-03-03,2016-03-03,1,0
+Westpark Place,Whitebridge,0 days 00:06:00,2.3,Business,Errand/Supplies,6.0,3.0,3.0,11.0,3.0,Thursday,2016-03-03,2016-03-03,0,0
+Whitebridge,Northwoods,0 days 00:14:00,5.2,Business,Meal/Entertain,14.0,3.0,3.0,14.0,3.0,Thursday,2016-03-03,2016-03-03,0,0
+Cary,Raleigh,0 days 00:21:00,7.6,Business,Customer Visit,21.0,3.0,3.0,15.0,3.0,Thursday,2016-03-03,2016-03-03,0,0
+Raleigh,Cary,0 days 00:40:00,17.3,Business,Meeting,40.0,3.0,3.0,16.0,3.0,Thursday,2016-03-03,2016-03-03,0,0
+Cary,Durham,0 days 00:19:00,9.9,Business,Meeting,19.0,3.0,4.0,7.0,4.0,Friday,2016-03-04,2016-03-04,1,0
+Durham,Cary,0 days 00:17:00,9.9,Business,Customer Visit,17.0,3.0,4.0,9.0,4.0,Friday,2016-03-04,2016-03-04,1,0
+Cary,Durham,0 days 00:20:00,10.4,Business,Meeting,20.0,3.0,4.0,11.0,4.0,Friday,2016-03-04,2016-03-04,0,0
+Durham,Cary,0 days 00:22:00,10.9,Business,Meeting,22.0,3.0,4.0,13.0,4.0,Friday,2016-03-04,2016-03-04,0,0
+Cary,Raleigh,0 days 00:29:00,15.7,Business,Customer Visit,29.0,3.0,4.0,13.0,4.0,Friday,2016-03-04,2016-03-04,0,0
+Raleigh,Raleigh,0 days 00:12:00,4.9,Business,Meal/Entertain,12.0,3.0,4.0,15.0,4.0,Friday,2016-03-04,2016-03-04,0,0
+Fayetteville Street,Depot Historic District,0 days 00:06:00,0.8,Business,Errand/Supplies,6.0,3.0,4.0,16.0,4.0,Friday,2016-03-04,2016-03-04,0,0
+Raleigh,Cary,0 days 00:29:00,13.5,Business,Meeting,29.0,3.0,4.0,16.0,4.0,Friday,2016-03-04,2016-03-04,0,0
+Cary,Morrisville,0 days 00:06:00,1.9,Business,Temporary Site,6.0,3.0,4.0,19.0,4.0,Friday,2016-03-04,2016-03-04,1,0
+Morrisville,Cary,0 days 00:09:00,2.0,Business,Meal/Entertain,9.0,3.0,4.0,19.0,4.0,Friday,2016-03-04,2016-03-04,1,0
+Cary,Morrisville,0 days 00:15:00,6.5,Business,Meal/Entertain,15.0,3.0,5.0,11.0,5.0,Saturday,2016-03-05,2016-03-05,0,1
+Weston,Weston,0 days 00:15:00,4.2,Personal,,15.0,3.0,5.0,12.0,5.0,Saturday,2016-03-05,2016-03-05,0,1
+Morrisville,Cary,0 days 00:10:00,3.5,Personal,,10.0,3.0,5.0,14.0,5.0,Saturday,2016-03-05,2016-03-05,0,1
+Whitebridge,Wayne Ridge,0 days 00:22:00,7.8,Business,Meal/Entertain,22.0,3.0,5.0,14.0,5.0,Saturday,2016-03-05,2016-03-05,0,1
+Cary,Morrisville,0 days 00:21:00,7.8,Business,Meal/Entertain,21.0,3.0,5.0,16.0,5.0,Saturday,2016-03-05,2016-03-05,0,1
+Morrisville,Cary,0 days 00:11:00,3.9,Business,Meal/Entertain,11.0,3.0,5.0,17.0,5.0,Saturday,2016-03-05,2016-03-05,1,1
+Whitebridge,Edgehill Farms,0 days 00:10:00,2.8,Business,Errand/Supplies,10.0,3.0,7.0,9.0,0.0,Monday,2016-03-07,2016-03-07,1,0
+Cary,Raleigh,0 days 00:24:00,12.4,Business,Customer Visit,24.0,3.0,7.0,9.0,0.0,Monday,2016-03-07,2016-03-07,1,0
+Fayetteville Street,Meredith Townes,0 days 00:16:00,5.9,Business,Customer Visit,16.0,3.0,7.0,12.0,0.0,Monday,2016-03-07,2016-03-07,0,0
+Meredith Townes,Leesville Hollow,0 days 00:21:00,9.4,Business,Meeting,21.0,3.0,7.0,13.0,0.0,Monday,2016-03-07,2016-03-07,0,0
+Raleigh,Cary,0 days 00:26:00,11.9,Business,Between Offices,26.0,3.0,7.0,15.0,0.0,Monday,2016-03-07,2016-03-07,0,0
+Whitebridge,Waverly Place,0 days 00:17:00,7.2,Business,Between Offices,17.0,3.0,8.0,14.0,1.0,Tuesday,2016-03-08,2016-03-08,0,0
+Waverly Place,Whitebridge,0 days 00:25:00,7.6,Business,Meal/Entertain,25.0,3.0,8.0,15.0,1.0,Tuesday,2016-03-08,2016-03-08,0,0
+Whitebridge,Whitebridge,0 days 00:12:00,1.6,Personal,,12.0,3.0,8.0,16.0,1.0,Tuesday,2016-03-08,2016-03-08,0,0
+Cary,Morrisville,0 days 00:17:00,8.4,Business,Meeting,17.0,3.0,10.0,3.0,3.0,Thursday,2016-03-10,2016-03-10,0,0
+East Austin,West University,0 days 00:29:00,12.8,Business,Meeting,29.0,3.0,10.0,10.0,3.0,Thursday,2016-03-10,2016-03-10,0,0
+West University,South Congress,0 days 00:16:00,2.3,Business,,16.0,3.0,10.0,14.0,3.0,Thursday,2016-03-10,2016-03-10,0,0
+South Congress,Arts District,0 days 00:10:00,1.6,Business,,10.0,3.0,10.0,16.0,3.0,Thursday,2016-03-10,2016-03-10,0,0
+The Drag,Congress Ave District,0 days 00:12:00,2.0,Business,Meal/Entertain,12.0,3.0,11.0,9.0,4.0,Friday,2016-03-11,2016-03-11,1,0
+Congress Ave District,Downtown,0 days 00:07:00,0.8,Business,,7.0,3.0,11.0,10.0,4.0,Friday,2016-03-11,2016-03-11,0,0
+Downtown,Red River District,0 days 00:07:00,1.2,Business,,7.0,3.0,11.0,11.0,4.0,Friday,2016-03-11,2016-03-11,0,0
+Red River District,Downtown,0 days 00:08:00,1.0,Business,,8.0,3.0,11.0,13.0,4.0,Friday,2016-03-11,2016-03-11,0,0
+South Congress,The Drag,0 days 00:14:00,2.1,Business,,14.0,3.0,11.0,19.0,4.0,Friday,2016-03-11,2016-03-11,1,0
+The Drag,South Congress,0 days 00:09:00,2.2,Business,,9.0,3.0,12.0,9.0,5.0,Saturday,2016-03-12,2016-03-12,1,1
+South Congress,The Drag,0 days 00:10:00,1.9,Personal,,10.0,3.0,12.0,18.0,5.0,Saturday,2016-03-12,2016-03-12,1,1
+The Drag,Convention Center District,0 days 00:30:00,5.7,Business,Meal/Entertain,30.0,3.0,13.0,9.0,6.0,Sunday,2016-03-13,2016-03-13,1,1
+South Congress,North Austin,0 days 00:20:00,8.4,Business,Meal/Entertain,20.0,3.0,13.0,18.0,6.0,Sunday,2016-03-13,2016-03-13,1,1
+Georgian Acres,The Drag,0 days 00:21:00,6.2,Business,Meal/Entertain,21.0,3.0,13.0,20.0,6.0,Sunday,2016-03-13,2016-03-13,0,1
+The Drag,North Austin,0 days 00:19:00,10.5,Business,Meal/Entertain,19.0,3.0,13.0,20.0,6.0,Sunday,2016-03-13,2016-03-13,0,1
+North Austin,Coxville,0 days 00:12:00,7.2,Business,Meal/Entertain,12.0,3.0,13.0,21.0,6.0,Sunday,2016-03-13,2016-03-13,0,1
+Coxville,The Drag,0 days 00:20:00,12.5,Business,,20.0,3.0,13.0,22.0,6.0,Sunday,2016-03-13,2016-03-13,0,1
+The Drag,South Congress,0 days 00:15:00,2.0,Business,Errand/Supplies,15.0,3.0,14.0,8.0,0.0,Monday,2016-03-14,2016-03-14,1,0
+South Congress,The Drag,0 days 00:16:00,2.7,Business,,16.0,3.0,14.0,18.0,0.0,Monday,2016-03-14,2016-03-14,1,0
+The Drag,Convention Center District,0 days 00:12:00,2.0,Business,Meal/Entertain,12.0,3.0,15.0,8.0,1.0,Tuesday,2016-03-15,2016-03-15,1,0
+Downtown,The Drag,0 days 00:13:00,2.8,Business,Meal/Entertain,13.0,3.0,15.0,20.0,1.0,Tuesday,2016-03-15,2016-03-15,0,0
+The Drag,Congress Ave District,0 days 00:11:00,1.7,Business,Meal/Entertain,11.0,3.0,16.0,11.0,2.0,Wednesday,2016-03-16,2016-03-16,0,0
+Convention Center District,West University,0 days 00:11:00,2.0,Business,,11.0,3.0,16.0,14.0,2.0,Wednesday,2016-03-16,2016-03-16,0,0
+West University,Congress Ave District,0 days 00:13:00,2.1,Business,Meal/Entertain,13.0,3.0,16.0,18.0,2.0,Wednesday,2016-03-16,2016-03-16,1,0
+Downtown,The Drag,0 days 00:11:00,1.7,Personal,,11.0,3.0,17.0,0.0,3.0,Thursday,2016-03-17,2016-03-17,0,0
+Austin,Katy,0 days 02:19:00,136.0,Business,Customer Visit,139.0,3.0,17.0,12.0,3.0,Thursday,2016-03-17,2016-03-17,0,0
+Katy,Houston,0 days 00:42:00,30.2,Business,Meeting,42.0,3.0,17.0,15.0,3.0,Thursday,2016-03-17,2016-03-17,0,0
+Midtown,Alief,0 days 00:42:00,15.5,Business,Meal/Entertain,42.0,3.0,17.0,17.0,3.0,Thursday,2016-03-17,2016-03-17,1,0
+Houston,Houston,0 days 00:22:00,4.9,Personal,,22.0,3.0,17.0,18.0,3.0,Thursday,2016-03-17,2016-03-17,1,0
+Houston,Houston,0 days 00:31:00,12.6,Personal,,31.0,3.0,17.0,20.0,3.0,Thursday,2016-03-17,2016-03-17,0,0
+Sharpstown,Midtown,0 days 00:16:00,10.4,Personal,,16.0,3.0,17.0,21.0,3.0,Thursday,2016-03-17,2016-03-17,0,0
+Midtown,Midtown,0 days 00:06:00,1.1,Business,Meal/Entertain,6.0,3.0,18.0,7.0,4.0,Friday,2016-03-18,2016-03-18,1,0
+Midtown,Midtown,0 days 00:08:00,1.1,Business,Meal/Entertain,8.0,3.0,18.0,8.0,4.0,Friday,2016-03-18,2016-03-18,1,0
+Midtown,Sharpstown,0 days 00:44:00,13.2,Business,Meeting,44.0,3.0,18.0,18.0,4.0,Friday,2016-03-18,2016-03-18,1,0
+Sharpstown,Sharpstown,0 days 00:06:00,1.0,Business,Errand/Supplies,6.0,3.0,18.0,19.0,4.0,Friday,2016-03-18,2016-03-18,1,0
+Sharpstown,Midtown,0 days 00:14:00,9.2,Business,Customer Visit,14.0,3.0,18.0,21.0,4.0,Friday,2016-03-18,2016-03-18,0,0
+Midtown,Sharpstown,0 days 00:15:00,9.4,Business,Meal/Entertain,15.0,3.0,19.0,9.0,5.0,Saturday,2016-03-19,2016-03-19,1,1
+Houston,Sugar Land,0 days 00:23:00,12.0,Business,Customer Visit,23.0,3.0,19.0,12.0,5.0,Saturday,2016-03-19,2016-03-19,0,1
+Sugar Land,Houston,0 days 00:56:00,35.1,Business,Customer Visit,56.0,3.0,19.0,14.0,5.0,Saturday,2016-03-19,2016-03-19,0,1
+Houston,Galveston,0 days 01:04:00,36.5,Business,Meal/Entertain,64.0,3.0,19.0,15.0,5.0,Saturday,2016-03-19,2016-03-19,0,1
+Galveston,Port Bolivar,0 days 00:15:00,3.1,Business,Meal/Entertain,15.0,3.0,19.0,17.0,5.0,Saturday,2016-03-19,2016-03-19,1,1
+Port Bolivar,Port Bolivar,0 days 00:10:00,2.1,Business,Errand/Supplies,10.0,3.0,19.0,17.0,5.0,Saturday,2016-03-19,2016-03-19,1,1
+Port Bolivar,Port Bolivar,0 days 00:08:00,1.2,Business,,8.0,3.0,19.0,17.0,5.0,Saturday,2016-03-19,2016-03-19,1,1
+Port Bolivar,Galveston,0 days 00:36:00,7.5,Business,Meeting,36.0,3.0,19.0,18.0,5.0,Saturday,2016-03-19,2016-03-19,1,1
+Galveston,Houston,0 days 01:06:00,57.0,Business,Customer Visit,66.0,3.0,19.0,19.0,5.0,Saturday,2016-03-19,2016-03-19,1,1
+Midtown,Washington Avenue,0 days 00:11:00,5.9,Business,Meeting,11.0,3.0,20.0,7.0,6.0,Sunday,2016-03-20,2016-03-20,1,1
+Washington Avenue,Midtown,0 days 00:14:00,6.2,Business,Meeting,14.0,3.0,20.0,11.0,6.0,Sunday,2016-03-20,2016-03-20,0,1
+Midtown,Sharpstown,0 days 00:26:00,10.4,Business,,26.0,3.0,20.0,17.0,6.0,Sunday,2016-03-20,2016-03-20,1,1
+Sharpstown,Briar Meadow,0 days 00:06:00,1.2,Personal,,6.0,3.0,20.0,18.0,6.0,Sunday,2016-03-20,2016-03-20,1,1
+Briar Meadow,Midtown,0 days 00:21:00,9.6,Business,Customer Visit,21.0,3.0,20.0,18.0,6.0,Sunday,2016-03-20,2016-03-20,1,1
+Midtown,Downtown,0 days 00:05:00,1.0,Personal,,5.0,3.0,21.0,10.0,0.0,Monday,2016-03-21,2016-03-21,0,0
+Downtown,Midtown,0 days 00:08:00,0.9,Business,Meal/Entertain,8.0,3.0,21.0,16.0,0.0,Monday,2016-03-21,2016-03-21,0,0
+Midtown,Sharpstown,0 days 00:16:00,8.8,Business,,16.0,3.0,21.0,18.0,0.0,Monday,2016-03-21,2016-03-21,1,0
+Sharpstown,Midtown,0 days 00:37:00,25.6,Business,Meal/Entertain,37.0,3.0,21.0,20.0,0.0,Monday,2016-03-21,2016-03-21,0,0
+Midtown,Greater Greenspoint,0 days 00:26:00,23.0,Business,Meal/Entertain,26.0,3.0,22.0,6.0,1.0,Tuesday,2016-03-22,2016-03-22,0,0
+Morrisville,Cary,0 days 00:18:00,8.1,Personal,,18.0,3.0,22.0,12.0,1.0,Tuesday,2016-03-22,2016-03-22,0,0
+Whitebridge,Whitebridge,0 days 00:13:00,1.4,Personal,,13.0,3.0,22.0,19.0,1.0,Tuesday,2016-03-22,2016-03-22,1,0
+Whitebridge,Preston,0 days 00:05:00,1.7,Personal,,5.0,3.0,23.0,14.0,2.0,Wednesday,2016-03-23,2016-03-23,0,0
+Preston,Whitebridge,0 days 00:06:00,1.6,Personal,,6.0,3.0,23.0,14.0,2.0,Wednesday,2016-03-23,2016-03-23,0,0
+Whitebridge,Westpark Place,0 days 00:07:00,2.0,Personal,,7.0,3.0,24.0,19.0,3.0,Thursday,2016-03-24,2016-03-24,1,0
+Westpark Place,Whitebridge,0 days 00:06:00,2.2,Business,,6.0,3.0,24.0,20.0,3.0,Thursday,2016-03-24,2016-03-24,0,0
+Cary,Latta,0 days 02:58:00,144.0,Business,Customer Visit,178.0,3.0,25.0,13.0,4.0,Friday,2016-03-25,2016-03-25,0,0
+Latta,Jacksonville,0 days 05:30:00,310.3,Business,Customer Visit,330.0,3.0,25.0,16.0,4.0,Friday,2016-03-25,2016-03-25,0,0
+Jacksonville,Kissimmee,0 days 02:45:00,201.0,Business,Meeting,165.0,3.0,25.0,22.0,4.0,Friday,2016-03-25,2016-03-26,0,0
+Couples Glen,Isles of Buena Vista,0 days 00:24:00,6.7,Personal,,24.0,3.0,26.0,14.0,5.0,Saturday,2016-03-26,2016-03-26,0,1
+Kissimmee,Orlando,0 days 00:30:00,8.8,Personal,,30.0,3.0,26.0,15.0,5.0,Saturday,2016-03-26,2016-03-26,0,1
+Lake Reams,Lake Reams,0 days 00:04:00,1.2,Personal,,4.0,3.0,26.0,16.0,5.0,Saturday,2016-03-26,2016-03-26,0,1
+Lake Reams,Lake Reams,0 days 00:09:00,2.1,Business,Errand/Supplies,9.0,3.0,27.0,0.0,6.0,Sunday,2016-03-27,2016-03-27,0,1
+Orlando,Kissimmee,0 days 00:12:00,6.6,Business,Meal/Entertain,12.0,3.0,27.0,1.0,6.0,Sunday,2016-03-27,2016-03-27,0,1
+Kissimmee,Orlando,0 days 00:25:00,6.1,Business,Customer Visit,25.0,3.0,27.0,15.0,6.0,Sunday,2016-03-27,2016-03-27,0,1
+Orlando,Orlando,0 days 00:15:00,6.9,Personal,,15.0,3.0,27.0,21.0,6.0,Sunday,2016-03-27,2016-03-27,0,1
+Orlando,Kissimmee,0 days 00:14:00,7.3,Personal,,14.0,3.0,27.0,23.0,6.0,Sunday,2016-03-27,2016-03-27,0,1
+Kissimmee,Orlando,0 days 00:13:00,3.6,Personal,,13.0,3.0,28.0,12.0,0.0,Monday,2016-03-28,2016-03-28,0,0
+Couples Glen,Vista East,0 days 00:53:00,27.2,Personal,,53.0,3.0,28.0,19.0,0.0,Monday,2016-03-28,2016-03-28,1,0
+Orlando,Kissimmee,0 days 00:31:00,25.7,Personal,,31.0,3.0,28.0,22.0,0.0,Monday,2016-03-28,2016-03-28,0,0
+Kissimmee,Orlando,0 days 00:44:00,13.6,Personal,,44.0,3.0,29.0,15.0,1.0,Tuesday,2016-03-29,2016-03-29,0,0
+Sand Lake Commons,Sky Lake,0 days 00:19:00,6.2,Personal,,19.0,3.0,29.0,18.0,1.0,Tuesday,2016-03-29,2016-03-29,1,0
+Sky Lake,Sand Lake Commons,0 days 00:15:00,6.0,Personal,,15.0,3.0,29.0,20.0,1.0,Tuesday,2016-03-29,2016-03-29,0,0
+Orlando,Kissimmee,0 days 00:17:00,13.8,Personal,,17.0,3.0,29.0,23.0,1.0,Tuesday,2016-03-29,2016-03-29,0,0
+Orlando,Kissimmee,0 days 00:50:00,28.8,Business,Meal/Entertain,50.0,3.0,30.0,22.0,2.0,Wednesday,2016-03-30,2016-03-30,0,0
+Kissimmee,Orlando,0 days 00:35:00,16.1,Business,Temporary Site,35.0,3.0,31.0,12.0,3.0,Thursday,2016-03-31,2016-03-31,0,0
+Orlando,Kissimmee,0 days 00:32:00,16.4,Business,Meal/Entertain,32.0,3.0,31.0,14.0,3.0,Thursday,2016-03-31,2016-03-31,0,0
+Kissimmee,Kissimmee,0 days 00:18:00,11.0,Business,Meeting,18.0,4.0,1.0,13.0,4.0,Friday,2016-04-01,2016-04-01,0,0
+Kissimmee,Orlando,0 days 00:48:00,15.5,Business,Customer Visit,48.0,4.0,1.0,14.0,4.0,Friday,2016-04-01,2016-04-01,0,0
+Orlando,Kissimmee,0 days 00:48:00,20.3,Business,Meeting,48.0,4.0,1.0,16.0,4.0,Friday,2016-04-01,2016-04-01,0,0
+Kissimmee,Kissimmee,0 days 00:05:00,0.7,Personal,,5.0,4.0,1.0,16.0,4.0,Friday,2016-04-01,2016-04-01,0,0
+Kissimmee,Kissimmee,0 days 00:16:00,5.5,Personal,,16.0,4.0,2.0,8.0,5.0,Saturday,2016-04-02,2016-04-02,1,1
+Kissimmee,Kissimmee,0 days 00:15:00,5.1,Personal,,15.0,4.0,2.0,11.0,5.0,Saturday,2016-04-02,2016-04-02,0,1
+Kissimmee,Daytona Beach,0 days 02:26:00,77.3,Business,Customer Visit,146.0,4.0,2.0,12.0,5.0,Saturday,2016-04-02,2016-04-02,0,1
+Daytona Beach,Jacksonville,0 days 01:12:00,80.5,Business,Customer Visit,72.0,4.0,2.0,16.0,5.0,Saturday,2016-04-02,2016-04-02,0,1
+Jacksonville,Ridgeland,0 days 02:58:00,174.2,Business,Customer Visit,178.0,4.0,2.0,19.0,5.0,Saturday,2016-04-02,2016-04-02,1,1
+Ridgeland,Florence,0 days 02:23:00,144.0,Business,Meeting,143.0,4.0,2.0,23.0,5.0,Saturday,2016-04-02,2016-04-03,0,1
+Florence,Cary,0 days 02:16:00,159.3,Business,Meeting,136.0,4.0,3.0,2.0,6.0,Sunday,2016-04-03,2016-04-03,0,1
+Whitebridge,Wayne Ridge,0 days 00:16:00,7.9,Business,Meal/Entertain,16.0,4.0,5.0,21.0,1.0,Tuesday,2016-04-05,2016-04-05,0,0
+Wayne Ridge,Whitebridge,0 days 00:20:00,8.0,Business,Meal/Entertain,20.0,4.0,6.0,0.0,2.0,Wednesday,2016-04-06,2016-04-06,0,0
+Cary,Morrisville,0 days 00:19:00,6.1,Business,Meal/Entertain,19.0,4.0,7.0,18.0,3.0,Thursday,2016-04-07,2016-04-07,1,0
+Morrisville,Cary,0 days 00:15:00,6.1,Business,Errand/Supplies,15.0,4.0,7.0,19.0,3.0,Thursday,2016-04-07,2016-04-07,1,0
+Cary,Durham,0 days 00:18:00,10.5,Business,Meeting,18.0,4.0,8.0,12.0,4.0,Friday,2016-04-08,2016-04-08,0,0
+Durham,Cary,0 days 00:17:00,8.7,Business,Meal/Entertain,17.0,4.0,8.0,13.0,4.0,Friday,2016-04-08,2016-04-08,0,0
+Westpark Place,Whitebridge,0 days 00:08:00,1.8,Business,Errand/Supplies,8.0,4.0,8.0,13.0,4.0,Friday,2016-04-08,2016-04-08,0,0
+Cary,Raleigh,0 days 00:37:00,19.1,Business,Meeting,37.0,4.0,8.0,14.0,4.0,Friday,2016-04-08,2016-04-08,0,0
+Raleigh,Cary,0 days 00:42:00,18.6,Business,Meeting,42.0,4.0,8.0,16.0,4.0,Friday,2016-04-08,2016-04-08,0,0
+Whitebridge,Edgehill Farms,0 days 00:11:00,2.8,Business,Errand/Supplies,11.0,4.0,12.0,9.0,1.0,Tuesday,2016-04-12,2016-04-12,1,0
+Cary,Raleigh,0 days 00:19:00,8.9,Business,Meeting,19.0,4.0,12.0,9.0,1.0,Tuesday,2016-04-12,2016-04-12,1,0
+Meredith,Cedar Hill,0 days 00:20:00,7.5,Business,Customer Visit,20.0,4.0,12.0,10.0,1.0,Tuesday,2016-04-12,2016-04-12,0,0
+Raleigh,Morrisville,0 days 00:22:00,15.9,Business,Meeting,22.0,4.0,12.0,12.0,1.0,Tuesday,2016-04-12,2016-04-12,0,0
+Morrisville,Cary,0 days 00:19:00,6.5,Business,Meal/Entertain,19.0,4.0,12.0,13.0,1.0,Tuesday,2016-04-12,2016-04-12,0,0
+Cary,Holly Springs,0 days 00:40:00,15.3,Business,Temporary Site,40.0,4.0,14.0,7.0,3.0,Thursday,2016-04-14,2016-04-14,1,0
+Holly Springs,Cary,0 days 00:43:00,13.7,Business,Temporary Site,43.0,4.0,14.0,16.0,3.0,Thursday,2016-04-14,2016-04-14,0,0
+Cary,Raleigh,0 days 00:31:00,11.9,Business,Temporary Site,31.0,4.0,15.0,11.0,4.0,Friday,2016-04-15,2016-04-15,0,0
+Meredith Townes,Harden Place,0 days 00:03:00,1.4,Business,Errand/Supplies,3.0,4.0,15.0,12.0,4.0,Friday,2016-04-15,2016-04-15,0,0
+Raleigh,Cary,0 days 00:30:00,15.2,Business,Meeting,30.0,4.0,15.0,14.0,4.0,Friday,2016-04-15,2016-04-15,0,0
+Cary,Morrisville,0 days 00:18:00,6.0,Business,Errand/Supplies,18.0,4.0,16.0,12.0,5.0,Saturday,2016-04-16,2016-04-16,0,1
+Morrisville,Cary,0 days 00:16:00,6.1,Business,Meal/Entertain,16.0,4.0,16.0,15.0,5.0,Saturday,2016-04-16,2016-04-16,0,1
+Whitebridge,Wayne Ridge,0 days 00:24:00,8.2,Business,Meal/Entertain,24.0,4.0,19.0,17.0,1.0,Tuesday,2016-04-19,2016-04-19,1,0
+Wayne Ridge,Whitebridge,0 days 00:22:00,8.0,Business,Meal/Entertain,22.0,4.0,19.0,19.0,1.0,Tuesday,2016-04-19,2016-04-19,1,0
+Cary,Raleigh,0 days 00:39:00,13.6,Business,Meeting,39.0,4.0,22.0,8.0,4.0,Friday,2016-04-22,2016-04-22,1,0
+Raleigh,Cary,0 days 00:30:00,22.5,Business,Meeting,30.0,4.0,22.0,10.0,4.0,Friday,2016-04-22,2016-04-22,0,0
+Cary,Durham,0 days 00:20:00,10.4,Business,Meeting,20.0,4.0,22.0,12.0,4.0,Friday,2016-04-22,2016-04-22,0,0
+Durham,Cary,0 days 00:24:00,10.0,Business,Meeting,24.0,4.0,22.0,13.0,4.0,Friday,2016-04-22,2016-04-22,0,0
+Whitebridge,Tanglewood,0 days 00:13:00,6.0,Business,Meal/Entertain,13.0,4.0,23.0,17.0,5.0,Saturday,2016-04-23,2016-04-23,1,1
+Tanglewood,Whitebridge,0 days 00:16:00,6.5,Business,Meal/Entertain,16.0,4.0,23.0,18.0,5.0,Saturday,2016-04-23,2016-04-23,1,1
+Cary,Morrisville,0 days 00:09:00,3.1,Business,Errand/Supplies,9.0,4.0,24.0,19.0,6.0,Sunday,2016-04-24,2016-04-24,1,1
+Chessington,Chessington,0 days 00:06:00,1.9,Business,Errand/Supplies,6.0,4.0,24.0,19.0,6.0,Sunday,2016-04-24,2016-04-24,1,1
+Morrisville,Cary,0 days 00:09:00,4.2,Business,Between Offices,9.0,4.0,24.0,21.0,6.0,Sunday,2016-04-24,2016-04-24,0,1
+Whitebridge,Burtrose,0 days 00:10:00,4.9,Business,Between Offices,10.0,4.0,27.0,13.0,2.0,Wednesday,2016-04-27,2016-04-27,0,0
+Burtrose,Whitebridge,0 days 00:12:00,4.8,Business,Between Offices,12.0,4.0,27.0,14.0,2.0,Wednesday,2016-04-27,2016-04-27,0,0
+Cary,Raleigh,0 days 00:25:00,12.4,Business,Customer Visit,25.0,4.0,28.0,12.0,3.0,Thursday,2016-04-28,2016-04-28,0,0
+Raleigh,Cary,0 days 00:19:00,32.8,Business,Customer Visit,19.0,4.0,28.0,13.0,3.0,Thursday,2016-04-28,2016-04-28,0,0
+Morrisville,Cary,0 days 00:18:00,5.5,Business,Customer Visit,18.0,4.0,28.0,22.0,3.0,Thursday,2016-04-28,2016-04-28,0,0
+Cary,Durham,0 days 00:17:00,9.9,Business,Meeting,17.0,4.0,29.0,11.0,4.0,Friday,2016-04-29,2016-04-29,0,0
+Durham,Cary,0 days 00:21:00,10.0,Business,Meeting,21.0,4.0,29.0,13.0,4.0,Friday,2016-04-29,2016-04-29,0,0
+Cary,Durham,0 days 00:32:00,14.2,Business,Customer Visit,32.0,4.0,29.0,18.0,4.0,Friday,2016-04-29,2016-04-29,1,0
+Durham,Cary,0 days 00:35:00,18.2,Business,Meeting,35.0,4.0,29.0,22.0,4.0,Friday,2016-04-29,2016-04-29,0,0
+Whitebridge,Waverly Place,0 days 00:15:00,7.7,Business,Meal/Entertain,15.0,4.0,30.0,18.0,5.0,Saturday,2016-04-30,2016-04-30,1,1
+Waverly Place,Whitebridge,0 days 00:18:00,6.8,Business,,18.0,4.0,30.0,22.0,5.0,Saturday,2016-04-30,2016-04-30,0,1
+Whitebridge,Westpark Place,0 days 00:08:00,2.1,Business,Meal/Entertain,8.0,5.0,1.0,13.0,6.0,Sunday,2016-05-01,2016-05-01,0,1
+Westpark Place,Whitebridge,0 days 00:05:00,2.3,Business,,5.0,5.0,1.0,14.0,6.0,Sunday,2016-05-01,2016-05-01,0,1
+Whitebridge,Tanglewood,0 days 00:12:00,6.2,Business,Between Offices,12.0,5.0,1.0,17.0,6.0,Sunday,2016-05-01,2016-05-01,1,1
+Tanglewood,Parkway,0 days 00:16:00,7.5,Business,Meeting,16.0,5.0,1.0,17.0,6.0,Sunday,2016-05-01,2016-05-01,1,1
+Parkway,Whitebridge,0 days 00:11:00,3.1,Business,Errand/Supplies,11.0,5.0,1.0,22.0,6.0,Sunday,2016-05-01,2016-05-01,0,1
+Whitebridge,Westpark Place,0 days 00:07:00,2.2,Business,Errand/Supplies,7.0,5.0,2.0,14.0,0.0,Monday,2016-05-02,2016-05-02,0,0
+Westpark Place,Whitebridge,0 days 00:11:00,3.9,Business,Meal/Entertain,11.0,5.0,2.0,15.0,0.0,Monday,2016-05-02,2016-05-02,0,0
+Morrisville,Cary,0 days 00:08:00,2.5,Business,Meal/Entertain,8.0,5.0,3.0,22.0,1.0,Tuesday,2016-05-03,2016-05-03,0,0
+Cary,Morrisville,0 days 00:21:00,8.7,Business,Meal/Entertain,21.0,5.0,4.0,15.0,2.0,Wednesday,2016-05-04,2016-05-04,0,0
+Mcvan,Capitol One,0 days 00:19:00,14.5,Business,Errand/Supplies,19.0,5.0,4.0,20.0,2.0,Wednesday,2016-05-04,2016-05-04,0,0
+Capitol One,University District,0 days 00:06:00,4.5,Business,Meal/Entertain,6.0,5.0,4.0,21.0,2.0,Wednesday,2016-05-04,2016-05-04,0,0
+University District,Capitol One,0 days 00:08:00,5.0,Business,Meal/Entertain,8.0,5.0,4.0,22.0,2.0,Wednesday,2016-05-04,2016-05-04,0,0
+Seattle,Redmond,0 days 00:12:00,14.2,Business,Meal/Entertain,12.0,5.0,5.0,21.0,3.0,Thursday,2016-05-05,2016-05-05,0,0
+Redmond,Bellevue,0 days 00:06:00,2.9,Business,Errand/Supplies,6.0,5.0,5.0,22.0,3.0,Thursday,2016-05-05,2016-05-05,0,0
+Bellevue,Seattle,0 days 00:13:00,12.9,Business,Meeting,13.0,5.0,5.0,23.0,3.0,Thursday,2016-05-05,2016-05-06,0,0
+Capitol One,Mcvan,0 days 00:15:00,14.4,Business,Meeting,15.0,5.0,6.0,5.0,4.0,Friday,2016-05-06,2016-05-06,0,0
+Chapel Hill,Morrisville,0 days 00:14:00,17.0,Business,Meeting,14.0,5.0,6.0,16.0,4.0,Friday,2016-05-06,2016-05-06,0,0
+Morrisville,Cary,0 days 00:26:00,7.9,Business,Customer Visit,26.0,5.0,6.0,17.0,4.0,Friday,2016-05-06,2016-05-06,1,0
+Cary,Morrisville,0 days 00:17:00,8.4,Business,Customer Visit,17.0,5.0,9.0,6.0,0.0,Monday,2016-05-09,2016-05-09,0,0
+San Francisco,Palo Alto,0 days 00:27:00,20.5,Business,Between Offices,27.0,5.0,9.0,14.0,0.0,Monday,2016-05-09,2016-05-09,0,0
+Palo Alto,Sunnyvale,0 days 00:28:00,9.8,Business,Customer Visit,28.0,5.0,9.0,17.0,0.0,Monday,2016-05-09,2016-05-09,1,0
+Sunnyvale,Newark,0 days 00:24:00,17.6,Business,Customer Visit,24.0,5.0,9.0,19.0,0.0,Monday,2016-05-09,2016-05-09,1,0
+Newark,Menlo Park,0 days 00:17:00,9.3,Business,Customer Visit,17.0,5.0,10.0,9.0,1.0,Tuesday,2016-05-10,2016-05-10,1,0
+Menlo Park,Newark,0 days 00:12:00,7.9,Business,Customer Visit,12.0,5.0,10.0,17.0,1.0,Tuesday,2016-05-10,2016-05-10,1,0
+Newark,San Francisco,0 days 00:37:00,25.6,Business,Meeting,37.0,5.0,11.0,8.0,2.0,Wednesday,2016-05-11,2016-05-11,1,0
+Morrisville,Cary,0 days 00:17:00,8.1,Business,Meeting,17.0,5.0,11.0,21.0,2.0,Wednesday,2016-05-11,2016-05-11,0,0
+Cary,Morrisville,0 days 00:04:00,3.1,Business,Meal/Entertain,4.0,5.0,14.0,18.0,5.0,Saturday,2016-05-14,2016-05-14,1,1
+Morrisville,Cary,0 days 00:04:00,3.1,Business,Meal/Entertain,4.0,5.0,14.0,23.0,5.0,Saturday,2016-05-14,2016-05-14,0,1
+Whitebridge,Preston,0 days 00:08:00,2.8,Business,Errand/Supplies,8.0,5.0,17.0,13.0,1.0,Tuesday,2016-05-17,2016-05-17,0,0
+Preston,Westpark Place,0 days 00:12:00,2.7,Business,Errand/Supplies,12.0,5.0,17.0,13.0,1.0,Tuesday,2016-05-17,2016-05-17,0,0
+Westpark Place,Whitebridge,0 days 00:06:00,1.9,Business,Errand/Supplies,6.0,5.0,17.0,14.0,1.0,Tuesday,2016-05-17,2016-05-17,0,0
+Cary,Morrisville,0 days 00:30:00,8.4,Business,Customer Visit,30.0,5.0,18.0,9.0,2.0,Wednesday,2016-05-18,2016-05-18,1,0
+Morrisville,Raleigh,0 days 00:02:00,7.6,Business,Customer Visit,2.0,5.0,18.0,13.0,2.0,Wednesday,2016-05-18,2016-05-18,0,0
+Old City,Parkway Museums,0 days 00:24:00,2.9,Business,Meal/Entertain,24.0,5.0,19.0,14.0,3.0,Thursday,2016-05-19,2016-05-19,0,0
+Old City,Hog Island,0 days 00:11:00,11.2,Business,Meeting,11.0,5.0,20.0,10.0,4.0,Friday,2016-05-20,2016-05-20,0,0
+Morrisville,Cary,0 days 00:29:00,8.2,Business,Meal/Entertain,29.0,5.0,20.0,15.0,4.0,Friday,2016-05-20,2016-05-20,0,0
+Cary,Morrisville,0 days 00:07:00,3.0,Business,Meal/Entertain,7.0,5.0,22.0,15.0,6.0,Sunday,2016-05-22,2016-05-22,0,1
+Morrisville,Cary,0 days 00:07:00,2.5,Business,Meal/Entertain,7.0,5.0,22.0,18.0,6.0,Sunday,2016-05-22,2016-05-22,1,1
+Whitebridge,Savon Height,0 days 00:08:00,3.6,Business,Meal/Entertain,8.0,5.0,23.0,20.0,0.0,Monday,2016-05-23,2016-05-23,0,0
+Savon Height,Whitebridge,0 days 00:12:00,3.6,Business,Errand/Supplies,12.0,5.0,23.0,21.0,0.0,Monday,2016-05-23,2016-05-23,0,0
+Whitebridge,Kildaire Farms,0 days 00:04:00,4.5,Business,Errand/Supplies,4.0,5.0,27.0,20.0,4.0,Friday,2016-05-27,2016-05-27,0,0
+Savon Height,Kilarney Woods,0 days 00:06:00,1.2,Business,,6.0,5.0,27.0,20.0,4.0,Friday,2016-05-27,2016-05-27,0,0
+Kilarney Woods,Kildaire Farms,0 days 00:03:00,1.7,Business,Errand/Supplies,3.0,5.0,27.0,22.0,4.0,Friday,2016-05-27,2016-05-27,0,0
+Kilarney Woods,Whitebridge,0 days 00:06:00,4.7,Business,Errand/Supplies,6.0,5.0,28.0,0.0,5.0,Saturday,2016-05-28,2016-05-28,0,1
+Cary,Morrisville,0 days 00:14:00,6.1,Business,Meal/Entertain,14.0,5.0,28.0,12.0,5.0,Saturday,2016-05-28,2016-05-28,0,1
+Morrisville,Cary,0 days 00:29:00,11.3,Business,Customer Visit,29.0,5.0,28.0,14.0,5.0,Saturday,2016-05-28,2016-05-28,0,1
+Cary,Raleigh,0 days 00:47:00,14.9,Business,Meeting,47.0,5.0,31.0,13.0,1.0,Tuesday,2016-05-31,2016-05-31,0,0
+Raleigh,Cary,0 days 00:37:00,14.0,Business,Meeting,37.0,5.0,31.0,16.0,1.0,Tuesday,2016-05-31,2016-05-31,0,0
+Westpark Place,Whitebridge,0 days 00:09:00,1.8,Business,,9.0,5.0,31.0,17.0,1.0,Tuesday,2016-05-31,2016-05-31,1,0
+Cary,Morrisville,0 days 00:28:00,6.7,Business,Customer Visit,28.0,6.0,1.0,10.0,2.0,Wednesday,2016-06-01,2016-06-01,0,0
+Morrisville,Cary,0 days 00:29:00,9.6,Business,Meeting,29.0,6.0,1.0,13.0,2.0,Wednesday,2016-06-01,2016-06-01,0,0
+Cary,Durham,0 days 00:20:00,10.4,Business,Meeting,20.0,6.0,3.0,11.0,4.0,Friday,2016-06-03,2016-06-03,0,0
+Durham,Cary,0 days 00:30:00,9.9,Business,Meeting,30.0,6.0,3.0,13.0,4.0,Friday,2016-06-03,2016-06-03,0,0
+Cary,Morrisville,0 days 00:23:00,6.0,Business,Meal/Entertain,23.0,6.0,3.0,15.0,4.0,Friday,2016-06-03,2016-06-03,0,0
+Townes at Everett Crossing,Chessington,0 days 00:15:00,3.3,Business,Errand/Supplies,15.0,6.0,3.0,18.0,4.0,Friday,2016-06-03,2016-06-03,1,0
+Morrisville,Cary,0 days 00:12:00,3.1,Business,Errand/Supplies,12.0,6.0,3.0,18.0,4.0,Friday,2016-06-03,2016-06-03,1,0
+Huntington Woods,Weston,0 days 00:06:00,1.7,Business,Errand/Supplies,6.0,6.0,3.0,19.0,4.0,Friday,2016-06-03,2016-06-03,1,0
+Morrisville,Cary,0 days 00:19:00,4.0,Business,Between Offices,19.0,6.0,3.0,22.0,4.0,Friday,2016-06-03,2016-06-03,0,0
+Whitebridge,Savon Height,0 days 00:30:00,7.8,Business,Customer Visit,30.0,6.0,5.0,14.0,6.0,Sunday,2016-06-05,2016-06-05,0,1
+Cary,Morrisville,0 days 00:16:00,7.8,Business,Customer Visit,16.0,6.0,5.0,15.0,6.0,Sunday,2016-06-05,2016-06-05,0,1
+Weston,Weston,0 days 00:11:00,3.8,Business,Meal/Entertain,11.0,6.0,5.0,15.0,6.0,Sunday,2016-06-05,2016-06-05,0,1
+Morrisville,Cary,0 days 00:09:00,2.5,Business,Meal/Entertain,9.0,6.0,5.0,18.0,6.0,Sunday,2016-06-05,2016-06-05,1,1
+Cary,Durham,0 days 00:12:00,9.9,Business,Meeting,12.0,6.0,5.0,21.0,6.0,Sunday,2016-06-05,2016-06-05,0,1
+Durham,Cary,0 days 00:16:00,9.9,Business,Meeting,16.0,6.0,5.0,23.0,6.0,Sunday,2016-06-05,2016-06-06,0,1
+Whitebridge,Hazelwood,0 days 00:09:00,3.0,Business,Errand/Supplies,9.0,6.0,6.0,15.0,0.0,Monday,2016-06-06,2016-06-06,0,0
+Hazelwood,Whitebridge,0 days 00:08:00,2.4,Business,Errand/Supplies,8.0,6.0,6.0,16.0,0.0,Monday,2016-06-06,2016-06-06,0,0
+Cary,Apex,0 days 00:14:00,5.7,Business,Meal/Entertain,14.0,6.0,6.0,20.0,0.0,Monday,2016-06-06,2016-06-06,0,0
+Apex,Cary,0 days 00:29:00,7.2,Business,Meal/Entertain,29.0,6.0,6.0,21.0,0.0,Monday,2016-06-06,2016-06-06,0,0
+Cary,Durham,0 days 00:19:00,10.4,Business,Meeting,19.0,6.0,6.0,21.0,0.0,Monday,2016-06-06,2016-06-06,0,0
+Durham,Cary,0 days 00:14:00,9.9,Business,Meeting,14.0,6.0,6.0,23.0,0.0,Monday,2016-06-06,2016-06-06,0,0
+Cary,Durham,0 days 00:18:00,10.4,Business,Meeting,18.0,6.0,7.0,21.0,1.0,Tuesday,2016-06-07,2016-06-07,0,0
+Durham,Cary,0 days 00:23:00,9.9,Business,Meeting,23.0,6.0,7.0,23.0,1.0,Tuesday,2016-06-07,2016-06-08,0,0
+Cary,Morrisville,0 days 00:30:00,8.7,Business,Meal/Entertain,30.0,6.0,8.0,8.0,2.0,Wednesday,2016-06-08,2016-06-08,1,0
+Jamaica,New York,0 days 00:57:00,22.3,Business,Errand/Supplies,57.0,6.0,8.0,12.0,2.0,Wednesday,2016-06-08,2016-06-08,0,0
+Seaport,Gramercy-Flatiron,0 days 00:17:00,3.3,Business,Meal/Entertain,17.0,6.0,8.0,13.0,2.0,Wednesday,2016-06-08,2016-06-08,0,0
+Medical Centre,Tudor City,0 days 00:06:00,0.7,Business,Errand/Supplies,6.0,6.0,8.0,14.0,2.0,Wednesday,2016-06-08,2016-06-08,0,0
+Rose Hill,Soho,0 days 00:16:00,2.5,Business,Meal/Entertain,16.0,6.0,8.0,16.0,2.0,Wednesday,2016-06-08,2016-06-08,0,0
+Soho,Tribeca,0 days 00:02:00,0.5,Business,Errand/Supplies,2.0,6.0,8.0,17.0,2.0,Wednesday,2016-06-08,2016-06-08,1,0
+Tribeca,Financial District,0 days 00:06:00,0.9,Business,Errand/Supplies,6.0,6.0,8.0,17.0,2.0,Wednesday,2016-06-08,2016-06-08,1,0
+Financial District,Kips Bay,0 days 00:14:00,4.8,Business,Errand/Supplies,14.0,6.0,8.0,20.0,2.0,Wednesday,2016-06-08,2016-06-08,0,0
+New York,Jamaica,0 days 01:09:00,16.3,Business,Meeting,69.0,6.0,10.0,15.0,4.0,Friday,2016-06-10,2016-06-10,0,0
+Cary,Durham,0 days 00:17:00,10.4,Business,Meeting,17.0,6.0,10.0,21.0,4.0,Friday,2016-06-10,2016-06-10,0,0
+Durham,Cary,0 days 00:08:00,9.9,Business,Meeting,8.0,6.0,10.0,23.0,4.0,Friday,2016-06-10,2016-06-11,0,0
+Cary,Morrisville,0 days 00:08:00,3.7,Business,Errand/Supplies,8.0,6.0,11.0,17.0,5.0,Saturday,2016-06-11,2016-06-11,1,1
+Morrisville,Cary,0 days 00:05:00,4.6,Business,Meal/Entertain,5.0,6.0,11.0,17.0,5.0,Saturday,2016-06-11,2016-06-11,1,1
+Westpark Place,Whitebridge,0 days 00:06:00,1.7,Business,,6.0,6.0,11.0,17.0,5.0,Saturday,2016-06-11,2016-06-11,1,1
+Cary,Durham,0 days 00:19:00,10.4,Business,Meeting,19.0,6.0,11.0,21.0,5.0,Saturday,2016-06-11,2016-06-11,0,1
+Durham,Cary,0 days 00:26:00,9.9,Business,Meeting,26.0,6.0,11.0,23.0,5.0,Saturday,2016-06-11,2016-06-12,0,1
+Cary,Morrisville,0 days 00:03:00,2.5,Business,Meal/Entertain,3.0,6.0,12.0,19.0,6.0,Sunday,2016-06-12,2016-06-12,1,1
+Morrisville,Cary,0 days 00:11:00,4.3,Business,Errand/Supplies,11.0,6.0,12.0,20.0,6.0,Sunday,2016-06-12,2016-06-12,0,1
+Parkway,Whitebridge,0 days 00:21:00,2.8,Business,Errand/Supplies,21.0,6.0,12.0,21.0,6.0,Sunday,2016-06-12,2016-06-12,0,1
+Cary,Morrisville,0 days 00:19:00,8.4,Business,Meal/Entertain,19.0,6.0,13.0,5.0,0.0,Monday,2016-06-13,2016-06-13,0,0
+Oakland,Emeryville,0 days 00:29:00,13.2,Business,Meeting,29.0,6.0,13.0,14.0,0.0,Monday,2016-06-13,2016-06-13,0,0
+Emeryville,Berkeley,0 days 00:39:00,3.9,Business,Meal/Entertain,39.0,6.0,13.0,18.0,0.0,Monday,2016-06-13,2016-06-13,1,0
+Berkeley,Oakland,0 days 00:29:00,5.1,Business,Meal/Entertain,29.0,6.0,13.0,18.0,0.0,Monday,2016-06-13,2016-06-13,1,0
+Oakland,Unknown Location,0 days 00:05:00,5.2,Business,Customer Visit,5.0,6.0,13.0,20.0,0.0,Monday,2016-06-13,2016-06-13,0,0
+Emeryville,San Francisco,0 days 00:18:00,9.8,Business,,18.0,6.0,14.0,12.0,1.0,Tuesday,2016-06-14,2016-06-14,0,0
+San Francisco,Emeryville,0 days 00:30:00,11.6,Business,Meeting,30.0,6.0,14.0,16.0,1.0,Tuesday,2016-06-14,2016-06-14,0,0
+Emeryville,Oakland,0 days 00:09:00,5.1,Business,Meeting,9.0,6.0,14.0,17.0,1.0,Tuesday,2016-06-14,2016-06-14,1,0
+Downtown,Bay Farm Island,0 days 00:30:00,9.3,Business,Errand/Supplies,30.0,6.0,14.0,17.0,1.0,Tuesday,2016-06-14,2016-06-14,1,0
+Kenner,New Orleans,0 days 00:20:00,12.4,Business,Between Offices,20.0,6.0,15.0,1.0,2.0,Wednesday,2016-06-15,2016-06-15,0,0
+CBD,Lower Garden District,0 days 00:08:00,1.9,Business,Between Offices,8.0,6.0,15.0,15.0,2.0,Wednesday,2016-06-15,2016-06-15,0,0
+Lower Garden District,Lakeview,0 days 00:25:00,6.4,Business,Customer Visit,25.0,6.0,15.0,16.0,2.0,Wednesday,2016-06-15,2016-06-15,0,0
+Lakeview,Storyville,0 days 00:20:00,5.5,Personal,,20.0,6.0,15.0,17.0,2.0,Wednesday,2016-06-15,2016-06-15,1,0
+Storyville,Faubourg Marigny,0 days 00:06:00,1.5,Business,Meal/Entertain,6.0,6.0,15.0,19.0,2.0,Wednesday,2016-06-15,2016-06-15,1,0
+New Orleans,Metairie,0 days 00:54:00,14.5,Business,,54.0,6.0,16.0,13.0,3.0,Thursday,2016-06-16,2016-06-16,0,0
+Metairie,Kenner,0 days 00:04:00,2.7,Business,,4.0,6.0,16.0,14.0,3.0,Thursday,2016-06-16,2016-06-16,0,0
+Kenner,New Orleans,0 days 00:24:00,15.0,Business,,24.0,6.0,16.0,15.0,3.0,Thursday,2016-06-16,2016-06-16,0,0
+New Orleans,Kenner,0 days 00:17:00,12.9,Business,,17.0,6.0,16.0,19.0,3.0,Thursday,2016-06-16,2016-06-16,1,0
+Kenner,New Orleans,0 days 00:13:00,13.6,Business,,13.0,6.0,16.0,21.0,3.0,Thursday,2016-06-16,2016-06-16,0,0
+New Orleans,Kenner,0 days 00:33:00,12.2,Business,,33.0,6.0,17.0,16.0,4.0,Friday,2016-06-17,2016-06-17,0,0
+Morrisville,Cary,0 days 00:22:00,8.7,Business,,22.0,6.0,18.0,0.0,5.0,Saturday,2016-06-18,2016-06-18,0,1
+Cary,Raleigh,0 days 00:11:00,6.0,Business,,11.0,6.0,19.0,2.0,6.0,Sunday,2016-06-19,2016-06-19,0,1
+Raleigh,Cary,0 days 00:09:00,5.9,Business,,9.0,6.0,19.0,5.0,6.0,Sunday,2016-06-19,2016-06-19,0,1
+Cary,Raleigh,0 days 00:29:00,19.3,Business,,29.0,6.0,21.0,15.0,1.0,Tuesday,2016-06-21,2016-06-21,0,0
+Raleigh,Cary,0 days 00:51:00,16.6,Business,Meal/Entertain,51.0,6.0,21.0,17.0,1.0,Tuesday,2016-06-21,2016-06-21,1,0
+Whitebridge,Waverly Place,0 days 00:16:00,7.1,Business,Meal/Entertain,16.0,6.0,24.0,10.0,4.0,Friday,2016-06-24,2016-06-24,0,0
+Waverly Place,Macgregor Downs,0 days 00:07:00,2.1,Business,Meal/Entertain,7.0,6.0,24.0,11.0,4.0,Friday,2016-06-24,2016-06-24,0,0
+Cary,Raleigh,0 days 00:18:00,8.6,Business,Errand/Supplies,18.0,6.0,24.0,12.0,4.0,Friday,2016-06-24,2016-06-24,0,0
+Raleigh,Morrisville,0 days 00:22:00,9.0,Business,Errand/Supplies,22.0,6.0,24.0,12.0,4.0,Friday,2016-06-24,2016-06-24,0,0
+Morrisville,Cary,0 days 00:09:00,3.1,Business,Errand/Supplies,9.0,6.0,24.0,13.0,4.0,Friday,2016-06-24,2016-06-24,0,0
+Cary,Morrisville,0 days 00:19:00,8.4,Business,Temporary Site,19.0,6.0,24.0,14.0,4.0,Friday,2016-06-24,2016-06-24,0,0
+Kenner,New Orleans,0 days 00:18:00,12.8,Business,,18.0,6.0,24.0,20.0,4.0,Friday,2016-06-24,2016-06-24,0,0
+CBD,Bywater,0 days 00:09:00,4.5,Business,,9.0,6.0,25.0,9.0,5.0,Saturday,2016-06-25,2016-06-25,1,1
+New Orleans,Chalmette,0 days 00:53:00,11.8,Business,Between Offices,53.0,6.0,25.0,9.0,5.0,Saturday,2016-06-25,2016-06-25,1,1
+Chalmette,Arabi,0 days 00:07:00,1.1,Business,Errand/Supplies,7.0,6.0,25.0,10.0,5.0,Saturday,2016-06-25,2016-06-25,0,1
+Arabi,Metairie,0 days 00:28:00,17.0,Business,Meal/Entertain,28.0,6.0,25.0,10.0,5.0,Saturday,2016-06-25,2016-06-25,0,1
+Pontchartrain Shores,Pontchartrain Shores,0 days 00:09:00,1.7,Business,Meeting,9.0,6.0,25.0,11.0,5.0,Saturday,2016-06-25,2016-06-25,0,1
+Metairie,New Orleans,0 days 01:28:00,15.5,Business,Meeting,88.0,6.0,25.0,11.0,5.0,Saturday,2016-06-25,2016-06-25,0,1
+Storyville,Marigny,0 days 00:11:00,1.6,Business,,11.0,6.0,25.0,19.0,5.0,Saturday,2016-06-25,2016-06-25,1,1
+Marigny,Storyville,0 days 00:07:00,1.5,Business,,7.0,6.0,25.0,23.0,5.0,Saturday,2016-06-25,2016-06-25,0,1
+New Orleans,Kenner,0 days 00:35:00,12.6,Business,Meeting,35.0,6.0,26.0,17.0,6.0,Sunday,2016-06-26,2016-06-26,1,1
+Pontchartrain Shores,Pontchartrain Shores,0 days 00:27:00,4.8,Business,,27.0,6.0,26.0,18.0,6.0,Sunday,2016-06-26,2016-06-26,1,1
+Kenner,Kenner,0 days 00:09:00,2.2,Business,,9.0,6.0,26.0,19.0,6.0,Sunday,2016-06-26,2016-06-26,1,1
+Kenner,New Orleans,0 days 00:28:00,13.0,Business,,28.0,6.0,26.0,21.0,6.0,Sunday,2016-06-26,2016-06-26,0,1
+New Orleans,Covington,0 days 01:11:00,46.9,Business,,71.0,6.0,27.0,7.0,0.0,Monday,2016-06-27,2016-06-27,1,0
+Covington,Covington,0 days 00:09:00,2.5,Business,,9.0,6.0,27.0,8.0,0.0,Monday,2016-06-27,2016-06-27,1,0
+Covington,Covington,0 days 00:28:00,8.6,Business,,28.0,6.0,27.0,9.0,0.0,Monday,2016-06-27,2016-06-27,1,0
+Covington,Covington,0 days 00:25:00,5.2,Business,,25.0,6.0,27.0,9.0,0.0,Monday,2016-06-27,2016-06-27,1,0
+Covington,Covington,0 days 00:17:00,7.6,Business,,17.0,6.0,27.0,10.0,0.0,Monday,2016-06-27,2016-06-27,0,0
+Covington,Covington,0 days 00:07:00,1.8,Business,,7.0,6.0,27.0,10.0,0.0,Monday,2016-06-27,2016-06-27,0,0
+Covington,Mandeville,0 days 00:18:00,4.7,Business,,18.0,6.0,27.0,11.0,0.0,Monday,2016-06-27,2016-06-27,0,0
+Mandeville,Mandeville,0 days 00:12:00,2.8,Business,,12.0,6.0,27.0,11.0,0.0,Monday,2016-06-27,2016-06-27,0,0
+Mandeville,Metairie,0 days 00:40:00,30.0,Business,,40.0,6.0,27.0,12.0,0.0,Monday,2016-06-27,2016-06-27,0,0
+Metairie,Kenner,0 days 00:09:00,4.4,Business,,9.0,6.0,27.0,13.0,0.0,Monday,2016-06-27,2016-06-27,0,0
+Jamestown Court,Jamestown Court,0 days 00:10:00,1.0,Business,,10.0,6.0,27.0,21.0,0.0,Monday,2016-06-27,2016-06-27,0,0
+Morrisville,Cary,0 days 00:17:00,8.2,Business,Customer Visit,17.0,6.0,28.0,0.0,1.0,Tuesday,2016-06-28,2016-06-28,0,0
+Cary,Durham,0 days 00:20:00,10.4,Business,Meeting,20.0,6.0,28.0,20.0,1.0,Tuesday,2016-06-28,2016-06-28,0,0
+Durham,Cary,0 days 00:25:00,9.9,Business,Meeting,25.0,6.0,28.0,23.0,1.0,Tuesday,2016-06-28,2016-06-28,0,0
+Durham,Cary,0 days 00:25:00,9.9,Business,Meeting,25.0,6.0,28.0,23.0,1.0,Tuesday,2016-06-28,2016-06-28,0,0
+Cary,Morrisville,0 days 00:28:00,7.3,Business,,28.0,6.0,29.0,8.0,2.0,Wednesday,2016-06-29,2016-06-29,1,0
+Morrisville,Cary,0 days 00:16:00,7.4,Business,,16.0,6.0,29.0,10.0,2.0,Wednesday,2016-06-29,2016-06-29,0,0
+Whitebridge,Westpark Place,0 days 00:02:00,1.6,Business,,2.0,6.0,29.0,11.0,2.0,Wednesday,2016-06-29,2016-06-29,0,0
+Westpark Place,Whitebridge,0 days 00:05:00,1.8,Business,,5.0,6.0,29.0,12.0,2.0,Wednesday,2016-06-29,2016-06-29,0,0
+Cary,Durham,0 days 00:18:00,10.4,Business,Meeting,18.0,6.0,29.0,20.0,2.0,Wednesday,2016-06-29,2016-06-29,0,0
+Durham,Cary,0 days 00:22:00,9.9,Business,Meeting,22.0,6.0,29.0,23.0,2.0,Wednesday,2016-06-29,2016-06-30,0,0
+Cary,Durham,0 days 00:17:00,9.9,Business,Meeting,17.0,6.0,30.0,20.0,3.0,Thursday,2016-06-30,2016-06-30,0,0
+Durham,Cary,0 days 00:25:00,9.9,Business,Meeting,25.0,7.0,1.0,0.0,4.0,Friday,2016-07-01,2016-07-01,0,0
+Cary,Raleigh,0 days 00:23:00,13.3,Business,Meeting,23.0,7.0,1.0,9.0,4.0,Friday,2016-07-01,2016-07-01,1,0
+Raleigh,Cary,0 days 00:24:00,11.3,Business,Meeting,24.0,7.0,1.0,12.0,4.0,Friday,2016-07-01,2016-07-01,0,0
+Cary,Durham,0 days 00:18:00,10.5,Business,Meeting,18.0,7.0,1.0,20.0,4.0,Friday,2016-07-01,2016-07-01,0,0
+Durham,Cary,0 days 00:21:00,9.9,Business,Meeting,21.0,7.0,1.0,23.0,4.0,Friday,2016-07-01,2016-07-02,0,0
+Cary,Durham,0 days 00:18:00,10.1,Business,Meeting,18.0,7.0,2.0,20.0,5.0,Saturday,2016-07-02,2016-07-02,0,1
+Durham,Cary,0 days 00:24:00,9.9,Business,Meeting,24.0,7.0,2.0,23.0,5.0,Saturday,2016-07-02,2016-07-03,0,1
+Cary,Morrisville,0 days 00:10:00,3.1,Business,Errand/Supplies,10.0,7.0,3.0,0.0,6.0,Sunday,2016-07-03,2016-07-03,0,1
+Morrisville,Cary,0 days 00:06:00,3.1,Business,Errand/Supplies,6.0,7.0,3.0,3.0,6.0,Sunday,2016-07-03,2016-07-03,0,1
+Cary,Durham,0 days 00:18:00,9.9,Business,Meeting,18.0,7.0,3.0,20.0,6.0,Sunday,2016-07-03,2016-07-03,0,1
+Durham,Cary,0 days 00:15:00,9.9,Business,Meeting,15.0,7.0,4.0,0.0,0.0,Monday,2016-07-04,2016-07-04,0,0
+Whitebridge,Summerwinds,0 days 00:18:00,8.8,Business,Meeting,18.0,7.0,4.0,17.0,0.0,Monday,2016-07-04,2016-07-04,1,0
+Summerwinds,Whitebridge,0 days 00:26:00,8.7,Business,Temporary Site,26.0,7.0,4.0,18.0,0.0,Monday,2016-07-04,2016-07-04,1,0
+Cary,Durham,0 days 00:17:00,11.8,Business,Meeting,17.0,7.0,4.0,20.0,0.0,Monday,2016-07-04,2016-07-04,0,0
+Parkwood,Parkwood,0 days 00:05:00,1.2,Business,Errand/Supplies,5.0,7.0,5.0,0.0,1.0,Tuesday,2016-07-05,2016-07-05,0,0
+Durham,Cary,0 days 00:20:00,9.9,Business,Meeting,20.0,7.0,5.0,0.0,1.0,Tuesday,2016-07-05,2016-07-05,0,0
+Whitebridge,Whitebridge,0 days 00:04:00,0.6,Business,Errand/Supplies,4.0,7.0,5.0,16.0,1.0,Tuesday,2016-07-05,2016-07-05,0,0
+Cary,Durham,0 days 00:20:00,9.9,Business,,20.0,7.0,5.0,20.0,1.0,Tuesday,2016-07-05,2016-07-05,0,0
+Durham,Morrisville,0 days 00:21:00,8.6,Business,,21.0,7.0,5.0,22.0,1.0,Tuesday,2016-07-05,2016-07-05,0,0
+Morrisville,Cary,0 days 00:20:00,6.3,Business,Meal/Entertain,20.0,7.0,6.0,0.0,2.0,Wednesday,2016-07-06,2016-07-06,0,0
+Cary,Durham,0 days 00:19:00,9.9,Business,Meeting,19.0,7.0,6.0,9.0,2.0,Wednesday,2016-07-06,2016-07-06,1,0
+Durham,Cary,0 days 00:20:00,9.9,Business,,20.0,7.0,6.0,12.0,2.0,Wednesday,2016-07-06,2016-07-06,0,0
+Cary,Morrisville,0 days 00:10:00,3.3,Business,Meal/Entertain,10.0,7.0,6.0,20.0,2.0,Wednesday,2016-07-06,2016-07-06,0,0
+Morrisville,Cary,0 days 00:13:00,3.1,Business,Customer Visit,13.0,7.0,6.0,23.0,2.0,Wednesday,2016-07-06,2016-07-06,0,0
+Cary,Morrisville,0 days 00:28:00,7.9,Business,Temporary Site,28.0,7.0,7.0,8.0,3.0,Thursday,2016-07-07,2016-07-07,1,0
+Morrisville,Cary,0 days 00:06:00,8.9,Business,,6.0,7.0,7.0,10.0,3.0,Thursday,2016-07-07,2016-07-07,0,0
+Kenner,New Orleans,0 days 00:36:00,12.8,Business,,36.0,7.0,7.0,12.0,3.0,Thursday,2016-07-07,2016-07-07,0,0
+CBD,Pontchartrain Beach,0 days 00:23:00,7.7,Business,,23.0,7.0,8.0,9.0,4.0,Friday,2016-07-08,2016-07-08,1,0
+Pontchartrain Beach,CBD,0 days 00:21:00,7.0,Business,,21.0,7.0,8.0,10.0,4.0,Friday,2016-07-08,2016-07-08,0,0
+New Orleans,Metairie,0 days 00:23:00,12.5,Business,,23.0,7.0,8.0,13.0,4.0,Friday,2016-07-08,2016-07-08,0,0
+Kenner,New Orleans,0 days 00:19:00,13.2,Business,,19.0,7.0,8.0,17.0,4.0,Friday,2016-07-08,2016-07-08,1,0
+New Orleans,Kenner,0 days 00:43:00,13.0,Business,,43.0,7.0,9.0,9.0,5.0,Saturday,2016-07-09,2016-07-09,1,1
+Kenner,Metairie,0 days 00:14:00,4.9,Business,,14.0,7.0,9.0,9.0,5.0,Saturday,2016-07-09,2016-07-09,1,1
+Metairie,New Orleans,0 days 00:18:00,8.5,Business,,18.0,7.0,9.0,10.0,5.0,Saturday,2016-07-09,2016-07-09,0,1
+CBD,St Thomas,0 days 00:07:00,1.3,Business,,7.0,7.0,10.0,14.0,6.0,Sunday,2016-07-10,2016-07-10,0,1
+St Thomas,CBD,0 days 00:11:00,1.8,Business,,11.0,7.0,10.0,16.0,6.0,Sunday,2016-07-10,2016-07-10,0,1
+New Orleans,Kenner,0 days 00:16:00,13.6,Business,,16.0,7.0,10.0,18.0,6.0,Sunday,2016-07-10,2016-07-10,1,1
+Kenner,New Orleans,0 days 00:17:00,13.4,Business,,17.0,7.0,10.0,19.0,6.0,Sunday,2016-07-10,2016-07-10,1,1
+New Orleans,Kenner,0 days 00:35:00,12.3,Business,,35.0,7.0,12.0,16.0,1.0,Tuesday,2016-07-12,2016-07-12,0,0
+Kenner,Kenner,0 days 00:05:00,1.4,Personal,,5.0,7.0,12.0,19.0,1.0,Tuesday,2016-07-12,2016-07-12,1,0
+Morrisville,Cary,0 days 00:24:00,8.7,Personal,,24.0,7.0,12.0,23.0,1.0,Tuesday,2016-07-12,2016-07-13,0,0
+Cary,Morrisville,0 days 00:41:00,23.5,Personal,,41.0,7.0,13.0,12.0,2.0,Wednesday,2016-07-13,2016-07-13,0,0
+Morrisville,Morrisville,0 days 00:14:00,2.2,Personal,,14.0,7.0,13.0,13.0,2.0,Wednesday,2016-07-13,2016-07-13,0,0
+Morrisville,Cary,0 days 00:12:00,4.4,Personal,,12.0,7.0,13.0,13.0,2.0,Wednesday,2016-07-13,2016-07-13,0,0
+Cary,Morrisville,0 days 00:08:00,3.3,Personal,,8.0,7.0,14.0,15.0,3.0,Thursday,2016-07-14,2016-07-14,0,0
+Morrisville,Morrisville,0 days 00:31:00,11.8,Business,Errand/Supplies,31.0,7.0,14.0,16.0,3.0,Thursday,2016-07-14,2016-07-14,0,0
+Morrisville,Banner Elk,0 days 03:26:00,195.3,Business,,206.0,7.0,14.0,16.0,3.0,Thursday,2016-07-14,2016-07-14,0,0
+Banner Elk,Banner Elk,0 days 00:21:00,8.3,Personal,,21.0,7.0,15.0,11.0,4.0,Friday,2016-07-15,2016-07-15,0,0
+Banner Elk,Banner Elk,0 days 00:10:00,3.2,Personal,,10.0,7.0,15.0,12.0,4.0,Friday,2016-07-15,2016-07-15,0,0
+Banner Elk,Elk Park,0 days 00:40:00,22.4,Personal,,40.0,7.0,15.0,12.0,4.0,Friday,2016-07-15,2016-07-15,0,0
+Elk Park,Banner Elk,0 days 00:30:00,12.2,Personal,,30.0,7.0,15.0,15.0,4.0,Friday,2016-07-15,2016-07-15,0,0
+Banner Elk,Banner Elk,0 days 00:12:00,4.5,Personal,,12.0,7.0,15.0,15.0,4.0,Friday,2016-07-15,2016-07-15,0,0
+Banner Elk,Newland,0 days 00:56:00,28.1,Personal,,56.0,7.0,16.0,13.0,5.0,Saturday,2016-07-16,2016-07-16,0,1
+Newland,Newland,0 days 00:16:00,3.8,Personal,,16.0,7.0,16.0,14.0,5.0,Saturday,2016-07-16,2016-07-16,0,1
+Newland,Boone,0 days 01:28:00,41.9,Personal,,88.0,7.0,16.0,15.0,5.0,Saturday,2016-07-16,2016-07-16,0,1
+Boone,Banner Elk,0 days 00:53:00,23.8,Personal,,53.0,7.0,16.0,19.0,5.0,Saturday,2016-07-16,2016-07-16,1,1
+Banner Elk,Banner Elk,0 days 00:33:00,13.0,Personal,,33.0,7.0,16.0,21.0,5.0,Saturday,2016-07-16,2016-07-16,0,1
+Banner Elk,Banner Elk,0 days 00:13:00,4.4,Business,Errand/Supplies,13.0,7.0,16.0,22.0,5.0,Saturday,2016-07-16,2016-07-16,0,1
+Banner Elk,Boone,0 days 00:27:00,15.1,Personal,Charity ($),27.0,7.0,17.0,11.0,6.0,Sunday,2016-07-17,2016-07-17,0,1
+Boone,Cary,0 days 03:05:00,180.2,Personal,Commute,185.0,7.0,17.0,12.0,6.0,Sunday,2016-07-17,2016-07-17,0,1
+Cary,Morrisville,0 days 00:12:00,4.1,Personal,Moving,12.0,7.0,18.0,10.0,0.0,Monday,2016-07-18,2016-07-18,0,0
+Morrisville,Cary,0 days 00:21:00,6.1,Personal,Moving,21.0,7.0,18.0,10.0,0.0,Monday,2016-07-18,2016-07-18,0,0
+Northwoods,Preston,0 days 00:11:00,3.3,Personal,Moving,11.0,7.0,18.0,11.0,0.0,Monday,2016-07-18,2016-07-18,0,0
+Preston,Whitebridge,0 days 00:16:00,4.7,Personal,Moving,16.0,7.0,18.0,11.0,0.0,Monday,2016-07-18,2016-07-18,0,0
+Cary,Apex,0 days 00:21:00,7.2,Business,Meeting,21.0,7.0,18.0,17.0,0.0,Monday,2016-07-18,2016-07-18,1,0
+Apex,Cary,0 days 00:15:00,5.5,Business,Meal/Entertain,15.0,7.0,18.0,18.0,0.0,Monday,2016-07-18,2016-07-18,1,0
+Cary,Morrisville,0 days 00:07:00,3.3,Business,Meal/Entertain,7.0,7.0,18.0,19.0,0.0,Monday,2016-07-18,2016-07-18,1,0
+Hazelwood,Weston,0 days 00:04:00,0.9,Business,Errand/Supplies,4.0,7.0,18.0,20.0,0.0,Monday,2016-07-18,2016-07-18,0,0
+Morrisville,Cary,0 days 00:08:00,3.8,Business,Meal/Entertain,8.0,7.0,18.0,21.0,0.0,Monday,2016-07-18,2016-07-18,0,0
+Whitebridge,Stonewater,0 days 00:16:00,6.4,Business,Customer Visit,16.0,7.0,19.0,10.0,1.0,Tuesday,2016-07-19,2016-07-19,0,0
+Stonewater,Lexington Park at Amberly,0 days 00:15:00,3.0,Business,Meeting,15.0,7.0,19.0,10.0,1.0,Tuesday,2016-07-19,2016-07-19,0,0
+Lexington Park at Amberly,Whitebridge,0 days 00:30:00,8.7,Business,Meal/Entertain,30.0,7.0,19.0,11.0,1.0,Tuesday,2016-07-19,2016-07-19,0,0
+Whitebridge,Chessington,0 days 00:10:00,3.9,Business,Errand/Supplies,10.0,7.0,19.0,17.0,1.0,Tuesday,2016-07-19,2016-07-19,1,0
+Chessington,Whitebridge,0 days 00:18:00,4.8,Personal,,18.0,7.0,19.0,17.0,1.0,Tuesday,2016-07-19,2016-07-19,1,0
+Whitebridge,Edgehill Farms,0 days 00:12:00,2.8,Personal,,12.0,7.0,20.0,17.0,2.0,Wednesday,2016-07-20,2016-07-20,1,0
+Edgehill Farms,Preston,0 days 00:07:00,1.4,Personal,,7.0,7.0,20.0,17.0,2.0,Wednesday,2016-07-20,2016-07-20,1,0
+Preston,Whitebridge,0 days 00:04:00,1.4,Personal,,4.0,7.0,20.0,18.0,2.0,Wednesday,2016-07-20,2016-07-20,1,0
+Whitebridge,Edgehill Farms,0 days 00:06:00,2.7,Business,,6.0,7.0,21.0,17.0,3.0,Thursday,2016-07-21,2016-07-21,1,0
+Edgehill Farms,Burtrose,0 days 00:09:00,2.3,Business,,9.0,7.0,21.0,17.0,3.0,Thursday,2016-07-21,2016-07-21,1,0
+Cary,Morrisville,0 days 00:15:00,3.7,Business,,15.0,7.0,21.0,18.0,3.0,Thursday,2016-07-21,2016-07-21,1,0
+Morrisville,Cary,0 days 00:09:00,2.9,Business,,9.0,7.0,21.0,19.0,3.0,Thursday,2016-07-21,2016-07-21,1,0
+Cary,Morrisville,0 days 00:11:00,3.8,Business,,11.0,7.0,22.0,10.0,4.0,Friday,2016-07-22,2016-07-22,0,0
+Morrisville,Cary,0 days 00:14:00,5.1,Business,,14.0,7.0,22.0,11.0,4.0,Friday,2016-07-22,2016-07-22,0,0
+Hazelwood,Lexington Park at Amberly,0 days 00:23:00,9.1,Business,,23.0,7.0,22.0,11.0,4.0,Friday,2016-07-22,2016-07-22,0,0
+Cary,Durham,0 days 00:17:00,8.0,Business,,17.0,7.0,22.0,12.0,4.0,Friday,2016-07-22,2016-07-22,0,0
+Durham,Cary,0 days 00:21:00,9.9,Business,Meeting,21.0,7.0,22.0,13.0,4.0,Friday,2016-07-22,2016-07-22,0,0
+Cary,Morrisville,0 days 00:16:00,6.1,Business,Meal/Entertain,16.0,7.0,22.0,14.0,4.0,Friday,2016-07-22,2016-07-22,0,0
+Morrisville,Cary,0 days 00:33:00,12.2,Business,,33.0,7.0,22.0,15.0,4.0,Friday,2016-07-22,2016-07-22,0,0
+Wayne Ridge,Whitebridge,0 days 00:18:00,8.0,Business,,18.0,7.0,22.0,18.0,4.0,Friday,2016-07-22,2016-07-22,1,0
+Cary,Morrisville,0 days 00:17:00,4.0,Business,,17.0,7.0,23.0,14.0,5.0,Saturday,2016-07-23,2016-07-23,0,1
+Morrisville,Cary,0 days 00:24:00,9.5,Business,,24.0,7.0,23.0,14.0,5.0,Saturday,2016-07-23,2016-07-23,0,1
+Cary,Morrisville,0 days 00:12:00,3.0,Business,,12.0,7.0,23.0,15.0,5.0,Saturday,2016-07-23,2016-07-23,0,1
+Morrisville,Cary,0 days 00:20:00,6.3,Business,,20.0,7.0,23.0,15.0,5.0,Saturday,2016-07-23,2016-07-23,0,1
+Cary,Durham,0 days 00:16:00,10.4,Business,Meeting,16.0,7.0,23.0,20.0,5.0,Saturday,2016-07-23,2016-07-23,0,1
+Durham,Cary,0 days 00:25:00,9.9,Business,Meeting,25.0,7.0,23.0,23.0,5.0,Saturday,2016-07-23,2016-07-23,0,1
+Whitebridge,Parkway,0 days 00:06:00,1.5,Business,,6.0,7.0,25.0,10.0,0.0,Monday,2016-07-25,2016-07-25,0,0
+Cary,Morrisville,0 days 00:11:00,4.9,Business,,11.0,7.0,25.0,10.0,0.0,Monday,2016-07-25,2016-07-25,0,0
+Morrisville,Cary,0 days 00:29:00,7.9,Business,,29.0,7.0,25.0,11.0,0.0,Monday,2016-07-25,2016-07-25,0,0
+Parkway,Whitebridge,0 days 00:07:00,1.7,Business,,7.0,7.0,25.0,11.0,0.0,Monday,2016-07-25,2016-07-25,0,0
+Whitebridge,Westpark Place,0 days 00:06:00,2.2,Business,,6.0,7.0,26.0,15.0,1.0,Tuesday,2016-07-26,2016-07-26,0,0
+Westpark Place,Whitebridge,0 days 00:10:00,2.1,Business,,10.0,7.0,26.0,17.0,1.0,Tuesday,2016-07-26,2016-07-26,1,0
+Cary,Morrisville,0 days 00:08:00,2.5,Business,Meal/Entertain,8.0,7.0,26.0,20.0,1.0,Tuesday,2016-07-26,2016-07-26,0,0
+Morrisville,Cary,0 days 00:08:00,2.5,Business,Meal/Entertain,8.0,7.0,26.0,22.0,1.0,Tuesday,2016-07-26,2016-07-26,0,0
+Cary,Morrisville,0 days 00:12:00,2.8,Business,,12.0,7.0,27.0,19.0,2.0,Wednesday,2016-07-27,2016-07-27,1,0
+Morrisville,Raleigh,0 days 00:23:00,14.7,Business,,23.0,7.0,27.0,21.0,2.0,Wednesday,2016-07-27,2016-07-27,0,0
+Raleigh,Morrisville,0 days 00:26:00,14.6,Business,,26.0,7.0,27.0,22.0,2.0,Wednesday,2016-07-27,2016-07-27,0,0
+Morrisville,Cary,0 days 00:05:00,2.3,Business,,5.0,7.0,28.0,0.0,3.0,Thursday,2016-07-28,2016-07-28,0,0
+Whitebridge,Westpark Place,0 days 00:02:00,2.2,Business,,2.0,7.0,29.0,15.0,4.0,Friday,2016-07-29,2016-07-29,0,0
+Westpark Place,Whitebridge,0 days 00:18:00,2.2,Business,Meal/Entertain,18.0,7.0,29.0,17.0,4.0,Friday,2016-07-29,2016-07-29,1,0
+Cary,Durham,0 days 00:25:00,14.0,Business,,25.0,7.0,30.0,17.0,5.0,Saturday,2016-07-30,2016-07-30,1,1
+Durham,Cary,0 days 00:25:00,13.3,Business,,25.0,7.0,30.0,21.0,5.0,Saturday,2016-07-30,2016-07-30,0,1
+Westpark Place,Whitebridge,0 days 00:07:00,1.8,Business,,7.0,7.0,31.0,17.0,6.0,Sunday,2016-07-31,2016-07-31,1,1
+Whitebridge,Arlington Park at Amberly,0 days 00:17:00,6.2,Business,,17.0,8.0,1.0,12.0,0.0,Monday,2016-08-01,2016-08-01,0,0
+Arlington Park at Amberly,Lexington Park at Amberly,0 days 00:11:00,1.3,Business,,11.0,8.0,1.0,13.0,0.0,Monday,2016-08-01,2016-08-01,0,0
+Lexington Park at Amberly,Westpark Place,0 days 00:18:00,1.9,Business,,18.0,8.0,1.0,13.0,0.0,Monday,2016-08-01,2016-08-01,0,0
+Cary,Apex,0 days 00:22:00,6.9,Business,,22.0,8.0,1.0,13.0,0.0,Monday,2016-08-01,2016-08-01,0,0
+Apex,Cary,0 days 00:07:00,4.6,Business,,7.0,8.0,1.0,15.0,0.0,Monday,2016-08-01,2016-08-01,0,0
+Whitebridge,Edgehill Farms,0 days 00:07:00,2.8,Business,,7.0,8.0,1.0,16.0,0.0,Monday,2016-08-01,2016-08-01,0,0
+Cary,Morrisville,0 days 00:30:00,9.1,Business,,30.0,8.0,1.0,16.0,0.0,Monday,2016-08-01,2016-08-01,0,0
+Morrisville,Cary,0 days 00:32:00,8.1,Business,,32.0,8.0,1.0,17.0,0.0,Monday,2016-08-01,2016-08-01,1,0
+Cary,Morrisville,0 days 00:21:00,8.4,Business,Meeting,21.0,8.0,2.0,8.0,1.0,Tuesday,2016-08-02,2016-08-02,1,0
+Arlington,Washington,0 days 00:24:00,4.9,Business,,24.0,8.0,2.0,11.0,1.0,Tuesday,2016-08-02,2016-08-02,0,0
+Kalorama Triangle,K Street,0 days 00:08:00,1.0,Business,,8.0,8.0,2.0,19.0,1.0,Tuesday,2016-08-02,2016-08-02,1,0
+K Street,Kalorama Triangle,0 days 00:06:00,1.0,Business,,6.0,8.0,2.0,21.0,1.0,Tuesday,2016-08-02,2016-08-02,0,0
+West End,Northwest Rectangle,0 days 00:14:00,2.0,Business,,14.0,8.0,3.0,12.0,2.0,Wednesday,2016-08-03,2016-08-03,0,0
+K Street,Kalorama Triangle,0 days 00:04:00,1.1,Business,,4.0,8.0,3.0,14.0,2.0,Wednesday,2016-08-03,2016-08-03,0,0
+Kalorama Triangle,Downtown,0 days 00:04:00,1.5,Business,,4.0,8.0,3.0,16.0,2.0,Wednesday,2016-08-03,2016-08-03,0,0
+Connecticut Avenue,Kalorama Triangle,0 days 00:07:00,1.3,Business,,7.0,8.0,5.0,17.0,4.0,Friday,2016-08-05,2016-08-05,1,0
+Kalorama Triangle,Columbia Heights,0 days 00:04:00,1.8,Business,,4.0,8.0,5.0,18.0,4.0,Friday,2016-08-05,2016-08-05,1,0
+Columbia Heights,Kalorama Triangle,0 days 00:10:00,1.5,Business,,10.0,8.0,5.0,19.0,4.0,Friday,2016-08-05,2016-08-05,1,0
+Washington,Arlington,0 days 00:18:00,6.6,Business,,18.0,8.0,6.0,6.0,5.0,Saturday,2016-08-06,2016-08-06,0,1
+Morrisville,Cary,0 days 00:22:00,8.0,Business,,22.0,8.0,6.0,9.0,5.0,Saturday,2016-08-06,2016-08-06,1,1
+Whitebridge,Edgehill Farms,0 days 00:09:00,2.7,Business,,9.0,8.0,7.0,17.0,6.0,Sunday,2016-08-07,2016-08-07,1,1
+Edgehill Farms,Whitebridge,0 days 00:15:00,2.7,Business,Customer Visit,15.0,8.0,7.0,17.0,6.0,Sunday,2016-08-07,2016-08-07,1,1
+Cary,Morrisville,0 days 00:06:00,2.5,Business,,6.0,8.0,7.0,18.0,6.0,Sunday,2016-08-07,2016-08-07,1,1
+Morrisville,Cary,0 days 00:08:00,2.5,Business,Meal/Entertain,8.0,8.0,7.0,20.0,6.0,Sunday,2016-08-07,2016-08-07,0,1
+Whitebridge,Farmington Woods,0 days 00:14:00,5.2,Business,,14.0,8.0,8.0,16.0,0.0,Monday,2016-08-08,2016-08-08,0,0
+Farmington Woods,Edgehill Farms,0 days 00:13:00,4.0,Business,,13.0,8.0,8.0,16.0,0.0,Monday,2016-08-08,2016-08-08,0,0
+Edgehill Farms,Whitebridge,0 days 00:11:00,2.7,Business,Customer Visit,11.0,8.0,8.0,17.0,0.0,Monday,2016-08-08,2016-08-08,1,0
+Cary,Morrisville,0 days 00:25:00,4.8,Business,,25.0,8.0,8.0,21.0,0.0,Monday,2016-08-08,2016-08-08,0,0
+Morrisville,Cary,0 days 00:09:00,3.2,Business,Customer Visit,9.0,8.0,8.0,23.0,0.0,Monday,2016-08-08,2016-08-08,0,0
+Whitebridge,Waverly Place,0 days 00:18:00,6.9,Business,,18.0,8.0,9.0,14.0,1.0,Tuesday,2016-08-09,2016-08-09,0,0
+Cary,Raleigh,0 days 00:21:00,14.9,Business,,21.0,8.0,9.0,15.0,1.0,Tuesday,2016-08-09,2016-08-09,0,0
+Raleigh,Cary,0 days 00:33:00,17.4,Business,,33.0,8.0,9.0,16.0,1.0,Tuesday,2016-08-09,2016-08-09,0,0
+Cary,Durham,0 days 00:28:00,12.9,Business,,28.0,8.0,10.0,16.0,2.0,Wednesday,2016-08-10,2016-08-10,0,0
+Durham,Apex,0 days 00:35:00,15.3,Business,,35.0,8.0,10.0,17.0,2.0,Wednesday,2016-08-10,2016-08-10,1,0
+Apex,Apex,0 days 00:01:00,1.0,Business,,1.0,8.0,10.0,18.0,2.0,Wednesday,2016-08-10,2016-08-10,1,0
+Apex,Cary,0 days 00:15:00,6.0,Business,,15.0,8.0,10.0,19.0,2.0,Wednesday,2016-08-10,2016-08-10,1,0
+Whitebridge,Heritage Pines,0 days 00:07:00,2.2,Business,,7.0,8.0,11.0,12.0,3.0,Thursday,2016-08-11,2016-08-11,0,0
+Heritage Pines,Edgehill Farms,0 days 00:14:00,4.4,Business,,14.0,8.0,11.0,13.0,3.0,Thursday,2016-08-11,2016-08-11,0,0
+Edgehill Farms,Whitebridge,0 days 00:10:00,2.8,Business,,10.0,8.0,11.0,13.0,3.0,Thursday,2016-08-11,2016-08-11,0,0
+Cary,Wake Forest,0 days 00:52:00,31.7,Business,,52.0,8.0,11.0,18.0,3.0,Thursday,2016-08-11,2016-08-11,1,0
+Wake Forest,Cary,0 days 00:45:00,31.9,Business,,45.0,8.0,11.0,20.0,3.0,Thursday,2016-08-11,2016-08-11,0,0
+Whitebridge,Westpark Place,0 days 00:03:00,1.9,Business,,3.0,8.0,12.0,18.0,4.0,Friday,2016-08-12,2016-08-12,1,0
+Westpark Place,Whitebridge,0 days 00:09:00,1.8,Business,,9.0,8.0,12.0,18.0,4.0,Friday,2016-08-12,2016-08-12,1,0
+Cary,Morrisville,0 days 00:23:00,8.4,Business,Meeting,23.0,8.0,13.0,15.0,5.0,Saturday,2016-08-13,2016-08-13,0,1
+R?walpindi,Unknown Location,0 days 00:47:00,15.6,Business,,47.0,8.0,15.0,9.0,0.0,Monday,2016-08-15,2016-08-15,1,0
+Unknown Location,Unknown Location,0 days 00:27:00,14.1,Business,,27.0,8.0,15.0,15.0,0.0,Monday,2016-08-15,2016-08-15,0,0
+Unknown Location,Unknown Location,0 days 00:38:00,15.7,Business,,38.0,8.0,15.0,16.0,0.0,Monday,2016-08-15,2016-08-15,0,0
+Unknown Location,Unknown Location,0 days 01:22:00,25.9,Business,Temporary Site,82.0,8.0,15.0,19.0,0.0,Monday,2016-08-15,2016-08-15,1,0
+Unknown Location,Unknown Location,0 days 00:13:00,7.9,Business,,13.0,8.0,16.0,7.0,1.0,Tuesday,2016-08-16,2016-08-16,1,0
+Unknown Location,Unknown Location,0 days 00:07:00,2.7,Business,,7.0,8.0,16.0,8.0,1.0,Tuesday,2016-08-16,2016-08-16,1,0
+Unknown Location,Unknown Location,0 days 00:07:00,5.5,Business,,7.0,8.0,16.0,8.0,1.0,Tuesday,2016-08-16,2016-08-16,1,0
+Unknown Location,Islamabad,0 days 00:21:00,5.7,Business,,21.0,8.0,16.0,10.0,1.0,Tuesday,2016-08-16,2016-08-16,0,0
+Islamabad,Islamabad,0 days 00:07:00,1.2,Business,,7.0,8.0,16.0,10.0,1.0,Tuesday,2016-08-16,2016-08-16,0,0
+Islamabad,Unknown Location,0 days 00:16:00,5.7,Business,Temporary Site,16.0,8.0,16.0,11.0,1.0,Tuesday,2016-08-16,2016-08-16,0,0
+Unknown Location,Unknown Location,0 days 00:23:00,16.2,Business,,23.0,8.0,16.0,15.0,1.0,Tuesday,2016-08-16,2016-08-16,0,0
+Unknown Location,Unknown Location,0 days 00:24:00,2.6,Business,,24.0,8.0,17.0,10.0,2.0,Wednesday,2016-08-17,2016-08-17,0,0
+Unknown Location,Unknown Location,0 days 00:23:00,12.1,Business,,23.0,8.0,17.0,10.0,2.0,Wednesday,2016-08-17,2016-08-17,0,0
+Unknown Location,R?walpindi,0 days 00:05:00,1.4,Business,,5.0,8.0,17.0,14.0,2.0,Wednesday,2016-08-17,2016-08-17,0,0
+R?walpindi,Islamabad,0 days 00:15:00,6.4,Business,,15.0,8.0,17.0,15.0,2.0,Wednesday,2016-08-17,2016-08-17,0,0
+Islamabad,Unknown Location,0 days 00:21:00,7.3,Business,,21.0,8.0,17.0,16.0,2.0,Wednesday,2016-08-17,2016-08-17,0,0
+Unknown Location,Unknown Location,0 days 00:06:00,5.3,Business,,6.0,8.0,17.0,16.0,2.0,Wednesday,2016-08-17,2016-08-17,0,0
+Unknown Location,Unknown Location,0 days 00:29:00,5.5,Business,,29.0,8.0,17.0,17.0,2.0,Wednesday,2016-08-17,2016-08-17,1,0
+Unknown Location,Unknown Location,0 days 00:19:00,7.7,Business,Temporary Site,19.0,8.0,17.0,18.0,2.0,Wednesday,2016-08-17,2016-08-17,1,0
+Unknown Location,Unknown Location,0 days 00:27:00,7.6,Business,Temporary Site,27.0,8.0,18.0,18.0,3.0,Thursday,2016-08-18,2016-08-18,1,0
+Unknown Location,Noorpur Shahan,0 days 00:21:00,7.6,Business,,21.0,8.0,19.0,8.0,4.0,Friday,2016-08-19,2016-08-19,1,0
+Noorpur Shahan,Islamabad,0 days 00:13:00,3.3,Business,,13.0,8.0,19.0,8.0,4.0,Friday,2016-08-19,2016-08-19,1,0
+Islamabad,R?walpindi,0 days 00:20:00,6.5,Business,,20.0,8.0,19.0,9.0,4.0,Friday,2016-08-19,2016-08-19,1,0
+R?walpindi,Unknown Location,0 days 00:09:00,2.0,Business,,9.0,8.0,19.0,10.0,4.0,Friday,2016-08-19,2016-08-19,0,0
+Unknown Location,Islamabad,0 days 00:17:00,5.7,Business,,17.0,8.0,19.0,12.0,4.0,Friday,2016-08-19,2016-08-19,0,0
+Islamabad,Islamabad,0 days 00:15:00,3.2,Business,,15.0,8.0,19.0,15.0,4.0,Friday,2016-08-19,2016-08-19,0,0
+Islamabad,Unknown Location,0 days 00:40:00,12.5,Business,,40.0,8.0,19.0,17.0,4.0,Friday,2016-08-19,2016-08-19,1,0
+Unknown Location,Unknown Location,0 days 00:29:00,7.6,Business,Airport/Travel,29.0,8.0,21.0,10.0,6.0,Sunday,2016-08-21,2016-08-21,0,1
+Unknown Location,Unknown Location,0 days 00:29:00,7.7,Business,,29.0,8.0,21.0,14.0,6.0,Sunday,2016-08-21,2016-08-21,0,1
+Unknown Location,Islamabad,0 days 00:32:00,12.2,Business,,32.0,8.0,21.0,16.0,6.0,Sunday,2016-08-21,2016-08-21,0,1
+Islamabad,Islamabad,0 days 00:07:00,1.4,Business,,7.0,8.0,21.0,18.0,6.0,Sunday,2016-08-21,2016-08-21,1,1
+Islamabad,Unknown Location,0 days 00:36:00,20.2,Business,,36.0,8.0,21.0,18.0,6.0,Sunday,2016-08-21,2016-08-21,1,1
+Unknown Location,Islamabad,0 days 00:44:00,9.8,Business,,44.0,8.0,22.0,10.0,0.0,Monday,2016-08-22,2016-08-22,0,0
+Islamabad,Unknown Location,0 days 00:16:00,6.3,Business,,16.0,8.0,22.0,11.0,0.0,Monday,2016-08-22,2016-08-22,0,0
+Unknown Location,Islamabad,0 days 00:13:00,4.9,Business,,13.0,8.0,22.0,12.0,0.0,Monday,2016-08-22,2016-08-22,0,0
+Islamabad,Islamabad,0 days 00:09:00,1.5,Business,,9.0,8.0,22.0,13.0,0.0,Monday,2016-08-22,2016-08-22,0,0
+Islamabad,Unknown Location,0 days 00:24:00,10.9,Business,,24.0,8.0,22.0,14.0,0.0,Monday,2016-08-22,2016-08-22,0,0
+Unknown Location,Unknown Location,0 days 00:35:00,19.0,Business,,35.0,8.0,22.0,15.0,0.0,Monday,2016-08-22,2016-08-22,0,0
+Unknown Location,Unknown Location,0 days 01:17:00,19.0,Business,,77.0,8.0,22.0,15.0,0.0,Monday,2016-08-22,2016-08-22,0,0
+Unknown Location,R?walpindi,0 days 00:52:00,7.9,Business,,52.0,8.0,22.0,19.0,0.0,Monday,2016-08-22,2016-08-22,1,0
+R?walpindi,R?walpindi,0 days 00:38:00,4.1,Business,,38.0,8.0,22.0,20.0,0.0,Monday,2016-08-22,2016-08-22,0,0
+R?walpindi,Unknown Location,0 days 00:29:00,18.7,Business,,29.0,8.0,22.0,22.0,0.0,Monday,2016-08-22,2016-08-22,0,0
+Unknown Location,Noorpur Shahan,0 days 00:15:00,8.7,Business,,15.0,8.0,23.0,8.0,1.0,Tuesday,2016-08-23,2016-08-23,1,0
+Noorpur Shahan,Unknown Location,0 days 00:34:00,7.5,Business,,34.0,8.0,23.0,9.0,1.0,Tuesday,2016-08-23,2016-08-23,1,0
+Unknown Location,Noorpur Shahan,0 days 00:16:00,7.7,Business,,16.0,8.0,23.0,12.0,1.0,Tuesday,2016-08-23,2016-08-23,0,0
+Noorpur Shahan,Islamabad,0 days 00:11:00,4.4,Business,,11.0,8.0,23.0,13.0,1.0,Tuesday,2016-08-23,2016-08-23,0,0
+Islamabad,Unknown Location,0 days 00:15:00,5.0,Business,,15.0,8.0,23.0,13.0,1.0,Tuesday,2016-08-23,2016-08-23,0,0
+Unknown Location,Unknown Location,0 days 00:05:00,1.9,Business,,5.0,8.0,23.0,15.0,1.0,Tuesday,2016-08-23,2016-08-23,0,0
+Unknown Location,Unknown Location,0 days 02:01:00,7.9,Business,,121.0,8.0,23.0,15.0,1.0,Tuesday,2016-08-23,2016-08-23,0,0
+Unknown Location,Unknown Location,0 days 00:49:00,17.7,Business,,49.0,8.0,23.0,17.0,1.0,Tuesday,2016-08-23,2016-08-23,1,0
+Unknown Location,Unknown Location,0 days 00:51:00,25.2,Business,,51.0,8.0,24.0,12.0,2.0,Wednesday,2016-08-24,2016-08-24,0,0
+Unknown Location,Unknown Location,0 days 02:24:00,96.2,Business,,144.0,8.0,24.0,13.0,2.0,Wednesday,2016-08-24,2016-08-24,0,0
+Unknown Location,Unknown Location,0 days 01:05:00,35.0,Business,,65.0,8.0,25.0,15.0,3.0,Thursday,2016-08-25,2016-08-25,0,0
+Unknown Location,Unknown Location,0 days 00:20:00,5.5,Business,,20.0,8.0,25.0,16.0,3.0,Thursday,2016-08-25,2016-08-25,0,0
+Unknown Location,Unknown Location,0 days 02:01:00,50.4,Business,,121.0,8.0,25.0,17.0,3.0,Thursday,2016-08-25,2016-08-25,1,0
+Unknown Location,Lahore,0 days 00:32:00,9.2,Business,,32.0,8.0,25.0,19.0,3.0,Thursday,2016-08-25,2016-08-25,1,0
+Lahore,Unknown Location,0 days 00:18:00,7.3,Business,,18.0,8.0,25.0,22.0,3.0,Thursday,2016-08-25,2016-08-25,0,0
+Unknown Location,Unknown Location,0 days 00:14:00,5.0,Business,,14.0,8.0,26.0,9.0,4.0,Friday,2016-08-26,2016-08-26,1,0
+Unknown Location,Unknown Location,0 days 00:12:00,3.8,Business,,12.0,8.0,26.0,11.0,4.0,Friday,2016-08-26,2016-08-26,0,0
+Unknown Location,Lahore,0 days 00:10:00,3.9,Business,,10.0,8.0,26.0,12.0,4.0,Friday,2016-08-26,2016-08-26,0,0
+Lahore,Lahore,0 days 00:23:00,7.4,Business,,23.0,8.0,26.0,14.0,4.0,Friday,2016-08-26,2016-08-26,0,0
+Lahore,Lahore,0 days 00:12:00,1.5,Business,,12.0,8.0,26.0,15.0,4.0,Friday,2016-08-26,2016-08-26,0,0
+Lahore,Unknown Location,0 days 00:25:00,7.9,Business,,25.0,8.0,26.0,15.0,4.0,Friday,2016-08-26,2016-08-26,0,0
+Unknown Location,Lahore,0 days 00:17:00,2.9,Business,,17.0,8.0,26.0,16.0,4.0,Friday,2016-08-26,2016-08-26,0,0
+Lahore,Lahore,0 days 00:14:00,3.4,Business,,14.0,8.0,26.0,18.0,4.0,Friday,2016-08-26,2016-08-26,1,0
+Lahore,Lahore,0 days 00:23:00,3.8,Business,,23.0,8.0,26.0,19.0,4.0,Friday,2016-08-26,2016-08-26,1,0
+Lahore,Unknown Location,0 days 00:10:00,5.9,Business,,10.0,8.0,26.0,20.0,4.0,Friday,2016-08-26,2016-08-26,0,0
+Unknown Location,Lahore,0 days 00:37:00,9.6,Business,,37.0,8.0,27.0,9.0,5.0,Saturday,2016-08-27,2016-08-27,1,1
+Lahore,Lahore,0 days 00:19:00,7.0,Business,,19.0,8.0,27.0,11.0,5.0,Saturday,2016-08-27,2016-08-27,0,1
+Lahore,Lahore,0 days 00:05:00,0.9,Business,,5.0,8.0,27.0,12.0,5.0,Saturday,2016-08-27,2016-08-27,0,1
+Lahore,Unknown Location,0 days 01:43:00,86.6,Business,,103.0,8.0,27.0,14.0,5.0,Saturday,2016-08-27,2016-08-27,0,1
+Unknown Location,Unknown Location,0 days 02:58:00,156.9,Business,,178.0,8.0,27.0,16.0,5.0,Saturday,2016-08-27,2016-08-27,0,1
+Unknown Location,Noorpur Shahan,0 days 00:21:00,10.1,Business,,21.0,8.0,28.0,9.0,6.0,Sunday,2016-08-28,2016-08-28,1,1
+Noorpur Shahan,Islamabad,0 days 00:16:00,6.2,Business,,16.0,8.0,28.0,16.0,6.0,Sunday,2016-08-28,2016-08-28,0,1
+Islamabad,Islamabad,0 days 00:18:00,5.3,Business,,18.0,8.0,28.0,17.0,6.0,Sunday,2016-08-28,2016-08-28,1,1
+Islamabad,Unknown Location,0 days 00:44:00,12.1,Business,,44.0,8.0,28.0,21.0,6.0,Sunday,2016-08-28,2016-08-28,0,1
+Unknown Location,Islamabad,0 days 00:29:00,10.8,Business,,29.0,8.0,29.0,12.0,0.0,Monday,2016-08-29,2016-08-29,0,0
+Islamabad,Islamabad,0 days 00:10:00,4.3,Business,,10.0,8.0,29.0,13.0,0.0,Monday,2016-08-29,2016-08-29,0,0
+Islamabad,Islamabad,0 days 00:10:00,2.5,Business,,10.0,8.0,29.0,14.0,0.0,Monday,2016-08-29,2016-08-29,0,0
+Islamabad,Unknown Location,0 days 00:15:00,5.7,Business,Temporary Site,15.0,8.0,29.0,14.0,0.0,Monday,2016-08-29,2016-08-29,0,0
+Unknown Location,Islamabad,0 days 00:10:00,2.8,Business,,10.0,8.0,29.0,15.0,0.0,Monday,2016-08-29,2016-08-29,0,0
+Islamabad,Unknown Location,0 days 00:15:00,4.0,Business,,15.0,8.0,29.0,16.0,0.0,Monday,2016-08-29,2016-08-29,0,0
+Unknown Location,Islamabad,0 days 00:17:00,5.5,Business,,17.0,8.0,29.0,17.0,0.0,Monday,2016-08-29,2016-08-29,1,0
+Islamabad,Islamabad,0 days 00:09:00,2.6,Business,,9.0,8.0,29.0,18.0,0.0,Monday,2016-08-29,2016-08-29,1,0
+Unknown Location,Unknown Location,0 days 00:12:00,2.1,Business,,12.0,8.0,30.0,11.0,1.0,Tuesday,2016-08-30,2016-08-30,0,0
+Unknown Location,Islamabad,0 days 00:23:00,8.8,Business,,23.0,8.0,30.0,12.0,1.0,Tuesday,2016-08-30,2016-08-30,0,0
+Islamabad,Islamabad,0 days 00:21:00,4.4,Business,,21.0,8.0,30.0,13.0,1.0,Tuesday,2016-08-30,2016-08-30,0,0
+Islamabad,Unknown Location,0 days 00:20:00,5.3,Business,,20.0,8.0,30.0,14.0,1.0,Tuesday,2016-08-30,2016-08-30,0,0
+Unknown Location,Unknown Location,0 days 00:42:00,13.0,Business,,42.0,8.0,30.0,17.0,1.0,Tuesday,2016-08-30,2016-08-30,1,0
+Unknown Location,Islamabad,0 days 00:33:00,13.0,Business,,33.0,9.0,1.0,11.0,3.0,Thursday,2016-09-01,2016-09-01,0,0
+Islamabad,Unknown Location,0 days 00:15:00,10.6,Business,,15.0,9.0,1.0,17.0,3.0,Thursday,2016-09-01,2016-09-01,1,0
+Unknown Location,Unknown Location,0 days 00:19:00,2.2,Business,,19.0,9.0,1.0,18.0,3.0,Thursday,2016-09-01,2016-09-01,1,0
+Unknown Location,Islamabad,0 days 00:47:00,9.2,Business,,47.0,9.0,2.0,11.0,4.0,Friday,2016-09-02,2016-09-02,0,0
+Unknown Location,Unknown Location,0 days 00:41:00,12.9,Business,,41.0,9.0,2.0,18.0,4.0,Friday,2016-09-02,2016-09-02,1,0
+Unknown Location,R?walpindi,0 days 00:19:00,17.2,Business,,19.0,9.0,5.0,10.0,0.0,Monday,2016-09-05,2016-09-05,0,0
+Unknown Location,Unknown Location,0 days 00:00:00,69.1,Business,,0.0,9.0,6.0,17.0,1.0,Tuesday,2016-09-06,2016-09-06,1,0
+Unknown Location,Unknown Location,0 days 00:17:00,2.8,Business,,17.0,9.0,10.0,10.0,5.0,Saturday,2016-09-10,2016-09-10,0,1
+Unknown Location,Unknown Location,0 days 00:04:00,8.6,Business,,4.0,9.0,11.0,9.0,6.0,Sunday,2016-09-11,2016-09-11,1,1
+Unknown Location,Unknown Location,0 days 00:02:00,9.8,Business,,2.0,9.0,11.0,21.0,6.0,Sunday,2016-09-11,2016-09-11,0,1
+Unknown Location,Unknown Location,0 days 00:05:00,3.6,Business,,5.0,9.0,12.0,8.0,0.0,Monday,2016-09-12,2016-09-12,1,0
+Unknown Location,Unknown Location,0 days 00:09:00,1.7,Business,,9.0,9.0,12.0,11.0,0.0,Monday,2016-09-12,2016-09-12,0,0
+Unknown Location,Unknown Location,0 days 00:40:00,11.5,Business,,40.0,9.0,12.0,13.0,0.0,Monday,2016-09-12,2016-09-12,0,0
+Unknown Location,Unknown Location,0 days 00:06:00,0.7,Business,,6.0,9.0,13.0,16.0,1.0,Tuesday,2016-09-13,2016-09-13,0,0
+Unknown Location,Unknown Location,0 days 00:04:00,0.7,Business,,4.0,9.0,14.0,11.0,2.0,Wednesday,2016-09-14,2016-09-14,0,0
+Unknown Location,Unknown Location,0 days 00:05:00,0.9,Business,,5.0,9.0,15.0,20.0,3.0,Thursday,2016-09-15,2016-09-15,0,0
+Unknown Location,Unknown Location,0 days 00:00:00,1.6,Business,,0.0,9.0,16.0,7.0,4.0,Friday,2016-09-16,2016-09-16,1,0
+Unknown Location,Unknown Location,0 days 00:04:00,9.4,Business,,4.0,9.0,18.0,18.0,6.0,Sunday,2016-09-18,2016-09-18,1,1
+R?walpindi,Unknown Location,0 days 00:31:00,18.2,Business,,31.0,9.0,19.0,6.0,0.0,Monday,2016-09-19,2016-09-19,0,0
+Unknown Location,Islamabad,0 days 00:16:00,10.5,Business,,16.0,9.0,19.0,14.0,0.0,Monday,2016-09-19,2016-09-19,0,0
+Islamabad,Unknown Location,0 days 00:08:00,5.7,Business,,8.0,9.0,19.0,16.0,0.0,Monday,2016-09-19,2016-09-19,0,0
+Unknown Location,Unknown Location,0 days 00:44:00,18.0,Business,,44.0,9.0,19.0,17.0,0.0,Monday,2016-09-19,2016-09-19,1,0
+Unknown Location,Islamabad,0 days 00:39:00,18.3,Business,,39.0,9.0,19.0,19.0,0.0,Monday,2016-09-19,2016-09-19,1,0
+Islamabad,Unknown Location,0 days 00:19:00,16.5,Business,,19.0,9.0,20.0,11.0,1.0,Tuesday,2016-09-20,2016-09-20,0,0
+Unknown Location,R?walpindi,0 days 02:00:00,9.6,Business,,120.0,9.0,20.0,20.0,1.0,Tuesday,2016-09-20,2016-09-20,0,0
+Karachi,Karachi,0 days 00:25:00,2.9,Business,,25.0,9.0,23.0,13.0,4.0,Friday,2016-09-23,2016-09-23,0,0
+Karachi,Unknown Location,0 days 00:41:00,8.2,Business,,41.0,9.0,24.0,14.0,5.0,Saturday,2016-09-24,2016-09-24,0,1
+Unknown Location,Unknown Location,0 days 00:04:00,2.4,Business,,4.0,9.0,24.0,20.0,5.0,Saturday,2016-09-24,2016-09-24,0,1
+Unknown Location,Unknown Location,0 days 00:02:00,5.8,Business,,2.0,9.0,27.0,8.0,1.0,Tuesday,2016-09-27,2016-09-27,1,0
+Lahore,Lahore,0 days 01:22:00,9.8,Business,,82.0,9.0,27.0,13.0,1.0,Tuesday,2016-09-27,2016-09-27,0,0
+Lahore,Unknown Location,0 days 01:20:00,7.3,Business,,80.0,9.0,27.0,19.0,1.0,Tuesday,2016-09-27,2016-09-27,1,0
+Unknown Location,Unknown Location,0 days 05:36:00,195.6,Business,,336.0,9.0,27.0,21.0,1.0,Tuesday,2016-09-27,2016-09-28,0,0
+Islamabad,Unknown Location,0 days 02:15:00,20.5,Business,,135.0,9.0,28.0,17.0,2.0,Wednesday,2016-09-28,2016-09-28,1,0
+Unknown Location,Islamabad,0 days 02:34:00,12.6,Business,,154.0,9.0,29.0,16.0,3.0,Thursday,2016-09-29,2016-09-29,0,0
+Islamabad,Islamabad,0 days 02:41:00,37.7,Business,,161.0,9.0,30.0,17.0,4.0,Friday,2016-09-30,2016-09-30,1,0
+Islamabad,Unknown Location,0 days 01:35:00,16.7,Business,,95.0,9.0,30.0,20.0,4.0,Friday,2016-09-30,2016-09-30,0,0
+Unknown Location,Islamabad,0 days 00:03:00,10.5,Business,,3.0,10.0,3.0,17.0,0.0,Monday,2016-10-03,2016-10-03,1,0
+Islamabad,Islamabad,0 days 00:17:00,2.8,Business,,17.0,10.0,3.0,18.0,0.0,Monday,2016-10-03,2016-10-03,1,0
+Islamabad,Islamabad,0 days 00:10:00,1.6,Business,,10.0,10.0,3.0,18.0,0.0,Monday,2016-10-03,2016-10-03,1,0
+Islamabad,Unknown Location,0 days 00:29:00,12.7,Business,,29.0,10.0,3.0,22.0,0.0,Monday,2016-10-03,2016-10-03,0,0
+Unknown Location,Unknown Location,0 days 01:02:00,28.6,Business,,62.0,10.0,4.0,9.0,1.0,Tuesday,2016-10-04,2016-10-04,1,0
+Unknown Location,Unknown Location,0 days 00:01:00,15.1,Business,,1.0,10.0,4.0,12.0,1.0,Tuesday,2016-10-04,2016-10-04,0,0
+Unknown Location,R?walpindi,0 days 02:47:00,17.9,Business,,167.0,10.0,6.0,8.0,3.0,Thursday,2016-10-06,2016-10-06,1,0
+R?walpindi,Unknown Location,0 days 00:17:00,112.6,Business,,17.0,10.0,6.0,17.0,3.0,Thursday,2016-10-06,2016-10-06,1,0
+Unknown Location,Unknown Location,0 days 00:02:00,18.4,Business,,2.0,10.0,6.0,18.0,3.0,Thursday,2016-10-06,2016-10-06,1,0
+Unknown Location,Unknown Location,0 days 00:40:00,13.8,Business,,40.0,10.0,6.0,19.0,3.0,Thursday,2016-10-06,2016-10-06,1,0
+Unknown Location,Lahore,0 days 00:03:00,33.2,Business,,3.0,10.0,7.0,10.0,4.0,Friday,2016-10-07,2016-10-07,0,0
+Lahore,Lahore,0 days 00:23:00,2.6,Business,,23.0,10.0,7.0,11.0,4.0,Friday,2016-10-07,2016-10-07,0,0
+Lahore,Unknown Location,0 days 00:16:00,5.8,Business,,16.0,10.0,7.0,13.0,4.0,Friday,2016-10-07,2016-10-07,0,0
+Unknown Location,Lahore,0 days 00:42:00,8.3,Business,,42.0,10.0,7.0,14.0,4.0,Friday,2016-10-07,2016-10-07,0,0
+Lahore,Lahore,0 days 00:15:00,2.4,Business,,15.0,10.0,7.0,15.0,4.0,Friday,2016-10-07,2016-10-07,0,0
+Lahore,Lahore,0 days 00:19:00,3.1,Business,,19.0,10.0,7.0,18.0,4.0,Friday,2016-10-07,2016-10-07,1,0
+Lahore,Lahore,0 days 00:28:00,6.1,Business,,28.0,10.0,7.0,18.0,4.0,Friday,2016-10-07,2016-10-07,1,0
+Karachi,Karachi,0 days 00:00:00,3.6,Business,,0.0,10.0,8.0,15.0,5.0,Saturday,2016-10-08,2016-10-08,0,1
+Karachi,Unknown Location,0 days 00:03:00,8.0,Business,,3.0,10.0,8.0,18.0,5.0,Saturday,2016-10-08,2016-10-08,1,1
+Unknown Location,Unknown Location,0 days 00:19:00,7.7,Business,Temporary Site,19.0,10.0,9.0,14.0,6.0,Sunday,2016-10-09,2016-10-09,0,1
+Islamabad,Islamabad,0 days 00:06:00,1.7,Business,,6.0,10.0,10.0,17.0,0.0,Monday,2016-10-10,2016-10-10,1,0
+Islamabad,Unknown Location,0 days 00:40:00,9.5,Business,,40.0,10.0,10.0,17.0,0.0,Monday,2016-10-10,2016-10-10,1,0
+Unknown Location,R?walpindi,0 days 00:41:00,17.1,Business,Meeting,41.0,10.0,11.0,1.0,1.0,Tuesday,2016-10-11,2016-10-11,0,0
+R?walpindi,Unknown Location,0 days 00:03:00,18.4,Business,,3.0,10.0,12.0,19.0,2.0,Wednesday,2016-10-12,2016-10-12,1,0
+Unknown Location,Islamabad,0 days 00:38:00,9.8,Business,,38.0,10.0,13.0,11.0,3.0,Thursday,2016-10-13,2016-10-13,0,0
+Islamabad,Islamabad,0 days 00:06:00,1.0,Business,,6.0,10.0,13.0,12.0,3.0,Thursday,2016-10-13,2016-10-13,0,0
+Islamabad,Islamabad,0 days 00:00:00,0.7,Business,,0.0,10.0,13.0,13.0,3.0,Thursday,2016-10-13,2016-10-13,0,0
+Islamabad,Islamabad,0 days 00:09:00,2.3,Business,,9.0,10.0,13.0,13.0,3.0,Thursday,2016-10-13,2016-10-13,0,0
+Islamabad,Unknown Location,0 days 00:45:00,10.9,Business,,45.0,10.0,13.0,16.0,3.0,Thursday,2016-10-13,2016-10-13,0,0
+Unknown Location,R?walpindi,0 days 00:54:00,12.7,Business,,54.0,10.0,14.0,8.0,4.0,Friday,2016-10-14,2016-10-14,1,0
+R?walpindi,Unknown Location,0 days 00:36:00,12.4,Business,,36.0,10.0,14.0,10.0,4.0,Friday,2016-10-14,2016-10-14,0,0
+Unknown Location,Unknown Location,0 days 00:24:00,3.8,Business,,24.0,10.0,14.0,15.0,4.0,Friday,2016-10-14,2016-10-14,0,0
+Unknown Location,R?walpindi,0 days 02:12:00,17.0,Business,Meeting,132.0,10.0,14.0,23.0,4.0,Friday,2016-10-14,2016-10-15,0,0
+Morrisville,Morrisville,0 days 00:20:00,6.2,Business,,20.0,10.0,15.0,22.0,5.0,Saturday,2016-10-15,2016-10-15,0,1
+Morrisville,Cary,0 days 00:13:00,3.1,Business,,13.0,10.0,16.0,0.0,6.0,Sunday,2016-10-16,2016-10-16,0,1
+Cary,Durham,0 days 00:19:00,10.5,Business,Meeting,19.0,10.0,16.0,12.0,6.0,Sunday,2016-10-16,2016-10-16,0,1
+Durham,Morrisville,0 days 00:21:00,8.1,Business,,21.0,10.0,16.0,14.0,6.0,Sunday,2016-10-16,2016-10-16,0,1
+Morrisville,Cary,0 days 00:09:00,3.1,Business,,9.0,10.0,16.0,15.0,6.0,Sunday,2016-10-16,2016-10-16,0,1
+Whitebridge,Parkway,0 days 00:06:00,2.1,Business,Meeting,6.0,10.0,16.0,19.0,6.0,Sunday,2016-10-16,2016-10-16,1,1
+Cary,Morrisville,0 days 00:09:00,4.3,Business,,9.0,10.0,16.0,20.0,6.0,Sunday,2016-10-16,2016-10-16,0,1
+Morrisville,Cary,0 days 00:07:00,2.5,Business,Meal/Entertain,7.0,10.0,16.0,21.0,6.0,Sunday,2016-10-16,2016-10-16,0,1
+Cary,Raleigh,0 days 00:38:00,20.6,Business,,38.0,10.0,17.0,15.0,0.0,Monday,2016-10-17,2016-10-17,0,0
+Raleigh,Cary,0 days 00:42:00,17.6,Business,,42.0,10.0,17.0,16.0,0.0,Monday,2016-10-17,2016-10-17,0,0
+Cary,Apex,0 days 00:14:00,5.6,Business,,14.0,10.0,17.0,18.0,0.0,Monday,2016-10-17,2016-10-17,1,0
+Apex,Apex,0 days 00:14:00,3.3,Business,,14.0,10.0,17.0,18.0,0.0,Monday,2016-10-17,2016-10-17,1,0
+Apex,Cary,0 days 00:17:00,5.3,Business,,17.0,10.0,17.0,19.0,0.0,Monday,2016-10-17,2016-10-17,1,0
+Whitebridge,Edgehill Farms,0 days 00:10:00,3.3,Business,,10.0,10.0,18.0,8.0,1.0,Tuesday,2016-10-18,2016-10-18,1,0
+Edgehill Farms,Whitebridge,0 days 00:09:00,3.3,Business,,9.0,10.0,18.0,8.0,1.0,Tuesday,2016-10-18,2016-10-18,1,0
+Cary,Morrisville,0 days 00:28:00,7.9,Business,Temporary Site,28.0,10.0,18.0,10.0,1.0,Tuesday,2016-10-18,2016-10-18,0,0
+Oakland,Emeryville,0 days 00:21:00,13.0,Business,,21.0,10.0,18.0,18.0,1.0,Tuesday,2016-10-18,2016-10-18,1,0
+Emeryville,Berkeley,0 days 00:10:00,3.0,Business,,10.0,10.0,18.0,19.0,1.0,Tuesday,2016-10-18,2016-10-18,1,0
+Berkeley,Emeryville,0 days 00:06:00,3.0,Business,,6.0,10.0,18.0,20.0,1.0,Tuesday,2016-10-18,2016-10-18,0,0
+Emeryville,Oakland,0 days 00:14:00,3.8,Business,,14.0,10.0,19.0,9.0,2.0,Wednesday,2016-10-19,2016-10-19,1,0
+Oakland,San Francisco,0 days 00:27:00,9.5,Business,,27.0,10.0,19.0,9.0,2.0,Wednesday,2016-10-19,2016-10-19,1,0
+SOMISSPO,French Quarter,0 days 00:11:00,1.7,Business,,11.0,10.0,19.0,13.0,2.0,Wednesday,2016-10-19,2016-10-19,0,0
+San Francisco,Berkeley,0 days 00:29:00,10.8,Business,,29.0,10.0,19.0,14.0,2.0,Wednesday,2016-10-19,2016-10-19,0,0
+West Berkeley,North Berkeley Hills,0 days 00:18:00,4.1,Business,,18.0,10.0,19.0,15.0,2.0,Wednesday,2016-10-19,2016-10-19,0,0
+North Berkeley Hills,Southside,0 days 00:13:00,2.2,Business,,13.0,10.0,19.0,16.0,2.0,Wednesday,2016-10-19,2016-10-19,0,0
+Berkeley,Emeryville,0 days 00:28:00,4.6,Business,,28.0,10.0,19.0,16.0,2.0,Wednesday,2016-10-19,2016-10-19,0,0
+Emeryville,Berkeley,0 days 00:08:00,3.1,Business,,8.0,10.0,20.0,11.0,3.0,Thursday,2016-10-20,2016-10-20,0,0
+Berkeley,San Jose,0 days 00:58:00,47.7,Business,,58.0,10.0,20.0,12.0,3.0,Thursday,2016-10-20,2016-10-20,0,0
+San Jose,Emeryville,0 days 00:53:00,44.6,Business,,53.0,10.0,20.0,20.0,3.0,Thursday,2016-10-20,2016-10-20,0,0
+Emeryville,Oakland,0 days 00:15:00,13.2,Business,,15.0,10.0,21.0,10.0,4.0,Friday,2016-10-21,2016-10-21,0,0
+Morrisville,Cary,0 days 00:15:00,8.7,Business,,15.0,10.0,22.0,0.0,5.0,Saturday,2016-10-22,2016-10-22,0,1
+Cary,Raleigh,0 days 00:37:00,17.2,Business,,37.0,10.0,22.0,13.0,5.0,Saturday,2016-10-22,2016-10-22,0,1
+Raleigh,Cary,0 days 00:47:00,14.0,Business,,47.0,10.0,22.0,17.0,5.0,Saturday,2016-10-22,2016-10-22,1,1
+Cary,Raleigh,0 days 00:41:00,28.1,Business,,41.0,10.0,23.0,9.0,6.0,Sunday,2016-10-23,2016-10-23,1,1
+Raleigh,Cary,0 days 00:42:00,28.2,Business,,42.0,10.0,23.0,12.0,6.0,Sunday,2016-10-23,2016-10-23,0,1
+Cary,Morrisville,0 days 00:10:00,3.1,Business,Meal/Entertain,10.0,10.0,23.0,19.0,6.0,Sunday,2016-10-23,2016-10-23,1,1
+Morrisville,Cary,0 days 00:15:00,3.1,Business,Customer Visit,15.0,10.0,23.0,21.0,6.0,Sunday,2016-10-23,2016-10-23,0,1
+Cary,Durham,0 days 00:29:00,16.4,Business,,29.0,10.0,24.0,14.0,0.0,Monday,2016-10-24,2016-10-24,0,0
+Durham,Morrisville,0 days 00:40:00,15.4,Business,,40.0,10.0,24.0,15.0,0.0,Monday,2016-10-24,2016-10-24,0,0
+Morrisville,Cary,0 days 00:07:00,2.2,Business,,7.0,10.0,24.0,16.0,0.0,Monday,2016-10-24,2016-10-24,0,0
+Cary,Apex,0 days 00:41:00,11.2,Business,,41.0,10.0,25.0,13.0,1.0,Tuesday,2016-10-25,2016-10-25,0,0
+Apex,Eagle Rock,0 days 00:07:00,2.2,Business,,7.0,10.0,25.0,15.0,1.0,Tuesday,2016-10-25,2016-10-25,0,0
+Eagle Rock,Cary,0 days 00:17:00,3.6,Business,,17.0,10.0,25.0,15.0,1.0,Tuesday,2016-10-25,2016-10-25,0,0
+Whitebridge,Savon Height,0 days 00:11:00,3.6,Business,Meal/Entertain,11.0,10.0,25.0,20.0,1.0,Tuesday,2016-10-25,2016-10-25,0,0
+Savon Height,Parkway,0 days 00:09:00,4.9,Business,,9.0,10.0,25.0,20.0,1.0,Tuesday,2016-10-25,2016-10-25,0,0
+Parkway,Whitebridge,0 days 00:21:00,8.7,Business,Errand/Supplies,21.0,10.0,25.0,22.0,1.0,Tuesday,2016-10-25,2016-10-25,0,0
+Whitebridge,Parkway,0 days 00:06:00,2.1,Business,Meeting,6.0,10.0,26.0,19.0,2.0,Wednesday,2016-10-26,2016-10-26,1,0
+Parkway,Whitebridge,0 days 00:10:00,2.1,Business,,10.0,10.0,26.0,20.0,2.0,Wednesday,2016-10-26,2016-10-26,0,0
+Cary,Morrisville,0 days 00:25:00,8.4,Business,Meeting,25.0,10.0,27.0,18.0,3.0,Thursday,2016-10-27,2016-10-27,1,0
+Morrisville,Morrisville,0 days 00:15:00,5.9,Business,,15.0,10.0,27.0,19.0,3.0,Thursday,2016-10-27,2016-10-27,1,0
+Huntington Woods,Huntington Woods,0 days 00:29:00,12.1,Business,,29.0,10.0,27.0,19.0,3.0,Thursday,2016-10-27,2016-10-27,1,0
+Huntington Woods,Weston,0 days 00:07:00,3.9,Business,,7.0,10.0,27.0,20.0,3.0,Thursday,2016-10-27,2016-10-27,0,0
+Morrisville,Cary,0 days 00:22:00,6.2,Business,,22.0,10.0,27.0,21.0,3.0,Thursday,2016-10-27,2016-10-27,0,0
+Cary,Durham,0 days 00:18:00,10.4,Business,Meeting,18.0,10.0,28.0,11.0,4.0,Friday,2016-10-28,2016-10-28,0,0
+Durham,Cary,0 days 00:30:00,9.9,Business,Meeting,30.0,10.0,28.0,13.0,4.0,Friday,2016-10-28,2016-10-28,0,0
+Cary,Winston Salem,0 days 02:06:00,107.0,Business,Meeting,126.0,10.0,28.0,15.0,4.0,Friday,2016-10-28,2016-10-28,0,0
+Winston Salem,Asheville,0 days 01:54:00,133.6,Business,Meeting,114.0,10.0,28.0,18.0,4.0,Friday,2016-10-28,2016-10-28,1,0
+Asheville,Topton,0 days 01:47:00,91.8,Business,Meeting,107.0,10.0,28.0,20.0,4.0,Friday,2016-10-28,2016-10-28,0,0
+Topton,Hayesville,0 days 01:43:00,40.7,Business,Meeting,103.0,10.0,29.0,15.0,5.0,Saturday,2016-10-29,2016-10-29,0,1
+Hayesville,Topton,0 days 02:06:00,75.7,Business,,126.0,10.0,29.0,17.0,5.0,Saturday,2016-10-29,2016-10-29,1,1
+Topton,Bryson City,0 days 00:41:00,29.8,Business,,41.0,10.0,30.0,7.0,6.0,Sunday,2016-10-30,2016-10-30,1,1
+Bryson City,Bryson City,0 days 01:02:00,16.3,Business,,62.0,10.0,30.0,9.0,6.0,Sunday,2016-10-30,2016-10-30,1,1
+Bryson City,Bryson City,0 days 00:27:00,6.5,Business,,27.0,10.0,30.0,10.0,6.0,Sunday,2016-10-30,2016-10-30,0,1
+Bryson City,Bryson City,0 days 00:30:00,6.3,Business,,30.0,10.0,30.0,10.0,6.0,Sunday,2016-10-30,2016-10-30,0,1
+Bryson City,Almond,0 days 00:11:00,6.6,Business,,11.0,10.0,30.0,12.0,6.0,Sunday,2016-10-30,2016-10-30,0,1
+Almond,Bryson City,0 days 00:20:00,15.2,Business,,20.0,10.0,30.0,12.0,6.0,Sunday,2016-10-30,2016-10-30,0,1
+Bryson City,Asheville,0 days 01:13:00,68.4,Business,,73.0,10.0,30.0,13.0,6.0,Sunday,2016-10-30,2016-10-30,0,1
+Asheville,Mebane,0 days 03:01:00,195.9,Business,,181.0,10.0,30.0,15.0,6.0,Sunday,2016-10-30,2016-10-30,0,1
+Mebane,Cary,0 days 01:13:00,45.2,Business,,73.0,10.0,30.0,18.0,6.0,Sunday,2016-10-30,2016-10-30,1,1
+Cary,Morrisville,0 days 00:09:00,3.2,Business,,9.0,10.0,31.0,18.0,0.0,Monday,2016-10-31,2016-10-31,1,0
+Morrisville,Raleigh,0 days 00:29:00,10.3,Business,,29.0,10.0,31.0,18.0,0.0,Monday,2016-10-31,2016-10-31,1,0
+Raleigh,Cary,0 days 00:26:00,13.1,Business,,26.0,10.0,31.0,20.0,0.0,Monday,2016-10-31,2016-10-31,0,0
+Savon Height,Whitebridge,0 days 00:25:00,9.6,Business,Errand/Supplies,25.0,10.0,31.0,21.0,0.0,Monday,2016-10-31,2016-10-31,0,0
+Cary,Durham,0 days 00:37:00,16.5,Business,,37.0,11.0,1.0,11.0,1.0,Tuesday,2016-11-01,2016-11-01,0,0
+Durham,Cary,0 days 00:33:00,12.8,Business,,33.0,11.0,1.0,16.0,1.0,Tuesday,2016-11-01,2016-11-01,0,0
+Whitebridge,Whitebridge,0 days 00:07:00,1.2,Business,,7.0,11.0,1.0,17.0,1.0,Tuesday,2016-11-01,2016-11-01,1,0
+Whitebridge,Whitebridge,0 days 00:06:00,1.0,Business,,6.0,11.0,1.0,19.0,1.0,Tuesday,2016-11-01,2016-11-01,1,0
+Whitebridge,Whitebridge,0 days 00:13:00,4.1,Business,,13.0,11.0,1.0,19.0,1.0,Tuesday,2016-11-01,2016-11-01,1,0
+Whitebridge,Whitebridge,0 days 00:14:00,4.2,Business,Meal/Entertain,14.0,11.0,1.0,20.0,1.0,Tuesday,2016-11-01,2016-11-01,0,0
+Whitebridge,Westpark Place,0 days 00:08:00,1.4,Business,,8.0,11.0,2.0,15.0,2.0,Wednesday,2016-11-02,2016-11-02,0,0
+Westpark Place,Whitebridge,0 days 00:07:00,1.8,Business,,7.0,11.0,2.0,15.0,2.0,Wednesday,2016-11-02,2016-11-02,0,0
+Cary,Morrisville,0 days 00:25:00,8.5,Business,Meeting,25.0,11.0,2.0,16.0,2.0,Wednesday,2016-11-02,2016-11-02,0,0
+Morrisville,Morrisville,0 days 00:15:00,5.0,Business,,15.0,11.0,2.0,17.0,2.0,Wednesday,2016-11-02,2016-11-02,1,0
+Morrisville,Cary,0 days 00:07:00,3.8,Business,,7.0,11.0,2.0,17.0,2.0,Wednesday,2016-11-02,2016-11-02,1,0
+Whitebridge,Hazelwood,0 days 00:06:00,2.5,Business,,6.0,11.0,3.0,11.0,3.0,Thursday,2016-11-03,2016-11-03,0,0
+Hazelwood,Whitebridge,0 days 00:06:00,2.4,Business,,6.0,11.0,3.0,12.0,3.0,Thursday,2016-11-03,2016-11-03,0,0
+Whitebridge,Westpark Place,0 days 00:05:00,1.4,Business,,5.0,11.0,3.0,13.0,3.0,Thursday,2016-11-03,2016-11-03,0,0
+Westpark Place,Whitebridge,0 days 00:13:00,1.8,Business,,13.0,11.0,3.0,14.0,3.0,Thursday,2016-11-03,2016-11-03,0,0
+Cary,Morrisville,0 days 00:17:00,3.1,Business,Meal/Entertain,17.0,11.0,3.0,18.0,3.0,Thursday,2016-11-03,2016-11-03,1,0
+Morrisville,Cary,0 days 00:12:00,3.1,Business,Customer Visit,12.0,11.0,3.0,22.0,3.0,Thursday,2016-11-03,2016-11-03,0,0
+Cary,Morrisville,0 days 00:16:00,7.9,Business,Temporary Site,16.0,11.0,4.0,10.0,4.0,Friday,2016-11-04,2016-11-04,0,0
+San Jose,Santa Clara,0 days 00:07:00,3.8,Business,,7.0,11.0,4.0,18.0,4.0,Friday,2016-11-04,2016-11-04,1,0
+Agnew,Cory,0 days 00:16:00,4.3,Business,,16.0,11.0,4.0,21.0,4.0,Friday,2016-11-04,2016-11-04,0,0
+Cory,Agnew,0 days 00:13:00,3.9,Business,,13.0,11.0,4.0,22.0,4.0,Friday,2016-11-04,2016-11-04,0,0
+Agnew,Renaissance,0 days 00:09:00,2.2,Business,,9.0,11.0,5.0,8.0,5.0,Saturday,2016-11-05,2016-11-05,1,1
+Renaissance,Agnew,0 days 00:11:00,2.8,Business,,11.0,11.0,5.0,17.0,5.0,Saturday,2016-11-05,2016-11-05,1,1
+Agnew,Agnew,0 days 00:08:00,2.2,Business,,8.0,11.0,5.0,19.0,5.0,Saturday,2016-11-05,2016-11-05,1,1
+Agnew,Renaissance,0 days 00:14:00,2.4,Business,,14.0,11.0,6.0,10.0,6.0,Sunday,2016-11-06,2016-11-06,0,1
+Renaissance,Agnew,0 days 00:17:00,2.8,Business,Meeting,17.0,11.0,6.0,16.0,6.0,Sunday,2016-11-06,2016-11-06,0,1
+Santa Clara,Berkeley,0 days 01:01:00,43.9,Business,Customer Visit,61.0,11.0,6.0,16.0,6.0,Sunday,2016-11-06,2016-11-06,0,1
+Downtown,West Berkeley,0 days 00:08:00,1.8,Business,,8.0,11.0,6.0,19.0,6.0,Sunday,2016-11-06,2016-11-06,1,1
+West Berkeley,Central,0 days 00:15:00,3.3,Business,,15.0,11.0,6.0,20.0,6.0,Sunday,2016-11-06,2016-11-06,0,1
+Berkeley,San Francisco,0 days 00:29:00,11.8,Business,Between Offices,29.0,11.0,7.0,12.0,0.0,Monday,2016-11-07,2016-11-07,0,0
+San Francisco,Berkeley,0 days 00:40:00,13.2,Business,Between Offices,40.0,11.0,7.0,19.0,0.0,Monday,2016-11-07,2016-11-07,1,0
+Berkeley,San Francisco,0 days 00:28:00,12.2,Business,Between Offices,28.0,11.0,8.0,10.0,1.0,Tuesday,2016-11-08,2016-11-08,0,0
+San Francisco,Berkeley,0 days 00:33:00,11.3,Business,Meeting,33.0,11.0,8.0,12.0,1.0,Tuesday,2016-11-08,2016-11-08,0,0
+Berkeley,Emeryville,0 days 00:20:00,3.6,Business,,20.0,11.0,8.0,13.0,1.0,Tuesday,2016-11-08,2016-11-08,0,0
+Emeryville,Berkeley,0 days 00:13:00,3.0,Business,,13.0,11.0,8.0,16.0,1.0,Tuesday,2016-11-08,2016-11-08,0,0
+Berkeley,San Francisco,0 days 00:33:00,11.4,Business,,33.0,11.0,9.0,13.0,2.0,Wednesday,2016-11-09,2016-11-09,0,0
+NOMA,Downtown,0 days 00:06:00,0.9,Business,,6.0,11.0,9.0,15.0,2.0,Wednesday,2016-11-09,2016-11-09,0,0
+Downtown,Sunnyside,0 days 00:32:00,6.2,Business,,32.0,11.0,9.0,17.0,2.0,Wednesday,2016-11-09,2016-11-09,1,0
+Sunnyside,Ingleside,0 days 00:05:00,0.7,Business,,5.0,11.0,9.0,18.0,2.0,Wednesday,2016-11-09,2016-11-09,1,0
+Ingleside,Potrero Flats,0 days 00:14:00,5.5,Business,Meeting,14.0,11.0,9.0,18.0,2.0,Wednesday,2016-11-09,2016-11-09,1,0
+San Francisco,Oakland,0 days 00:37:00,12.7,Business,Customer Visit,37.0,11.0,9.0,18.0,2.0,Wednesday,2016-11-09,2016-11-09,1,0
+Oakland,Berkeley,0 days 00:10:00,2.6,Business,,10.0,11.0,9.0,20.0,2.0,Wednesday,2016-11-09,2016-11-09,0,0
+Central,Central,0 days 00:06:00,1.1,Business,,6.0,11.0,9.0,21.0,2.0,Wednesday,2016-11-09,2016-11-09,0,0
+Berkeley,San Francisco,0 days 00:29:00,12.6,Business,Temporary Site,29.0,11.0,10.0,9.0,3.0,Thursday,2016-11-10,2016-11-10,1,0
+Tenderloin,SOMISSPO,0 days 00:11:00,1.2,Business,,11.0,11.0,10.0,10.0,3.0,Thursday,2016-11-10,2016-11-10,0,0
+SOMISSPO,Tenderloin,0 days 00:10:00,1.1,Business,,10.0,11.0,10.0,14.0,3.0,Thursday,2016-11-10,2016-11-10,0,0
+San Francisco,Oakland,0 days 00:05:00,9.9,Business,Temporary Site,5.0,11.0,10.0,15.0,3.0,Thursday,2016-11-10,2016-11-10,0,0
+Oakland,Berkeley,0 days 00:23:00,6.0,Business,Meeting,23.0,11.0,10.0,15.0,3.0,Thursday,2016-11-10,2016-11-10,0,0
+West Berkeley,Central,0 days 00:03:00,0.8,Business,,3.0,11.0,10.0,19.0,3.0,Thursday,2016-11-10,2016-11-10,1,0
+Berkeley,Menlo Park,0 days 00:48:00,45.9,Business,Customer Visit,48.0,11.0,11.0,9.0,4.0,Friday,2016-11-11,2016-11-11,1,0
+Menlo Park,Palo Alto,0 days 00:15:00,4.0,Business,,15.0,11.0,11.0,12.0,4.0,Friday,2016-11-11,2016-11-11,0,0
+Palo Alto,Menlo Park,0 days 00:12:00,2.5,Business,,12.0,11.0,11.0,14.0,4.0,Friday,2016-11-11,2016-11-11,0,0
+Menlo Park,Berkeley,0 days 01:07:00,36.6,Business,Customer Visit,67.0,11.0,11.0,14.0,4.0,Friday,2016-11-11,2016-11-11,0,0
+Central,College Avenue,0 days 00:13:00,2.9,Business,,13.0,11.0,11.0,18.0,4.0,Friday,2016-11-11,2016-11-11,1,0
+College Avenue,Central,0 days 00:10:00,2.6,Business,,10.0,11.0,11.0,21.0,4.0,Friday,2016-11-11,2016-11-11,0,0
+Central,South,0 days 00:20:00,2.3,Business,,20.0,11.0,12.0,10.0,5.0,Saturday,2016-11-12,2016-11-12,0,1
+South,Downtown,0 days 00:30:00,6.4,Business,,30.0,11.0,12.0,10.0,5.0,Saturday,2016-11-12,2016-11-12,0,1
+Downtown,Central,0 days 00:08:00,1.4,Business,,8.0,11.0,12.0,13.0,5.0,Saturday,2016-11-12,2016-11-12,0,1
+Central,West Berkeley,0 days 00:04:00,0.6,Business,,4.0,11.0,12.0,13.0,5.0,Saturday,2016-11-12,2016-11-12,0,1
+West Berkeley,South,0 days 00:31:00,5.9,Business,Meeting,31.0,11.0,12.0,14.0,5.0,Saturday,2016-11-12,2016-11-12,0,1
+South,Southwest Berkeley,0 days 00:07:00,0.8,Business,,7.0,11.0,12.0,15.0,5.0,Saturday,2016-11-12,2016-11-12,0,1
+Berkeley,Emeryville,0 days 00:11:00,1.3,Business,,11.0,11.0,12.0,15.0,5.0,Saturday,2016-11-12,2016-11-12,0,1
+Emeryville,Berkeley,0 days 00:19:00,3.7,Business,Errand/Supplies,19.0,11.0,12.0,15.0,5.0,Saturday,2016-11-12,2016-11-12,0,1
+Central,Central,0 days 00:08:00,2.3,Business,,8.0,11.0,13.0,8.0,6.0,Sunday,2016-11-13,2016-11-13,1,1
+Central,Central,0 days 00:26:00,2.6,Business,,26.0,11.0,13.0,9.0,6.0,Sunday,2016-11-13,2016-11-13,1,1
+Central,Southside,0 days 00:06:00,1.9,Business,,6.0,11.0,13.0,10.0,6.0,Sunday,2016-11-13,2016-11-13,0,1
+Southside,West Berkeley,0 days 00:12:00,2.1,Business,,12.0,11.0,13.0,11.0,6.0,Sunday,2016-11-13,2016-11-13,0,1
+West Berkeley,Southside,0 days 00:29:00,4.0,Business,Meeting,29.0,11.0,13.0,12.0,6.0,Sunday,2016-11-13,2016-11-13,0,1
+Southside,South Berkeley,0 days 00:06:00,0.9,Business,,6.0,11.0,13.0,13.0,6.0,Sunday,2016-11-13,2016-11-13,0,1
+South Berkeley,Southside,0 days 00:04:00,0.9,Business,,4.0,11.0,13.0,13.0,6.0,Sunday,2016-11-13,2016-11-13,0,1
+Southside,Central,0 days 00:11:00,2.4,Business,,11.0,11.0,13.0,14.0,6.0,Sunday,2016-11-13,2016-11-13,0,1
+Central,Southside,0 days 00:10:00,1.9,Business,,10.0,11.0,13.0,15.0,6.0,Sunday,2016-11-13,2016-11-13,0,1
+Southside,Central,0 days 00:12:00,1.9,Business,,12.0,11.0,13.0,15.0,6.0,Sunday,2016-11-13,2016-11-13,0,1
+Berkeley,Mountain View,0 days 00:49:00,44.6,Business,Customer Visit,49.0,11.0,14.0,11.0,0.0,Monday,2016-11-14,2016-11-14,0,0
+Mountain View,Berkeley,0 days 00:53:00,43.6,Business,Customer Visit,53.0,11.0,14.0,13.0,0.0,Monday,2016-11-14,2016-11-14,0,0
+Berkeley,Emeryville,0 days 00:09:00,2.5,Business,,9.0,11.0,14.0,15.0,0.0,Monday,2016-11-14,2016-11-14,0,0
+Emeryville,Berkeley,0 days 00:11:00,3.7,Business,Errand/Supplies,11.0,11.0,14.0,20.0,0.0,Monday,2016-11-14,2016-11-14,0,0
+Berkeley,Oakland,0 days 00:07:00,5.1,Business,,7.0,11.0,15.0,13.0,1.0,Tuesday,2016-11-15,2016-11-15,0,0
+Oakland,San Francisco,0 days 00:17:00,9.7,Business,Temporary Site,17.0,11.0,15.0,14.0,1.0,Tuesday,2016-11-15,2016-11-15,0,0
+San Francisco,Berkeley,0 days 00:16:00,11.8,Business,Temporary Site,16.0,11.0,15.0,20.0,1.0,Tuesday,2016-11-15,2016-11-15,0,0
+Berkeley,El Cerrito,0 days 00:06:00,2.3,Business,Temporary Site,6.0,11.0,16.0,20.0,2.0,Wednesday,2016-11-16,2016-11-16,0,0
+El Cerrito,Berkeley,0 days 00:10:00,3.1,Business,Meal/Entertain,10.0,11.0,16.0,22.0,2.0,Wednesday,2016-11-16,2016-11-16,0,0
+Berkeley,Oakland,0 days 00:31:00,16.3,Business,Customer Visit,31.0,11.0,17.0,10.0,3.0,Thursday,2016-11-17,2016-11-17,0,0
+Cary,Morrisville,0 days 00:10:00,3.1,Business,Meal/Entertain,10.0,11.0,18.0,20.0,4.0,Friday,2016-11-18,2016-11-18,0,0
+Morrisville,Cary,0 days 00:11:00,5.2,Business,Meal/Entertain,11.0,11.0,18.0,21.0,4.0,Friday,2016-11-18,2016-11-18,0,0
+Krendle Woods,Whitebridge,0 days 00:25:00,6.1,Business,Meeting,25.0,11.0,18.0,21.0,4.0,Friday,2016-11-18,2016-11-18,0,0
+Cary,Durham,0 days 00:19:00,10.3,Business,Meeting,19.0,11.0,19.0,13.0,5.0,Saturday,2016-11-19,2016-11-19,0,1
+Durham,Cary,0 days 00:21:00,10.5,Business,Meeting,21.0,11.0,19.0,14.0,5.0,Saturday,2016-11-19,2016-11-19,0,1
+Cary,Cary,0 days 00:05:00,1.5,Business,,5.0,11.0,19.0,16.0,5.0,Saturday,2016-11-19,2016-11-19,0,1
+Cary,Cary,0 days 00:14:00,1.8,Business,,14.0,11.0,19.0,16.0,5.0,Saturday,2016-11-19,2016-11-19,0,1
+Cary,Apex,0 days 00:13:00,5.4,Business,Errand/Supplies,13.0,11.0,19.0,17.0,5.0,Saturday,2016-11-19,2016-11-19,1,1
+Apex,Cary,0 days 00:21:00,5.4,Business,Customer Visit,21.0,11.0,19.0,21.0,5.0,Saturday,2016-11-19,2016-11-19,0,1
+Cary,Cary,0 days 01:05:00,39.2,Business,Between Offices,65.0,11.0,20.0,10.0,6.0,Sunday,2016-11-20,2016-11-20,0,1
+Cary,Cary,0 days 00:30:00,6.4,Business,Customer Visit,30.0,11.0,20.0,11.0,6.0,Sunday,2016-11-20,2016-11-20,0,1
+Cary,Cary,0 days 00:09:00,2.7,Business,Meeting,9.0,11.0,20.0,14.0,6.0,Sunday,2016-11-20,2016-11-20,0,1
+Cary,Cary,0 days 00:52:00,18.5,Business,Errand/Supplies,52.0,11.0,20.0,17.0,6.0,Sunday,2016-11-20,2016-11-20,1,1
+Cary,Cary,0 days 00:12:00,2.5,Business,Meal/Entertain,12.0,11.0,21.0,13.0,0.0,Monday,2016-11-21,2016-11-21,0,0
+Cary,Cary,0 days 00:10:00,2.1,Business,Meal/Entertain,10.0,11.0,21.0,14.0,0.0,Monday,2016-11-21,2016-11-21,0,0
+Cary,Unknown Location,0 days 00:14:00,6.7,Business,Errand/Supplies,14.0,11.0,21.0,17.0,0.0,Monday,2016-11-21,2016-11-21,1,0
+Unknown Location,Morrisville,0 days 00:09:00,3.5,Business,Meal/Entertain,9.0,11.0,21.0,18.0,0.0,Monday,2016-11-21,2016-11-21,1,0
+Morrisville,Cary,0 days 00:08:00,3.4,Business,Errand/Supplies,8.0,11.0,21.0,18.0,0.0,Monday,2016-11-21,2016-11-21,1,0
+Cary,Cary,0 days 00:15:00,5.5,Business,Meeting,15.0,11.0,22.0,15.0,1.0,Tuesday,2016-11-22,2016-11-22,0,0
+Cary,Cary,0 days 00:13:00,4.1,Business,Meeting,13.0,11.0,22.0,15.0,1.0,Tuesday,2016-11-22,2016-11-22,0,0
+Cary,Cary,0 days 00:52:00,12.7,Business,Customer Visit,52.0,11.0,22.0,15.0,1.0,Tuesday,2016-11-22,2016-11-22,0,0
+Cary,Morrisville,0 days 00:10:00,3.0,Business,Meal/Entertain,10.0,11.0,22.0,18.0,1.0,Tuesday,2016-11-22,2016-11-22,1,0
+Morrisville,Cary,0 days 00:12:00,3.5,Business,Customer Visit,12.0,11.0,22.0,21.0,1.0,Tuesday,2016-11-22,2016-11-22,0,0
+Cary,Cary,0 days 00:16:00,5.9,Business,Meal/Entertain,16.0,11.0,23.0,15.0,2.0,Wednesday,2016-11-23,2016-11-23,0,0
+Cary,Cary,0 days 00:11:00,1.9,Business,,11.0,11.0,23.0,16.0,2.0,Wednesday,2016-11-23,2016-11-23,0,0
+Cary,Cary,0 days 00:11:00,3.3,Business,,11.0,11.0,23.0,16.0,2.0,Wednesday,2016-11-23,2016-11-23,0,0
+Cary,Cary,0 days 00:10:00,1.3,Business,,10.0,11.0,23.0,18.0,2.0,Wednesday,2016-11-23,2016-11-23,1,0
+Cary,Durham,0 days 00:17:00,10.3,Business,Meeting,17.0,11.0,25.0,11.0,4.0,Friday,2016-11-25,2016-11-25,0,0
+Durham,Cary,0 days 00:18:00,11.1,Business,Meeting,18.0,11.0,25.0,13.0,4.0,Friday,2016-11-25,2016-11-25,0,0
+Cary,Cary,0 days 00:05:00,1.4,Business,,5.0,11.0,26.0,15.0,5.0,Saturday,2016-11-26,2016-11-26,0,1
+Cary,Apex,0 days 00:12:00,5.1,Business,Meeting,12.0,11.0,26.0,17.0,5.0,Saturday,2016-11-26,2016-11-26,1,1
+Apex,Holly Springs,0 days 00:20:00,9.0,Business,Meeting,20.0,11.0,26.0,17.0,5.0,Saturday,2016-11-26,2016-11-26,1,1
+Holly Springs,Cary,0 days 00:35:00,13.3,Business,Between Offices,35.0,11.0,26.0,18.0,5.0,Saturday,2016-11-26,2016-11-26,1,1
+Cary,Cary,0 days 00:07:00,2.5,Business,Errand/Supplies,7.0,11.0,26.0,19.0,5.0,Saturday,2016-11-26,2016-11-26,1,1
+Cary,Morrisville,0 days 00:07:00,3.3,Business,Meal/Entertain,7.0,11.0,27.0,15.0,6.0,Sunday,2016-11-27,2016-11-27,0,1
+Morrisville,Cary,0 days 00:14:00,2.9,Business,,14.0,11.0,27.0,18.0,6.0,Sunday,2016-11-27,2016-11-27,1,1
+Cary,Raleigh,0 days 00:31:00,8.5,Business,Customer Visit,31.0,11.0,30.0,11.0,2.0,Wednesday,2016-11-30,2016-11-30,0,0
+Raleigh,Morrisville,0 days 00:42:00,6.7,Business,Temporary Site,42.0,11.0,30.0,11.0,2.0,Wednesday,2016-11-30,2016-11-30,0,0
+Morrisville,Cary,0 days 00:10:00,3.1,Business,,10.0,11.0,30.0,12.0,2.0,Wednesday,2016-11-30,2016-11-30,0,0
+Cary,Cary,0 days 00:15:00,5.5,Business,Meeting,15.0,12.0,1.0,7.0,3.0,Thursday,2016-12-01,2016-12-01,1,0
+Cary,Cary,0 days 00:16:00,5.5,Business,Errand/Supplies,16.0,12.0,1.0,8.0,3.0,Thursday,2016-12-01,2016-12-01,1,0
+Cary,Morrisville,0 days 00:12:00,2.9,Business,Meal/Entertain,12.0,12.0,1.0,18.0,3.0,Thursday,2016-12-01,2016-12-01,1,0
+Morrisville,Cary,0 days 00:10:00,2.9,Business,Customer Visit,10.0,12.0,1.0,20.0,3.0,Thursday,2016-12-01,2016-12-01,0,0
+Cary,Apex,0 days 00:11:00,5.1,Business,Meal/Entertain,11.0,12.0,2.0,12.0,4.0,Friday,2016-12-02,2016-12-02,0,0
+Apex,Cary,0 days 00:15:00,5.3,Business,Customer Visit,15.0,12.0,2.0,13.0,4.0,Friday,2016-12-02,2016-12-02,0,0
+Cary,Morrisville,0 days 00:07:00,3.3,Business,Meal/Entertain,7.0,12.0,2.0,20.0,4.0,Friday,2016-12-02,2016-12-02,0,0
+Morrisville,Cary,0 days 00:08:00,3.0,Business,Customer Visit,8.0,12.0,2.0,22.0,4.0,Friday,2016-12-02,2016-12-02,0,0
+Cary,Wake Co.,0 days 00:21:00,6.6,Business,Errand/Supplies,21.0,12.0,3.0,18.0,5.0,Saturday,2016-12-03,2016-12-03,1,1
+Wake Co.,Morrisville,0 days 00:07:00,1.8,Business,,7.0,12.0,3.0,19.0,5.0,Saturday,2016-12-03,2016-12-03,1,1
+Morrisville,Cary,0 days 00:10:00,3.0,Business,Customer Visit,10.0,12.0,3.0,20.0,5.0,Saturday,2016-12-03,2016-12-03,0,1
+Cary,Morrisville,0 days 00:07:00,2.9,Business,Meal/Entertain,7.0,12.0,4.0,18.0,6.0,Sunday,2016-12-04,2016-12-04,1,1
+Morrisville,Cary,0 days 00:11:00,3.4,Business,Customer Visit,11.0,12.0,4.0,20.0,6.0,Sunday,2016-12-04,2016-12-04,0,1
+Cary,Cary,0 days 00:13:00,4.1,Business,,13.0,12.0,5.0,18.0,0.0,Monday,2016-12-05,2016-12-05,1,0
+Cary,Cary,0 days 00:15:00,3.8,Business,Meal/Entertain,15.0,12.0,5.0,19.0,0.0,Monday,2016-12-05,2016-12-05,1,0
+Cary,Cary,0 days 00:29:00,6.6,Business,Meeting,29.0,12.0,7.0,12.0,2.0,Wednesday,2016-12-07,2016-12-07,0,0
+Cary,Cary,0 days 00:11:00,4.0,Business,Meeting,11.0,12.0,7.0,12.0,2.0,Wednesday,2016-12-07,2016-12-07,0,0
+Cary,Cary,0 days 00:20:00,7.0,Business,Customer Visit,20.0,12.0,7.0,19.0,2.0,Wednesday,2016-12-07,2016-12-07,1,0
+Cary,Cary,0 days 00:37:00,6.9,Business,Meal/Entertain,37.0,12.0,7.0,21.0,2.0,Wednesday,2016-12-07,2016-12-07,0,0
+Cary,Cary,0 days 00:13:00,3.4,Business,Errand/Supplies,13.0,12.0,8.0,14.0,3.0,Thursday,2016-12-08,2016-12-08,0,0
+Cary,Cary,0 days 00:09:00,3.4,Business,Errand/Supplies,9.0,12.0,8.0,14.0,3.0,Thursday,2016-12-08,2016-12-08,0,0
+Cary,Cary,0 days 00:05:00,2.0,Business,Meeting,5.0,12.0,8.0,19.0,3.0,Thursday,2016-12-08,2016-12-08,1,0
+Cary,Cary,0 days 00:05:00,2.0,Business,Errand/Supplies,5.0,12.0,8.0,21.0,3.0,Thursday,2016-12-08,2016-12-08,0,0
+Cary,Apex,0 days 00:15:00,5.1,Business,Errand/Supplies,15.0,12.0,9.0,12.0,4.0,Friday,2016-12-09,2016-12-09,0,0
+Apex,Cary,0 days 00:28:00,8.8,Business,Temporary Site,28.0,12.0,9.0,13.0,4.0,Friday,2016-12-09,2016-12-09,0,0
+Cary,Cary,0 days 00:23:00,5.6,Business,Meeting,23.0,12.0,9.0,20.0,4.0,Friday,2016-12-09,2016-12-09,0,0
+Cary,Cary,0 days 00:54:00,18.9,Business,Customer Visit,54.0,12.0,9.0,22.0,4.0,Friday,2016-12-09,2016-12-09,0,0
+Cary,Fuquay-Varina,0 days 00:33:00,15.6,Business,Meeting,33.0,12.0,10.0,12.0,5.0,Saturday,2016-12-10,2016-12-10,0,1
+Fuquay-Varina,Cary,0 days 00:36:00,15.6,Business,Errand/Supplies,36.0,12.0,10.0,14.0,5.0,Saturday,2016-12-10,2016-12-10,0,1
+Cary,Morrisville,0 days 00:10:00,3.0,Business,Meal/Entertain,10.0,12.0,10.0,18.0,5.0,Saturday,2016-12-10,2016-12-10,1,1
+Morrisville,Cary,0 days 00:12:00,3.1,Business,Customer Visit,12.0,12.0,10.0,22.0,5.0,Saturday,2016-12-10,2016-12-10,0,1
+Cary,Morrisville,0 days 00:10:00,3.0,Business,Meal/Entertain,10.0,12.0,11.0,16.0,6.0,Sunday,2016-12-11,2016-12-11,0,1
+Morrisville,Cary,0 days 00:10:00,4.8,Business,Errand/Supplies,10.0,12.0,11.0,19.0,6.0,Sunday,2016-12-11,2016-12-11,1,1
+Cary,Cary,0 days 00:08:00,2.1,Business,Errand/Supplies,8.0,12.0,11.0,21.0,6.0,Sunday,2016-12-11,2016-12-11,0,1
+Cary,Cary,0 days 00:10:00,3.1,Business,Errand/Supplies,10.0,12.0,12.0,13.0,0.0,Monday,2016-12-12,2016-12-12,0,0
+Cary,Apex,0 days 00:15:00,4.4,Business,Meal/Entertain,15.0,12.0,12.0,13.0,0.0,Monday,2016-12-12,2016-12-12,0,0
+Apex,Cary,0 days 00:13:00,4.7,Business,Customer Visit,13.0,12.0,12.0,14.0,0.0,Monday,2016-12-12,2016-12-12,0,0
+Cary,Morrisville,0 days 00:10:00,3.0,Business,Meal/Entertain,10.0,12.0,12.0,17.0,0.0,Monday,2016-12-12,2016-12-12,1,0
+Morrisville,Cary,0 days 00:09:00,3.0,Business,Customer Visit,9.0,12.0,12.0,20.0,0.0,Monday,2016-12-12,2016-12-12,0,0
+Cary,Cary,0 days 00:10:00,4.2,Business,Errand/Supplies,10.0,12.0,13.0,18.0,1.0,Tuesday,2016-12-13,2016-12-13,1,0
+Cary,Cary,0 days 00:09:00,4.1,Business,Meal/Entertain,9.0,12.0,13.0,20.0,1.0,Tuesday,2016-12-13,2016-12-13,0,0
+Cary,Cary,0 days 00:18:00,3.4,Business,,18.0,12.0,14.0,16.0,2.0,Wednesday,2016-12-14,2016-12-14,0,0
+Cary,Cary,0 days 00:12:00,3.3,Business,,12.0,12.0,14.0,17.0,2.0,Wednesday,2016-12-14,2016-12-14,1,0
+Cary,Morrisville,0 days 00:10:00,3.0,Business,Meal/Entertain,10.0,12.0,14.0,17.0,2.0,Wednesday,2016-12-14,2016-12-14,1,0
+Morrisville,Cary,0 days 00:16:00,3.1,Business,Customer Visit,16.0,12.0,14.0,20.0,2.0,Wednesday,2016-12-14,2016-12-14,0,0
+Cary,Morrisville,0 days 00:34:00,10.6,Business,Meeting,34.0,12.0,15.0,14.0,3.0,Thursday,2016-12-15,2016-12-15,0,0
+Unknown Location,Unknown Location,0 days 00:34:00,4.8,Business,Airport/Travel,34.0,12.0,17.0,15.0,5.0,Saturday,2016-12-17,2016-12-17,0,1
+Unknown Location,Unknown Location,0 days 00:40:00,5.3,Business,Temporary Site,40.0,12.0,17.0,17.0,5.0,Saturday,2016-12-17,2016-12-17,1,1
+Unknown Location,Unknown Location,0 days 00:38:00,4.9,Business,Errand/Supplies,38.0,12.0,18.0,13.0,6.0,Sunday,2016-12-18,2016-12-18,0,1
+Unknown Location,Unknown Location,0 days 00:47:00,10.2,Business,Errand/Supplies,47.0,12.0,18.0,16.0,6.0,Sunday,2016-12-18,2016-12-18,0,1
+Unknown Location,Unknown Location,0 days 00:29:00,9.2,Business,,29.0,12.0,18.0,20.0,6.0,Sunday,2016-12-18,2016-12-18,0,1
+Unknown Location,Islamabad,0 days 00:28:00,7.7,Business,Errand/Supplies,28.0,12.0,19.0,9.0,0.0,Monday,2016-12-19,2016-12-19,1,0
+Islamabad,Rawalpindi,0 days 00:19:00,5.9,Business,Temporary Site,19.0,12.0,19.0,10.0,0.0,Monday,2016-12-19,2016-12-19,0,0
+Rawalpindi,Unknown Location,0 days 00:04:00,0.7,Business,Errand/Supplies,4.0,12.0,19.0,13.0,0.0,Monday,2016-12-19,2016-12-19,0,0
+Unknown Location,Unknown Location,0 days 00:11:00,1.3,Business,,11.0,12.0,19.0,13.0,0.0,Monday,2016-12-19,2016-12-19,0,0
+Unknown Location,Unknown Location,0 days 00:08:00,2.5,Business,,8.0,12.0,19.0,14.0,0.0,Monday,2016-12-19,2016-12-19,0,0
+Unknown Location,Unknown Location,0 days 00:14:00,5.3,Business,,14.0,12.0,19.0,14.0,0.0,Monday,2016-12-19,2016-12-19,0,0
+Unknown Location,Unknown Location,0 days 00:13:00,5.4,Business,,13.0,12.0,19.0,14.0,0.0,Monday,2016-12-19,2016-12-19,0,0
+Unknown Location,Rawalpindi,0 days 00:29:00,10.2,Business,Customer Visit,29.0,12.0,19.0,15.0,0.0,Monday,2016-12-19,2016-12-19,0,0
+Rawalpindi,Islamabad,0 days 00:19:00,7.2,Business,Customer Visit,19.0,12.0,19.0,16.0,0.0,Monday,2016-12-19,2016-12-19,0,0
+Islamabad,Unknown Location,0 days 00:12:00,2.2,Business,,12.0,12.0,19.0,19.0,0.0,Monday,2016-12-19,2016-12-19,1,0
+Unknown Location,Unknown Location,0 days 00:35:00,11.0,Business,Meeting,35.0,12.0,19.0,19.0,0.0,Monday,2016-12-19,2016-12-19,1,0
+Unknown Location,Rawalpindi,0 days 00:35:00,12.0,Business,,35.0,12.0,20.0,8.0,1.0,Tuesday,2016-12-20,2016-12-20,1,0
+Rawalpindi,Rawalpindi,0 days 00:18:00,3.3,Business,Errand/Supplies,18.0,12.0,20.0,10.0,1.0,Tuesday,2016-12-20,2016-12-20,0,0
+Rawalpindi,Unknown Location,0 days 00:47:00,19.4,Business,Meeting,47.0,12.0,20.0,11.0,1.0,Tuesday,2016-12-20,2016-12-20,0,0
+Unknown Location,Unknown Location,0 days 00:06:00,1.7,Business,Errand/Supplies,6.0,12.0,20.0,13.0,1.0,Tuesday,2016-12-20,2016-12-20,0,0
+Unknown Location,Islamabad,0 days 00:23:00,5.7,Business,Temporary Site,23.0,12.0,20.0,13.0,1.0,Tuesday,2016-12-20,2016-12-20,0,0
+Islamabad,Islamabad,0 days 00:10:00,1.8,Business,Errand/Supplies,10.0,12.0,20.0,16.0,1.0,Tuesday,2016-12-20,2016-12-20,0,0
+Islamabad,Islamabad,0 days 00:11:00,1.4,Business,Errand/Supplies,11.0,12.0,20.0,16.0,1.0,Tuesday,2016-12-20,2016-12-20,0,0
+Islamabad,Unknown Location,0 days 00:34:00,10.3,Business,Customer Visit,34.0,12.0,20.0,18.0,1.0,Tuesday,2016-12-20,2016-12-20,1,0
+Unknown Location,Unknown Location,0 days 00:28:00,11.5,Business,Meeting,28.0,12.0,21.0,7.0,2.0,Wednesday,2016-12-21,2016-12-21,1,0
+Unknown Location,Islamabad,0 days 00:16:00,4.9,Business,Errand/Supplies,16.0,12.0,21.0,10.0,2.0,Wednesday,2016-12-21,2016-12-21,0,0
+Islamabad,Unknown Location,0 days 00:14:00,3.5,Business,Meal/Entertain,14.0,12.0,21.0,11.0,2.0,Wednesday,2016-12-21,2016-12-21,0,0
+Unknown Location,Unknown Location,0 days 00:42:00,16.2,Business,Meeting,42.0,12.0,21.0,12.0,2.0,Wednesday,2016-12-21,2016-12-21,0,0
+Unknown Location,Unknown Location,0 days 00:11:00,2.0,Business,Errand/Supplies,11.0,12.0,21.0,15.0,2.0,Wednesday,2016-12-21,2016-12-21,0,0
+Unknown Location,Islamabad,0 days 00:10:00,2.1,Business,Errand/Supplies,10.0,12.0,21.0,15.0,2.0,Wednesday,2016-12-21,2016-12-21,0,0
+Islamabad,Islamabad,0 days 00:09:00,2.1,Business,Meeting,9.0,12.0,21.0,17.0,2.0,Wednesday,2016-12-21,2016-12-21,1,0
+Islamabad,Unknown Location,0 days 00:32:00,7.2,Business,Customer Visit,32.0,12.0,21.0,17.0,2.0,Wednesday,2016-12-21,2016-12-21,1,0
+Unknown Location,Rawalpindi,0 days 00:46:00,12.0,Business,Meeting,46.0,12.0,21.0,19.0,2.0,Wednesday,2016-12-21,2016-12-21,1,0
+Rawalpindi,Unknown Location,0 days 02:46:00,103.0,Business,Meeting,166.0,12.0,21.0,20.0,2.0,Wednesday,2016-12-21,2016-12-21,0,0
+Unknown Location,Unknown Location,0 days 00:58:00,32.3,Business,Meeting,58.0,12.0,22.0,15.0,3.0,Thursday,2016-12-22,2016-12-22,0,0
+Unknown Location,Unknown Location,0 days 00:16:00,5.3,Business,Customer Visit,16.0,12.0,22.0,17.0,3.0,Thursday,2016-12-22,2016-12-22,1,0
+Unknown Location,Unknown Location,0 days 00:26:00,11.6,Business,Meeting,26.0,12.0,22.0,17.0,3.0,Thursday,2016-12-22,2016-12-22,1,0
+Unknown Location,Unknown Location,0 days 00:33:00,23.2,Business,Meeting,33.0,12.0,22.0,17.0,3.0,Thursday,2016-12-22,2016-12-22,1,0
+Unknown Location,Unknown Location,0 days 00:06:00,3.2,Business,Errand/Supplies,6.0,12.0,22.0,18.0,3.0,Thursday,2016-12-22,2016-12-22,1,0
+Unknown Location,Unknown Location,0 days 00:09:00,12.3,Business,Temporary Site,9.0,12.0,22.0,18.0,3.0,Thursday,2016-12-22,2016-12-22,1,0
+Unknown Location,Lahore,0 days 00:46:00,14.0,Business,Meeting,46.0,12.0,22.0,19.0,3.0,Thursday,2016-12-22,2016-12-22,1,0
+Lahore,Lahore,0 days 00:12:00,2.1,Business,Meal/Entertain,12.0,12.0,22.0,21.0,3.0,Thursday,2016-12-22,2016-12-22,0,0
+Lahore,Lahore,0 days 00:05:00,2.1,Business,Customer Visit,5.0,12.0,22.0,23.0,3.0,Thursday,2016-12-22,2016-12-22,0,0
+Lahore,Lahore,0 days 00:20:00,3.0,Business,Meeting,20.0,12.0,23.0,9.0,4.0,Friday,2016-12-23,2016-12-23,1,0
+Lahore,Unknown Location,0 days 00:25:00,6.2,Business,Meeting,25.0,12.0,23.0,11.0,4.0,Friday,2016-12-23,2016-12-23,0,0
+Unknown Location,Unknown Location,0 days 01:10:00,9.6,Business,Meeting,70.0,12.0,23.0,14.0,4.0,Friday,2016-12-23,2016-12-23,0,0
+Unknown Location,Unknown Location,0 days 00:11:00,1.3,Business,Errand/Supplies,11.0,12.0,23.0,16.0,4.0,Friday,2016-12-23,2016-12-23,0,0
+Unknown Location,Lahore,0 days 00:53:00,7.1,Business,Meal/Entertain,53.0,12.0,23.0,17.0,4.0,Friday,2016-12-23,2016-12-23,1,0
+Lahore,Unknown Location,0 days 00:21:00,6.3,Business,Meal/Entertain,21.0,12.0,24.0,7.0,5.0,Saturday,2016-12-24,2016-12-24,1,1
+Unknown Location,Lahore,0 days 00:36:00,10.7,Business,Meal/Entertain,36.0,12.0,24.0,9.0,5.0,Saturday,2016-12-24,2016-12-24,1,1
+Lahore,Lahore,0 days 00:19:00,5.3,Business,Meal/Entertain,19.0,12.0,24.0,10.0,5.0,Saturday,2016-12-24,2016-12-24,0,1
+Lahore,Lahore,0 days 00:02:00,1.6,Business,Errand/Supplies,2.0,12.0,24.0,12.0,5.0,Saturday,2016-12-24,2016-12-24,0,1
+Lahore,Lahore,0 days 00:21:00,3.6,Business,Errand/Supplies,21.0,12.0,24.0,13.0,5.0,Saturday,2016-12-24,2016-12-24,0,1
+Lahore,Lahore,0 days 00:15:00,1.7,Business,Errand/Supplies,15.0,12.0,24.0,17.0,5.0,Saturday,2016-12-24,2016-12-24,1,1
+Lahore,Lahore,0 days 00:15:00,2.9,Business,Meal/Entertain,15.0,12.0,24.0,19.0,5.0,Saturday,2016-12-24,2016-12-24,1,1
+Lahore,Lahore,0 days 00:05:00,0.6,Business,Errand/Supplies,5.0,12.0,24.0,22.0,5.0,Saturday,2016-12-24,2016-12-24,0,1
+Lahore,Lahore,0 days 00:04:00,0.6,Business,Errand/Supplies,4.0,12.0,25.0,0.0,6.0,Sunday,2016-12-25,2016-12-25,0,1
+Lahore,Lahore,0 days 00:11:00,2.3,Business,Meal/Entertain,11.0,12.0,25.0,19.0,6.0,Sunday,2016-12-25,2016-12-25,1,1
+Lahore,Lahore,0 days 00:06:00,2.3,Business,Meal/Entertain,6.0,12.0,25.0,21.0,6.0,Sunday,2016-12-25,2016-12-25,0,1
+Lahore,Lahore,0 days 00:11:00,3.2,Business,Meal/Entertain,11.0,12.0,26.0,8.0,0.0,Monday,2016-12-26,2016-12-26,1,0
+Lahore,Lahore,0 days 00:14:00,6.2,Business,Customer Visit,14.0,12.0,26.0,9.0,0.0,Monday,2016-12-26,2016-12-26,1,0
+Lahore,Lahore,0 days 00:21:00,7.7,Business,Customer Visit,21.0,12.0,26.0,10.0,0.0,Monday,2016-12-26,2016-12-26,0,0
+Lahore,Lahore,0 days 00:13:00,3.8,Business,Customer Visit,13.0,12.0,26.0,11.0,0.0,Monday,2016-12-26,2016-12-26,0,0
+Lahore,Unknown Location,0 days 00:34:00,7.9,Business,Meeting,34.0,12.0,26.0,13.0,0.0,Monday,2016-12-26,2016-12-26,0,0
+Karachi,Karachi,0 days 00:12:00,4.9,Business,Temporary Site,12.0,12.0,27.0,7.0,1.0,Tuesday,2016-12-27,2016-12-27,1,0
+Karachi,Karachi,0 days 00:22:00,5.0,Business,Meal/Entertain,22.0,12.0,27.0,8.0,1.0,Tuesday,2016-12-27,2016-12-27,1,0
+Karachi,Karachi,0 days 00:04:00,0.6,Business,Meal/Entertain,4.0,12.0,27.0,12.0,1.0,Tuesday,2016-12-27,2016-12-27,0,0
+Karachi,Unknown Location,0 days 00:14:00,3.1,Business,Customer Visit,14.0,12.0,27.0,14.0,1.0,Tuesday,2016-12-27,2016-12-27,0,0
+Unknown Location,Karachi,0 days 00:24:00,7.9,Business,Meeting,24.0,12.0,27.0,16.0,1.0,Tuesday,2016-12-27,2016-12-27,0,0
+Karachi,Karachi,0 days 00:31:00,5.5,Business,Customer Visit,31.0,12.0,27.0,19.0,1.0,Tuesday,2016-12-27,2016-12-27,1,0
+Karachi,Unknown Location,0 days 00:32:00,10.3,Business,Meal/Entertain,32.0,12.0,28.0,8.0,2.0,Wednesday,2016-12-28,2016-12-28,1,0
+Unknown Location,Karachi,0 days 00:30:00,10.4,Business,Errand/Supplies,30.0,12.0,28.0,11.0,2.0,Wednesday,2016-12-28,2016-12-28,0,0
+Karachi,Karachi,0 days 00:08:00,2.0,Business,Errand/Supplies,8.0,12.0,28.0,13.0,2.0,Wednesday,2016-12-28,2016-12-28,0,0
+Karachi,Unknown Location,0 days 00:35:00,8.5,Business,Meal/Entertain,35.0,12.0,28.0,15.0,2.0,Wednesday,2016-12-28,2016-12-28,0,0
+Unknown Location,Karachi,0 days 00:14:00,4.4,Business,Errand/Supplies,14.0,12.0,28.0,17.0,2.0,Wednesday,2016-12-28,2016-12-28,1,0
+Karachi,Karachi,0 days 00:23:00,3.8,Business,Errand/Supplies,23.0,12.0,28.0,18.0,2.0,Wednesday,2016-12-28,2016-12-28,1,0
+Karachi,Karachi,0 days 00:34:00,5.1,Business,Errand/Supplies,34.0,12.0,28.0,22.0,2.0,Wednesday,2016-12-28,2016-12-28,0,0
+Karachi,Karachi,0 days 00:17:00,3.8,Business,Errand/Supplies,17.0,12.0,29.0,0.0,3.0,Thursday,2016-12-29,2016-12-29,0,0
+Karachi,Unknown Location,0 days 00:23:00,11.6,Business,Meal/Entertain,23.0,12.0,29.0,9.0,3.0,Thursday,2016-12-29,2016-12-29,1,0
+Unknown Location,Karachi,0 days 00:32:00,11.9,Business,Meal/Entertain,32.0,12.0,29.0,11.0,3.0,Thursday,2016-12-29,2016-12-29,0,0
+Karachi,Karachi,0 days 00:08:00,1.4,Business,Errand/Supplies,8.0,12.0,29.0,12.0,3.0,Thursday,2016-12-29,2016-12-29,0,0
+Karachi,Karachi,0 days 00:07:00,1.1,Business,Errand/Supplies,7.0,12.0,29.0,13.0,3.0,Thursday,2016-12-29,2016-12-29,0,0
+Karachi,Karachi,0 days 00:15:00,4.1,Business,Airport/Travel,15.0,12.0,29.0,13.0,3.0,Thursday,2016-12-29,2016-12-29,0,0
+Karachi,Karachi,0 days 00:16:00,6.1,Business,Between Offices,16.0,12.0,29.0,14.0,3.0,Thursday,2016-12-29,2016-12-29,0,0
+Karachi,Karachi,0 days 00:11:00,1.3,Business,Errand/Supplies,11.0,12.0,29.0,15.0,3.0,Thursday,2016-12-29,2016-12-29,0,0
+Karachi,Unknown Location,0 days 00:15:00,3.0,Business,Meal/Entertain,15.0,12.0,29.0,18.0,3.0,Thursday,2016-12-29,2016-12-29,1,0
+Unknown Location,Karachi,0 days 00:20:00,4.1,Business,Customer Visit,20.0,12.0,29.0,19.0,3.0,Thursday,2016-12-29,2016-12-29,1,0
+Karachi,Karachi,0 days 00:30:00,7.2,Business,Meeting,30.0,12.0,29.0,20.0,3.0,Thursday,2016-12-29,2016-12-29,0,0
+Karachi,Unknown Location,0 days 00:49:00,6.4,Business,,49.0,12.0,29.0,20.0,3.0,Thursday,2016-12-29,2016-12-29,0,0
+Unknown Location,Karachi,0 days 00:33:00,12.9,Business,Meeting,33.0,12.0,29.0,23.0,3.0,Thursday,2016-12-29,2016-12-29,0,0
+Karachi,Karachi,0 days 00:18:00,2.8,Business,Errand/Supplies,18.0,12.0,30.0,10.0,4.0,Friday,2016-12-30,2016-12-30,0,0
+Karachi,Karachi,0 days 00:25:00,2.9,Business,Errand/Supplies,25.0,12.0,30.0,11.0,4.0,Friday,2016-12-30,2016-12-30,0,0
+Karachi,Karachi,0 days 00:22:00,4.6,Business,Errand/Supplies,22.0,12.0,30.0,15.0,4.0,Friday,2016-12-30,2016-12-30,0,0
+Karachi,Karachi,0 days 00:23:00,4.6,Business,Meeting,23.0,12.0,30.0,16.0,4.0,Friday,2016-12-30,2016-12-30,0,0
+Karachi,Karachi,0 days 00:04:00,0.8,Business,Customer Visit,4.0,12.0,30.0,23.0,4.0,Friday,2016-12-30,2016-12-30,0,0
+Karachi,Karachi,0 days 00:07:00,0.7,Business,Meeting,7.0,12.0,31.0,1.0,5.0,Saturday,2016-12-31,2016-12-31,0,1
+Karachi,Unknown Location,0 days 00:18:00,3.9,Business,Temporary Site,18.0,12.0,31.0,13.0,5.0,Saturday,2016-12-31,2016-12-31,0,1
+Unknown Location,Unknown Location,0 days 00:35:00,16.2,Business,Meeting,35.0,12.0,31.0,15.0,5.0,Saturday,2016-12-31,2016-12-31,0,1
+Katunayake,Gampaha,0 days 00:18:00,6.4,Business,Temporary Site,18.0,12.0,31.0,21.0,5.0,Saturday,2016-12-31,2016-12-31,0,1
+Gampaha,Ilukwatta,0 days 01:43:00,48.2,Business,Temporary Site,103.0,12.0,31.0,22.0,5.0,Saturday,2016-12-31,2016-12-31,0,1
